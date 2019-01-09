@@ -1,0 +1,43 @@
+//SORTING SCHEME JAN-9-2019
+
+
+function setup() {
+  var cnv = createCanvas(800, 800);
+  cnv.position((windowWidth-width)/2, 30);
+  background(5, 5, 5);
+  fill(200, 30, 150);
+
+
+}
+
+//  The draw function is called @ 30 fps
+function draw() {
+
+}
+
+
+
+
+
+/* 	SORTING SCHEME DEVISED JAN 9 
+//FUNCTION SPLITS ARRAY 1/2 
+
+//SORTING SCHEME:
+//LARGER NUMBERS PUSHED TO HIGHER POSITION IN ARRAY
+//SMALLER NUMBERS PUSHED TO LOWER 		"
+
+
+//SPLIT SECTIONS SPLIT AGAIN 1/2 EACH MAKING 4 1/4 SIZED ELEMENTS
+//SORTING SCHEME
+
+//SPLIT SECTIONS SPLIT AGAIN 1/2 EACH MAKING 8 1/8 
+//SORTING SCHEME
+//REPEATS UNTIL EACH SECTION IS ONE NUMBER LONG
+
+//IF ARRAY CANNOT BE SPLIT EVENLY, FAKE NUMBERS CAN BE PUT IN 
+//I.E. PLACEHOLDERS THAT CAN BE TAKEN OUT LATER
+
+Splitting Method:  partition method
+
+
+*/ 
