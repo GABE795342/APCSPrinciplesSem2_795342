@@ -1,6 +1,7 @@
 var b;
 var insertionsorter;
 var numbarray = [];
+var randonumber;
 function setup() {
  /* var cnv = createCanvas(800, 800);
   cnv.position((windowWidth-width)/2, 30);
@@ -9,21 +10,37 @@ function setup() {
  
 
 */ //unused setup normally reserved for visual/graphics
-  var b = new insertionsorter(numbarray)
+  new insertionsorter(numbarray)
+ 
 }
 
 
 function draw() {
 
 }
+function numbarraygenerator (length){
+	for(var k = 0; k <length; k++){
+		var randonumber = random(0,9);
+		array.push(length);
+		console.log(randonumber);
+		
+		
+		
+		
+	}
+	
+	
+}
+
+
 
 
 function insertionsorter (array){
-	for(var i = 1; i < arr.length; i++){
+	for(var i = 1; i < array.length; i++){
 		for(var j= i; j > 0; j--){
-			var temp = arr[j];
-			arr[j] = arr[j-1];
-			arr[j-1] = temp;
+			var temp = array[j];
+			array[j] = array[j-1];
+			array[j-1] = temp;
 			
 		}
 	}
