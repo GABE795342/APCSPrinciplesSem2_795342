@@ -11,9 +11,9 @@ function setup() {
  
 
 */ //unused setup normally reserved for visual/graphics
-  new insertionsorter(numbarray)
+
   new numbarraygenerator(10)
- 
+  new insertionsorter(numbarray) 
 }
 
 function draw() {
