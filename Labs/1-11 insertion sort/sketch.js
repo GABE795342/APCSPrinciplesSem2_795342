@@ -33,7 +33,8 @@ function numbarraygenerator (length){
 
 function insertionsorter (numbarray){
 	for(var i = 1; i < numbarray.length; i++){
-		for(var j= i; j > 0; j--){
+		for(var j = i; j > 0; j--){
+			
 			var temp = numbarray[j];
 			numbarray[j] = numbarray[j-1];
 			numbarray[j-1] = temp;
@@ -41,5 +42,5 @@ function insertionsorter (numbarray){
 		}
 	}
 	
-	console.log //console log the sorted results
+	console.log(numbarray) //console log the sorted results
 }
