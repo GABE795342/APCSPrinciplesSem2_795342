@@ -33,14 +33,18 @@ function insertionsorter (numbarray){
 	for(var i = 1; i < numbarray.length; i++){
 		for(var j = i; j > 0; j--){
 		//	if numbarray[j-1] > numbarray[j]{
-			
-			
-			
-			
-			
+			if(numbarray[j-1] > numbarray[j]){
 				var temp = numbarray[j];
-		     	numbarray[j] = numbarray[j-1];
-			    numbarray[j-1] = temp;
+				numbarray[j] = numbarray[j-1];
+				numbarray[j-1] = temp;
+				
+				
+			}
+			
+			
+			
+			
+			
 				
 				
 			//}
