@@ -16,8 +16,8 @@ function setup() {
   background(5, 5, 5);
   fill(200, 30, 150);
 */ //unused setup normally reserved for visual/graphics
-  new numbarraygenerator(50)
-  new insertionsorter(numbarray) 
+  new numbarraygenerator(50)           
+  new insertionsorter(numbarray)           
 }
 
 function draw() {
@@ -48,7 +48,7 @@ function insertionsorter (numbarray){ //sorting function
 			
 		}
 	}
-	
+	                                                       
 	console.log(numbarray) //console log the sorted results
 	var a1 = performance.now(); //logs the end of the sorting routine to measure time
 	console.log("total elapsed time of whole program " + (a1 - a9) + " milliseconds");
