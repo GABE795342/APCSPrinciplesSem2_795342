@@ -6,6 +6,7 @@ var temp;
 var i;
 var j;
 var t;
+var s;
 
 
 
@@ -22,6 +23,7 @@ function setup() {
   //textSize(fontsize);
   //textAlign(center,center);
   let t = numbarray.n;
+  let s = numbarray.n;
 }
 //function preload(){
 //	font = loadFont('courier.otf');
@@ -41,17 +43,20 @@ function draw() {
 	textSize(40);
 	textFont("Georgia");
 	text("Original numbers", 50, 50);
+	let s = numbarray.n
 	for(n=0; n> numbarray.length; n++ ){
 		//let t = numbarray.n;
-		text(numbarray.n, 50+(20*n), 100);
-		
-		
+
+		text(s, 50,  ((20 * n) + 50      )    );	
 	}
 	text(" ", 50, 600);
-	text("Sorted numbers", 50, 200);
-	
-	
+	text("Sorted numbers", 400, 50);
 }
+
+
+
+
+
 //function drawWords(x){
 //	fill (255);
 //	text('test text');

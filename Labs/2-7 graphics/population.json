@@ -1,0 +1,3782 @@
+{
+  "countrydata":[
+    {
+      "females": 234287,
+      "country": "Afghanistan",
+      "age": 18,
+      "males": 253807,
+      "year": 2004,
+      "total": 488092
+    },
+    {
+      "females": 9491914,
+      "country": "AFRICA",
+      "age": 18,
+      "males": 9626947,
+      "year": 2004,
+      "total": 19118867
+    },
+    {
+      "females": 30762,
+      "country": "Albania",
+      "age": 18,
+      "males": 30186,
+      "year": 2004,
+      "total": 60949
+    },
+    {
+      "females": 382160,
+      "country": "Algeria",
+      "age": 18,
+      "males": 397475,
+      "year": 2004,
+      "total": 779634
+    },
+    {
+      "females": 176680,
+      "country": "Angola",
+      "age": 18,
+      "males": 173771,
+      "year": 2004,
+      "total": 350450
+    },
+    {
+      "females": 711,
+      "country": "Antigua and Barbuda",
+      "age": 18,
+      "males": 636,
+      "year": 2004,
+      "total": 1347
+    },
+    {
+      "females": 822953,
+      "country": "Arab Rep of Egypt",
+      "age": 18,
+      "males": 864574,
+      "year": 2004,
+      "total": 1687529
+    },
+    {
+      "females": 326686,
+      "country": "Argentina",
+      "age": 18,
+      "males": 335517,
+      "year": 2004,
+      "total": 662204
+    },
+    {
+      "females": 30250,
+      "country": "Armenia",
+      "age": 18,
+      "males": 31860,
+      "year": 2004,
+      "total": 62121
+    },
+    {
+      "females": 687,
+      "country": "Aruba",
+      "age": 18,
+      "males": 665,
+      "year": 2004,
+      "total": 1352
+    },
+    {
+      "females": 36900278,
+      "country": "ASIA",
+      "age": 18,
+      "males": 39136010,
+      "year": 2004,
+      "total": 76036100
+    },
+    {
+      "females": 134887,
+      "country": "Australia",
+      "age": 18,
+      "males": 142460,
+      "year": 2004,
+      "total": 277348
+    },
+    {
+      "females": 164249,
+      "country": "Australia/New Zealand",
+      "age": 18,
+      "males": 172643,
+      "year": 2004,
+      "total": 336895
+    },
+    {
+      "females": 48587,
+      "country": "Austria",
+      "age": 18,
+      "males": 50604,
+      "year": 2004,
+      "total": 99190
+    },
+    {
+      "females": 90789,
+      "country": "Azerbaijan",
+      "age": 18,
+      "males": 91474,
+      "year": 2004,
+      "total": 182264
+    },
+    {
+      "females": 2902,
+      "country": "The Bahamas",
+      "age": 18,
+      "males": 2904,
+      "year": 2004,
+      "total": 5806
+    },
+    {
+      "females": 5383,
+      "country": "Bahrain",
+      "age": 18,
+      "males": 7370,
+      "year": 2004,
+      "total": 12751
+    },
+    {
+      "females": 1482955,
+      "country": "Bangladesh",
+      "age": 18,
+      "males": 1544568,
+      "year": 2004,
+      "total": 3027521
+    },
+    {
+      "females": 1949,
+      "country": "Barbados",
+      "age": 18,
+      "males": 1965,
+      "year": 2004,
+      "total": 3913
+    },
+    {
+      "females": 77298,
+      "country": "Belarus",
+      "age": 18,
+      "males": 81038,
+      "year": 2004,
+      "total": 158335
+    },
+    {
+      "females": 61564,
+      "country": "Belgium",
+      "age": 18,
+      "males": 63873,
+      "year": 2004,
+      "total": 125438
+    },
+    {
+      "females": 2861,
+      "country": "Belize",
+      "age": 18,
+      "males": 2905,
+      "year": 2004,
+      "total": 5766
+    },
+    {
+      "females": 81171,
+      "country": "Benin",
+      "age": 18,
+      "males": 80652,
+      "year": 2004,
+      "total": 161823
+    },
+    {
+      "females": 7253,
+      "country": "Bhutan",
+      "age": 18,
+      "males": 7907,
+      "year": 2004,
+      "total": 15161
+    },
+    {
+      "females": 91152,
+      "country": "Bolivia",
+      "age": 18,
+      "males": 93107,
+      "year": 2004,
+      "total": 184259
+    },
+    {
+      "females": 29357,
+      "country": "Bosnia and Herzegovina",
+      "age": 18,
+      "males": 31097,
+      "year": 2004,
+      "total": 60454
+    },
+    {
+      "females": 21788,
+      "country": "Botswana",
+      "age": 18,
+      "males": 22000,
+      "year": 2004,
+      "total": 43788
+    },
+    {
+      "females": 1778543,
+      "country": "Brazil",
+      "age": 18,
+      "males": 1826967,
+      "year": 2004,
+      "total": 3605510
+    },
+    {
+      "females": 3171,
+      "country": "Brunei Darussalam",
+      "age": 18,
+      "males": 3220,
+      "year": 2004,
+      "total": 6390
+    },
+    {
+      "females": 51151,
+      "country": "Bulgaria",
+      "age": 18,
+      "males": 54066,
+      "year": 2004,
+      "total": 105218
+    },
+    {
+      "females": 136634,
+      "country": "Burkina Faso",
+      "age": 18,
+      "males": 140396,
+      "year": 2004,
+      "total": 277031
+    },
+    {
+      "females": 91338,
+      "country": "Burundi",
+      "age": 18,
+      "males": 89151,
+      "year": 2004,
+      "total": 180489
+    },
+    {
+      "females": 175993,
+      "country": "Cote-d-Ivoire",
+      "age": 18,
+      "males": 177865,
+      "year": 2004,
+      "total": 353858
+    },
+    {
+      "females": 5759,
+      "country": "Cabo Verde",
+      "age": 18,
+      "males": 5929,
+      "year": 2004,
+      "total": 11688
+    },
+    {
+      "females": 164572,
+      "country": "Cambodia",
+      "age": 18,
+      "males": 167601,
+      "year": 2004,
+      "total": 332173
+    },
+    {
+      "females": 191376,
+      "country": "Cameroon",
+      "age": 18,
+      "males": 192855,
+      "year": 2004,
+      "total": 384230
+    },
+    {
+      "females": 211786,
+      "country": "Canada",
+      "age": 18,
+      "males": 223210,
+      "year": 2004,
+      "total": 434997
+    },
+    {
+      "females": 362039,
+      "country": "Caribbean",
+      "age": 18,
+      "males": 368862,
+      "year": 2004,
+      "total": 730904
+    },
+    {
+      "females": 42850,
+      "country": "Central African Republic",
+      "age": 18,
+      "males": 42062,
+      "year": 2004,
+      "total": 84913
+    },
+    {
+      "females": 1450083,
+      "country": "Central America",
+      "age": 18,
+      "males": 1477173,
+      "year": 2004,
+      "total": 2927257
+    },
+    {
+      "females": 641029,
+      "country": "Central Asia",
+      "age": 18,
+      "males": 648804,
+      "year": 2004,
+      "total": 1289840
+    },
+    {
+      "females": 97742,
+      "country": "Chad",
+      "age": 18,
+      "males": 99062,
+      "year": 2004,
+      "total": 196805
+    },
+    {
+      "females": 867,
+      "country": "Channel Islands",
+      "age": 18,
+      "males": 894,
+      "year": 2004,
+      "total": 1761
+    },
+    {
+      "females": 134142,
+      "country": "Chile",
+      "age": 18,
+      "males": 136930,
+      "year": 2004,
+      "total": 271071
+    },
+    {
+      "females": 11832280,
+      "country": "China",
+      "age": 18,
+      "males": 12686920,
+      "year": 2004,
+      "total": 24519200
+    },
+    {
+      "females": 45267,
+      "country": "Hong Kong SAR-China",
+      "age": 18,
+      "males": 45307,
+      "year": 2004,
+      "total": 90574
+    },
+    {
+      "females": 3850,
+      "country": "Macao SAR China",
+      "age": 18,
+      "males": 3642,
+      "year": 2004,
+      "total": 7491
+    },
+    {
+      "females": 414638,
+      "country": "Colombia",
+      "age": 18,
+      "males": 426931,
+      "year": 2004,
+      "total": 841568
+    },
+    {
+      "females": 6598,
+      "country": "Comoros",
+      "age": 18,
+      "males": 6784,
+      "year": 2004,
+      "total": 13383
+    },
+    {
+      "females": 34749,
+      "country": "Congo",
+      "age": 18,
+      "males": 35084,
+      "year": 2004,
+      "total": 69832
+    },
+    {
+      "females": 39654,
+      "country": "Costa Rica",
+      "age": 18,
+      "males": 41161,
+      "year": 2004,
+      "total": 80814
+    },
+    {
+      "females": 28867,
+      "country": "Croatia",
+      "age": 18,
+      "males": 30096,
+      "year": 2004,
+      "total": 58963
+    },
+    {
+      "females": 79778,
+      "country": "Cuba",
+      "age": 18,
+      "males": 83262,
+      "year": 2004,
+      "total": 163040
+    },
+    {
+      "females": 917,
+      "country": "Curacao",
+      "age": 18,
+      "males": 950,
+      "year": 2004,
+      "total": 1867
+    },
+    {
+      "females": 7837,
+      "country": "Cyprus",
+      "age": 18,
+      "males": 8840,
+      "year": 2004,
+      "total": 16679
+    },
+    {
+      "females": 64131,
+      "country": "Czech Republic",
+      "age": 18,
+      "males": 67257,
+      "year": 2004,
+      "total": 131393
+    },
+    {
+      "females": 186504,
+      "country": "Dem Peoples Rep of Korea",
+      "age": 18,
+      "males": 193871,
+      "year": 2004,
+      "total": 380375
+    },
+    {
+      "females": 544162,
+      "country": "Dem Rep of Congo",
+      "age": 18,
+      "males": 547467,
+      "year": 2004,
+      "total": 1091629
+    },
+    {
+      "females": 28624,
+      "country": "Denmark",
+      "age": 18,
+      "males": 30018,
+      "year": 2004,
+      "total": 58642
+    },
+    {
+      "females": 8574,
+      "country": "Djibouti",
+      "age": 18,
+      "males": 8735,
+      "year": 2004,
+      "total": 17308
+    },
+    {
+      "females": 91346,
+      "country": "Dominican Republic",
+      "age": 18,
+      "males": 91762,
+      "year": 2004,
+      "total": 183108
+    },
+    {
+      "females": 3121450,
+      "country": "Eastern Africa",
+      "age": 18,
+      "males": 3109883,
+      "year": 2004,
+      "total": 6231335
+    },
+    {
+      "females": 13272140,
+      "country": "Eastern Asia",
+      "age": 18,
+      "males": 14215840,
+      "year": 2004,
+      "total": 27487980
+    },
+    {
+      "females": 2409177,
+      "country": "Eastern Europe",
+      "age": 18,
+      "males": 2512214,
+      "year": 2004,
+      "total": 4921406
+    },
+    {
+      "females": 132732,
+      "country": "Ecuador",
+      "age": 18,
+      "males": 136612,
+      "year": 2004,
+      "total": 269345
+    },
+    {
+      "females": 58882,
+      "country": "El Salvador",
+      "age": 18,
+      "males": 56847,
+      "year": 2004,
+      "total": 115729
+    },
+    {
+      "females": 5742,
+      "country": "Equatorial Guinea",
+      "age": 18,
+      "males": 5806,
+      "year": 2004,
+      "total": 11548
+    },
+    {
+      "females": 52670,
+      "country": "Eritrea",
+      "age": 18,
+      "males": 53308,
+      "year": 2004,
+      "total": 105977
+    },
+    {
+      "females": 10128,
+      "country": "Estonia",
+      "age": 18,
+      "males": 10813,
+      "year": 2004,
+      "total": 20941
+    },
+    {
+      "females": 765157,
+      "country": "Ethiopia",
+      "age": 18,
+      "males": 770939,
+      "year": 2004,
+      "total": 1536096
+    },
+    {
+      "females": 4974711,
+      "country": "EUROPE",
+      "age": 18,
+      "males": 5197204,
+      "year": 2004,
+      "total": 10171930
+    },
+    {
+      "females": 1239,
+      "country": "Federated States of Micronesia",
+      "age": 18,
+      "males": 1372,
+      "year": 2004,
+      "total": 2612
+    },
+    {
+      "females": 7768,
+      "country": "Fiji",
+      "age": 18,
+      "males": 8223,
+      "year": 2004,
+      "total": 15989
+    },
+    {
+      "females": 31545,
+      "country": "Finland",
+      "age": 18,
+      "males": 33020,
+      "year": 2004,
+      "total": 64565
+    },
+    {
+      "females": 388974,
+      "country": "France",
+      "age": 18,
+      "males": 401684,
+      "year": 2004,
+      "total": 790661
+    },
+    {
+      "females": 1651,
+      "country": "French Guiana",
+      "age": 18,
+      "males": 1663,
+      "year": 2004,
+      "total": 3314
+    },
+    {
+      "females": 2539,
+      "country": "French Polynesia",
+      "age": 18,
+      "males": 2592,
+      "year": 2004,
+      "total": 5131
+    },
+    {
+      "females": 15900,
+      "country": "FYR Macedonia",
+      "age": 18,
+      "males": 16800,
+      "year": 2004,
+      "total": 32700
+    },
+    {
+      "females": 13866,
+      "country": "Gabon",
+      "age": 18,
+      "males": 14197,
+      "year": 2004,
+      "total": 28063
+    },
+    {
+      "females": 14772,
+      "country": "The Gambia",
+      "age": 18,
+      "males": 14265,
+      "year": 2004,
+      "total": 29036
+    },
+    {
+      "females": 38321,
+      "country": "Georgia",
+      "age": 18,
+      "males": 39066,
+      "year": 2004,
+      "total": 77390
+    },
+    {
+      "females": 470791,
+      "country": "Germany",
+      "age": 18,
+      "males": 491883,
+      "year": 2004,
+      "total": 962672
+    },
+    {
+      "females": 219538,
+      "country": "Ghana",
+      "age": 18,
+      "males": 222826,
+      "year": 2004,
+      "total": 442363
+    },
+    {
+      "females": 65386,
+      "country": "Greece",
+      "age": 18,
+      "males": 70038,
+      "year": 2004,
+      "total": 135425
+    },
+    {
+      "females": 1272,
+      "country": "Grenada",
+      "age": 18,
+      "males": 1312,
+      "year": 2004,
+      "total": 2583
+    },
+    {
+      "females": 2952,
+      "country": "Guadeloupe",
+      "age": 18,
+      "males": 3144,
+      "year": 2004,
+      "total": 6096
+    },
+    {
+      "females": 1271,
+      "country": "Guam",
+      "age": 18,
+      "males": 1294,
+      "year": 2004,
+      "total": 2565
+    },
+    {
+      "females": 138300,
+      "country": "Guatemala",
+      "age": 18,
+      "males": 137285,
+      "year": 2004,
+      "total": 275588
+    },
+    {
+      "females": 95050,
+      "country": "Guinea",
+      "age": 18,
+      "males": 96363,
+      "year": 2004,
+      "total": 191413
+    },
+    {
+      "females": 15305,
+      "country": "Guinea-Bissau",
+      "age": 18,
+      "males": 15218,
+      "year": 2004,
+      "total": 30524
+    },
+    {
+      "females": 5703,
+      "country": "Guyana",
+      "age": 18,
+      "males": 5636,
+      "year": 2004,
+      "total": 11340
+    },
+    {
+      "females": 102838,
+      "country": "Haiti",
+      "age": 18,
+      "males": 103732,
+      "year": 2004,
+      "total": 206570
+    },
+    {
+      "females": 73967,
+      "country": "Honduras",
+      "age": 18,
+      "males": 74226,
+      "year": 2004,
+      "total": 148193
+    },
+    {
+      "females": 62369,
+      "country": "Hungary",
+      "age": 18,
+      "males": 64907,
+      "year": 2004,
+      "total": 127278
+    },
+    {
+      "females": 2102,
+      "country": "Iceland",
+      "age": 18,
+      "males": 2204,
+      "year": 2004,
+      "total": 4306
+    },
+    {
+      "females": 10890100,
+      "country": "India",
+      "age": 18,
+      "males": 11775510,
+      "year": 2004,
+      "total": 22665600
+    },
+    {
+      "females": 2153846,
+      "country": "Indonesia",
+      "age": 18,
+      "males": 2203963,
+      "year": 2004,
+      "total": 4357813
+    },
+    {
+      "females": 940391,
+      "country": "Islamic Republic of Iran",
+      "age": 18,
+      "males": 964755,
+      "year": 2004,
+      "total": 1905162
+    },
+    {
+      "females": 271301,
+      "country": "Iraq",
+      "age": 18,
+      "males": 287678,
+      "year": 2004,
+      "total": 558977
+    },
+    {
+      "females": 31440,
+      "country": "Ireland",
+      "age": 18,
+      "males": 32869,
+      "year": 2004,
+      "total": 64308
+    },
+    {
+      "females": 52304,
+      "country": "Israel",
+      "age": 18,
+      "males": 54410,
+      "year": 2004,
+      "total": 106715
+    },
+    {
+      "females": 287754,
+      "country": "Italy",
+      "age": 18,
+      "males": 303697,
+      "year": 2004,
+      "total": 591446
+    },
+    {
+      "females": 24733,
+      "country": "Jamaica",
+      "age": 18,
+      "males": 25574,
+      "year": 2004,
+      "total": 50308
+    },
+    {
+      "females": 675903,
+      "country": "Japan",
+      "age": 18,
+      "males": 709199,
+      "year": 2004,
+      "total": 1385108
+    },
+    {
+      "females": 54279,
+      "country": "Jordan",
+      "age": 18,
+      "males": 58023,
+      "year": 2004,
+      "total": 112303
+    },
+    {
+      "females": 155390,
+      "country": "Kazakhstan",
+      "age": 18,
+      "males": 157487,
+      "year": 2004,
+      "total": 312882
+    },
+    {
+      "females": 405575,
+      "country": "Kenya",
+      "age": 18,
+      "males": 407893,
+      "year": 2004,
+      "total": 813468
+    },
+    {
+      "females": 1001,
+      "country": "Kiribati",
+      "age": 18,
+      "males": 1022,
+      "year": 2004,
+      "total": 2023
+    },
+    {
+      "females": 15434,
+      "country": "Kuwait",
+      "age": 18,
+      "males": 17766,
+      "year": 2004,
+      "total": 33216
+    },
+    {
+      "females": 55985,
+      "country": "Kyrgyz Republic",
+      "age": 18,
+      "males": 56715,
+      "year": 2004,
+      "total": 112700
+    },
+    {
+      "females": 63115,
+      "country": "Lao PDR",
+      "age": 18,
+      "males": 63863,
+      "year": 2004,
+      "total": 126980
+    },
+    {
+      "females": 5320020,
+      "country": "LATIN AMERICA AND THE CARIBBEAN",
+      "age": 18,
+      "males": 5450755,
+      "year": 2004,
+      "total": 10770780
+    },
+    {
+      "females": 17185,
+      "country": "Latvia",
+      "age": 18,
+      "males": 17969,
+      "year": 2004,
+      "total": 35154
+    },
+    {
+      "females": 7682126,
+      "country": "Least developed countries",
+      "age": 18,
+      "males": 7750081,
+      "year": 2004,
+      "total": 15432230
+    },
+    {
+      "females": 39574,
+      "country": "Lebanon",
+      "age": 18,
+      "males": 36903,
+      "year": 2004,
+      "total": 76476
+    },
+    {
+      "females": 22168,
+      "country": "Lesotho",
+      "age": 18,
+      "males": 22957,
+      "year": 2004,
+      "total": 45127
+    },
+    {
+      "females": 51120990,
+      "country": "Less developed regions",
+      "age": 18,
+      "males": 53593630,
+      "year": 2004,
+      "total": 104714400
+    },
+    {
+      "females": 39075760,
+      "country": "Less developed regions, excluding China",
+      "age": 18,
+      "males": 40683020,
+      "year": 2004,
+      "total": 79758590
+    },
+    {
+      "females": 43438860,
+      "country": "Less developed regions, excluding least developed countries",
+      "age": 18,
+      "males": 45843550,
+      "year": 2004,
+      "total": 89282200
+    },
+    {
+      "females": 32593,
+      "country": "Liberia",
+      "age": 18,
+      "males": 33257,
+      "year": 2004,
+      "total": 65850
+    },
+    {
+      "females": 62497,
+      "country": "Libya",
+      "age": 18,
+      "males": 65226,
+      "year": 2004,
+      "total": 127724
+    },
+    {
+      "females": 25256,
+      "country": "Lithuania",
+      "age": 18,
+      "males": 26246,
+      "year": 2004,
+      "total": 51502
+    },
+    {
+      "females": 2523,
+      "country": "Luxembourg",
+      "age": 18,
+      "males": 2639,
+      "year": 2004,
+      "total": 5162
+    },
+    {
+      "females": 175447,
+      "country": "Madagascar",
+      "age": 18,
+      "males": 175725,
+      "year": 2004,
+      "total": 351172
+    },
+    {
+      "females": 135877,
+      "country": "Malawi",
+      "age": 18,
+      "males": 134229,
+      "year": 2004,
+      "total": 270105
+    },
+    {
+      "females": 243471,
+      "country": "Malaysia",
+      "age": 18,
+      "males": 260011,
+      "year": 2004,
+      "total": 503476
+    },
+    {
+      "females": 3937,
+      "country": "Maldives",
+      "age": 18,
+      "males": 3979,
+      "year": 2004,
+      "total": 7917
+    },
+    {
+      "females": 126725,
+      "country": "Mali",
+      "age": 18,
+      "males": 132782,
+      "year": 2004,
+      "total": 259508
+    },
+    {
+      "females": 2621,
+      "country": "Malta",
+      "age": 18,
+      "males": 2966,
+      "year": 2004,
+      "total": 5587
+    },
+    {
+      "females": 2854,
+      "country": "Martinique",
+      "age": 18,
+      "males": 2912,
+      "year": 2004,
+      "total": 5766
+    },
+    {
+      "females": 31083,
+      "country": "Mauritania",
+      "age": 18,
+      "males": 32136,
+      "year": 2004,
+      "total": 63218
+    },
+    {
+      "females": 9375,
+      "country": "Mauritius",
+      "age": 18,
+      "males": 9568,
+      "year": 2004,
+      "total": 18943
+    },
+    {
+      "females": 1956,
+      "country": "Mayotte",
+      "age": 18,
+      "males": 1867,
+      "year": 2004,
+      "total": 3823
+    },
+    {
+      "females": 73948,
+      "country": "Melanesia",
+      "age": 18,
+      "males": 77849,
+      "year": 2004,
+      "total": 151796
+    },
+    {
+      "females": 1046680,
+      "country": "Mexico",
+      "age": 18,
+      "males": 1071680,
+      "year": 2004,
+      "total": 2118360
+    },
+    {
+      "females": 4696,
+      "country": "Micronesia",
+      "age": 18,
+      "males": 4827,
+      "year": 2004,
+      "total": 9522
+    },
+    {
+      "females": 1108828,
+      "country": "Middle Africa",
+      "age": 18,
+      "males": 1111987,
+      "year": 2004,
+      "total": 2220814
+    },
+    {
+      "females": 41800,
+      "country": "Moldova",
+      "age": 18,
+      "males": 42800,
+      "year": 2004,
+      "total": 84600
+    },
+    {
+      "females": 30317,
+      "country": "Mongolia",
+      "age": 18,
+      "males": 30926,
+      "year": 2004,
+      "total": 61243
+    },
+    {
+      "females": 4667,
+      "country": "Montenegro",
+      "age": 18,
+      "males": 4949,
+      "year": 2004,
+      "total": 9616
+    },
+    {
+      "females": 8082019,
+      "country": "More developed regions",
+      "age": 18,
+      "males": 8493009,
+      "year": 2004,
+      "total": 16575040
+    },
+    {
+      "females": 318497,
+      "country": "Morocco",
+      "age": 18,
+      "males": 320521,
+      "year": 2004,
+      "total": 639018
+    },
+    {
+      "females": 208095,
+      "country": "Mozambique",
+      "age": 18,
+      "males": 205380,
+      "year": 2004,
+      "total": 413476
+    },
+    {
+      "females": 503309,
+      "country": "Myanmar",
+      "age": 18,
+      "males": 500197,
+      "year": 2004,
+      "total": 1003507
+    },
+    {
+      "females": 21423,
+      "country": "Namibia",
+      "age": 18,
+      "males": 21130,
+      "year": 2004,
+      "total": 42553
+    },
+    {
+      "females": 256049,
+      "country": "Nepal",
+      "age": 18,
+      "males": 235073,
+      "year": 2004,
+      "total": 491136
+    },
+    {
+      "females": 93797,
+      "country": "The Netherlands",
+      "age": 18,
+      "males": 97757,
+      "year": 2004,
+      "total": 191555
+    },
+    {
+      "females": 1867,
+      "country": "New Caledonia",
+      "age": 18,
+      "males": 1935,
+      "year": 2004,
+      "total": 3803
+    },
+    {
+      "females": 29400,
+      "country": "New Zealand",
+      "age": 18,
+      "males": 30200,
+      "year": 2004,
+      "total": 59500
+    },
+    {
+      "females": 60000,
+      "country": "Nicaragua",
+      "age": 18,
+      "males": 62100,
+      "year": 2004,
+      "total": 122000
+    },
+    {
+      "females": 122000,
+      "country": "Niger",
+      "age": 18,
+      "males": 112000,
+      "year": 2004,
+      "total": 234000
+    },
+    {
+      "females": 1377000,
+      "country": "Nigeria",
+      "age": 18,
+      "males": 1440000,
+      "year": 2004,
+      "total": 2817000
+    },
+    {
+      "females": 2010000,
+      "country": "Northern Africa",
+      "age": 18,
+      "males": 2082000,
+      "year": 2004,
+      "total": 4092000
+    },
+    {
+      "females": 2267000,
+      "country": "NORTHERN AMERICA",
+      "age": 18,
+      "males": 2414000,
+      "year": 2004,
+      "total": 4681000
+    },
+    {
+      "females": 612000,
+      "country": "Northern Europe",
+      "age": 18,
+      "males": 643000,
+      "year": 2004,
+      "total": 1255000
+    },
+    {
+      "females": 27600,
+      "country": "Norway",
+      "age": 18,
+      "males": 28900,
+      "year": 2004,
+      "total": 56400
+    },
+    {
+      "females": 249000,
+      "country": "OCEANIA",
+      "age": 18,
+      "males": 262000,
+      "year": 2004,
+      "total": 511000
+    },
+    {
+      "females": 26400,
+      "country": "Oman",
+      "age": 18,
+      "males": 26900,
+      "year": 2004,
+      "total": 53300
+    },
+    {
+      "females": 164000,
+      "country": "Other non-specified areas",
+      "age": 18,
+      "males": 175000,
+      "year": 2004,
+      "total": 339000
+    },
+    {
+      "females": 1606000,
+      "country": "Pakistan",
+      "age": 18,
+      "males": 1697000,
+      "year": 2004,
+      "total": 3302000
+    },
+    {
+      "females": 29700,
+      "country": "Panama",
+      "age": 18,
+      "males": 30900,
+      "year": 2004,
+      "total": 60600
+    },
+    {
+      "females": 57600,
+      "country": "Papua New Guinea",
+      "age": 18,
+      "males": 60600,
+      "year": 2004,
+      "total": 118000
+    },
+    {
+      "females": 60900,
+      "country": "Paraguay",
+      "age": 18,
+      "males": 62800,
+      "year": 2004,
+      "total": 124000
+    },
+    {
+      "females": 272000,
+      "country": "Peru",
+      "age": 18,
+      "males": 279000,
+      "year": 2004,
+      "total": 551000
+    },
+    {
+      "females": 857000,
+      "country": "Philippines",
+      "age": 18,
+      "males": 891000,
+      "year": 2004,
+      "total": 1748000
+    },
+    {
+      "females": 309000,
+      "country": "Poland",
+      "age": 18,
+      "males": 324000,
+      "year": 2004,
+      "total": 633000
+    },
+    {
+      "females": 6040,
+      "country": "Polynesia",
+      "age": 18,
+      "males": 6440,
+      "year": 2004,
+      "total": 12500
+    },
+    {
+      "females": 62000,
+      "country": "Portugal",
+      "age": 18,
+      "males": 64800,
+      "year": 2004,
+      "total": 127000
+    },
+    {
+      "females": 29900,
+      "country": "Puerto Rico",
+      "age": 18,
+      "males": 30600,
+      "year": 2004,
+      "total": 60500
+    },
+    {
+      "females": 3870,
+      "country": "Qatar",
+      "age": 18,
+      "males": 5220,
+      "year": 2004,
+      "total": 9040
+    },
+    {
+      "females": 6960,
+      "country": "Reunion",
+      "age": 18,
+      "males": 7170,
+      "year": 2004,
+      "total": 14100
+    },
+    {
+      "females": 261000,
+      "country": "RB-de-Venezuela",
+      "age": 18,
+      "males": 269000,
+      "year": 2004,
+      "total": 530000
+    },
+    {
+      "females": 334000,
+      "country": "Rep of Korea",
+      "age": 18,
+      "males": 371000,
+      "year": 2004,
+      "total": 705000
+    },
+    {
+      "females": 225000,
+      "country": "Rep of Yemen",
+      "age": 18,
+      "males": 232000,
+      "year": 2004,
+      "total": 457000
+    },
+    {
+      "females": 168000,
+      "country": "Romania",
+      "age": 18,
+      "males": 177000,
+      "year": 2004,
+      "total": 346000
+    },
+    {
+      "females": 1244000,
+      "country": "Russian Federation",
+      "age": 18,
+      "males": 1291000,
+      "year": 2004,
+      "total": 2536000
+    },
+    {
+      "females": 115000,
+      "country": "Rwanda",
+      "age": 18,
+      "males": 112000,
+      "year": 2004,
+      "total": 227000
+    },
+    {
+      "females": 1730,
+      "country": "St-Lucia",
+      "age": 18,
+      "males": 1680,
+      "year": 2004,
+      "total": 3410
+    },
+    {
+      "females": 1070,
+      "country": "St-Vincent and the Grenadines",
+      "age": 18,
+      "males": 1080,
+      "year": 2004,
+      "total": 2150
+    },
+    {
+      "females": 1580,
+      "country": "Samoa",
+      "age": 18,
+      "males": 1790,
+      "year": 2004,
+      "total": 3370
+    },
+    {
+      "females": 1660,
+      "country": "Sao Tome and Principe",
+      "age": 18,
+      "males": 1680,
+      "year": 2004,
+      "total": 3340
+    },
+    {
+      "females": 223000,
+      "country": "Saudi Arabia",
+      "age": 18,
+      "males": 221000,
+      "year": 2004,
+      "total": 444000
+    },
+    {
+      "females": 121000,
+      "country": "Senegal",
+      "age": 18,
+      "males": 121000,
+      "year": 2004,
+      "total": 242000
+    },
+    {
+      "females": 65300,
+      "country": "Serbia",
+      "age": 18,
+      "males": 68300,
+      "year": 2004,
+      "total": 134000
+    },
+    {
+      "females": 761,
+      "country": "Seychelles",
+      "age": 18,
+      "males": 807,
+      "year": 2004,
+      "total": 1570
+    },
+    {
+      "females": 51900,
+      "country": "Sierra Leone",
+      "age": 18,
+      "males": 51200,
+      "year": 2004,
+      "total": 103000
+    },
+    {
+      "females": 28600,
+      "country": "Singapore",
+      "age": 18,
+      "males": 29800,
+      "year": 2004,
+      "total": 58300
+    },
+    {
+      "females": 42000,
+      "country": "Slovak Republic",
+      "age": 18,
+      "males": 43700,
+      "year": 2004,
+      "total": 85700
+    },
+    {
+      "females": 12900,
+      "country": "Slovenia",
+      "age": 18,
+      "males": 13500,
+      "year": 2004,
+      "total": 26400
+    },
+    {
+      "females": 4570,
+      "country": "Solomon Islands",
+      "age": 18,
+      "males": 4820,
+      "year": 2004,
+      "total": 9380
+    },
+    {
+      "females": 79700,
+      "country": "Somalia",
+      "age": 18,
+      "males": 79800,
+      "year": 2004,
+      "total": 159000
+    },
+    {
+      "females": 506000,
+      "country": "South Africa",
+      "age": 18,
+      "males": 508000,
+      "year": 2004,
+      "total": 1014000
+    },
+    {
+      "females": 3508000,
+      "country": "South America",
+      "age": 18,
+      "males": 3605000,
+      "year": 2004,
+      "total": 7113000
+    },
+    {
+      "females": 77900,
+      "country": "South Sudan",
+      "age": 18,
+      "males": 78400,
+      "year": 2004,
+      "total": 156000
+    },
+    {
+      "females": 16235000,
+      "country": "South-Central Asia",
+      "age": 18,
+      "males": 17307000,
+      "year": 2004,
+      "total": 33542000
+    },
+    {
+      "females": 5412000,
+      "country": "South-Eastern Asia",
+      "age": 18,
+      "males": 5559000,
+      "year": 2004,
+      "total": 10971000
+    },
+    {
+      "females": 585000,
+      "country": "Southern Africa",
+      "age": 18,
+      "males": 588000,
+      "year": 2004,
+      "total": 1173000
+    },
+    {
+      "females": 15594000,
+      "country": "Southern Asia",
+      "age": 18,
+      "males": 16658000,
+      "year": 2004,
+      "total": 32252000
+    },
+    {
+      "females": 845000,
+      "country": "Southern Europe",
+      "age": 18,
+      "males": 890000,
+      "year": 2004,
+      "total": 1734000
+    },
+    {
+      "females": 238000,
+      "country": "Spain",
+      "age": 18,
+      "males": 253000,
+      "year": 2004,
+      "total": 491000
+    },
+    {
+      "females": 173000,
+      "country": "Sri Lanka",
+      "age": 18,
+      "males": 176000,
+      "year": 2004,
+      "total": 349000
+    },
+    {
+      "females": 36100,
+      "country": "West Bank and Gaza",
+      "age": 18,
+      "males": 37500,
+      "year": 2004,
+      "total": 73600
+    },
+    {
+      "females": 7481000,
+      "country": "Sub-Saharan Africa",
+      "age": 18,
+      "males": 7545000,
+      "year": 2004,
+      "total": 15027000
+    },
+    {
+      "females": 314000,
+      "country": "Sudan",
+      "age": 18,
+      "males": 321000,
+      "year": 2004,
+      "total": 635000
+    },
+    {
+      "females": 4680,
+      "country": "Suriname",
+      "age": 18,
+      "males": 4800,
+      "year": 2004,
+      "total": 9480
+    },
+    {
+      "females": 13800,
+      "country": "Swaziland",
+      "age": 18,
+      "males": 13800,
+      "year": 2004,
+      "total": 27600
+    },
+    {
+      "females": 54200,
+      "country": "Sweden",
+      "age": 18,
+      "males": 57100,
+      "year": 2004,
+      "total": 111000
+    },
+    {
+      "females": 42200,
+      "country": "Switzerland",
+      "age": 18,
+      "males": 43900,
+      "year": 2004,
+      "total": 86000
+    },
+    {
+      "females": 201000,
+      "country": "Syrian Arab Rep",
+      "age": 18,
+      "males": 212000,
+      "year": 2004,
+      "total": 412000
+    },
+    {
+      "females": 79100,
+      "country": "Tajikistan",
+      "age": 18,
+      "males": 80300,
+      "year": 2004,
+      "total": 159000
+    },
+    {
+      "females": 402000,
+      "country": "Tanzania",
+      "age": 18,
+      "males": 391000,
+      "year": 2004,
+      "total": 793000
+    },
+    {
+      "females": 523000,
+      "country": "Thailand",
+      "age": 18,
+      "males": 541000,
+      "year": 2004,
+      "total": 1064000
+    },
+    {
+      "females": 9880,
+      "country": "Timor-Leste",
+      "age": 18,
+      "males": 10100,
+      "year": 2004,
+      "total": 20000
+    },
+    {
+      "females": 59800,
+      "country": "Togo",
+      "age": 18,
+      "males": 59700,
+      "year": 2004,
+      "total": 119000
+    },
+    {
+      "females": 967,
+      "country": "Tonga",
+      "age": 18,
+      "males": 1040,
+      "year": 2004,
+      "total": 2010
+    },
+    {
+      "females": 13400,
+      "country": "Trinidad and Tobago",
+      "age": 18,
+      "males": 13700,
+      "year": 2004,
+      "total": 27100
+    },
+    {
+      "females": 106000,
+      "country": "Tunisia",
+      "age": 18,
+      "males": 109000,
+      "year": 2004,
+      "total": 215000
+    },
+    {
+      "females": 637000,
+      "country": "Turkey",
+      "age": 18,
+      "males": 648000,
+      "year": 2004,
+      "total": 1285000
+    },
+    {
+      "females": 52000,
+      "country": "Turkmenistan",
+      "age": 18,
+      "males": 52700,
+      "year": 2004,
+      "total": 105000
+    },
+    {
+      "females": 285000,
+      "country": "Uganda",
+      "age": 18,
+      "males": 286000,
+      "year": 2004,
+      "total": 571000
+    },
+    {
+      "females": 348000,
+      "country": "Ukraine",
+      "age": 18,
+      "males": 366000,
+      "year": 2004,
+      "total": 715000
+    },
+    {
+      "females": 24300,
+      "country": "United Arab Emirates",
+      "age": 18,
+      "males": 38900,
+      "year": 2004,
+      "total": 63100
+    },
+    {
+      "females": 382000,
+      "country": "United Kingdom",
+      "age": 18,
+      "males": 402000,
+      "year": 2004,
+      "total": 784000
+    },
+    {
+      "females": 2054000,
+      "country": "United States",
+      "age": 18,
+      "males": 2190000,
+      "year": 2004,
+      "total": 4244000
+    },
+    {
+      "females": 824,
+      "country": "US Virgin Islands",
+      "age": 18,
+      "males": 763,
+      "year": 2004,
+      "total": 1590
+    },
+    {
+      "females": 24600,
+      "country": "Uruguay",
+      "age": 18,
+      "males": 25500,
+      "year": 2004,
+      "total": 50100
+    },
+    {
+      "females": 299000,
+      "country": "Uzbekistan",
+      "age": 18,
+      "males": 302000,
+      "year": 2004,
+      "total": 600000
+    },
+    {
+      "females": 2100,
+      "country": "Vanuatu",
+      "age": 18,
+      "males": 2220,
+      "year": 2004,
+      "total": 4330
+    },
+    {
+      "females": 862000,
+      "country": "Vietnam",
+      "age": 18,
+      "males": 888000,
+      "year": 2004,
+      "total": 1750000
+    },
+    {
+      "females": 2666000,
+      "country": "Western Africa",
+      "age": 18,
+      "males": 2736000,
+      "year": 2004,
+      "total": 5401000
+    },
+    {
+      "females": 1981000,
+      "country": "Western Asia",
+      "age": 18,
+      "males": 2054000,
+      "year": 2004,
+      "total": 4036000
+    },
+    {
+      "females": 1109000,
+      "country": "Western Europe",
+      "age": 18,
+      "males": 1153000,
+      "year": 2004,
+      "total": 2261000
+    },
+    {
+      "females": 3910,
+      "country": "Western Sahara",
+      "age": 18,
+      "males": 4090,
+      "year": 2004,
+      "total": 8010
+    },
+    {
+      "females": 59203000,
+      "country": "World",
+      "age": 18,
+      "males": 62087000,
+      "year": 2004,
+      "total": 121289000
+    },
+    {
+      "females": 128000,
+      "country": "Zambia",
+      "age": 18,
+      "males": 129000,
+      "year": 2004,
+      "total": 257000
+    },
+    {
+      "females": 165000,
+      "country": "Zimbabwe",
+      "age": 18,
+      "males": 162000,
+      "year": 2004,
+      "total": 327000
+    },
+
+  
+    {
+      "females": 234287,
+      "country": "Afghanistan",
+      "age": 18,
+      "males": 253807,
+      "year": 2004,
+      "total": 488092
+    },
+    {
+      "females": 9491914,
+      "country": "AFRICA",
+      "age": 18,
+      "males": 9626947,
+      "year": 2004,
+      "total": 19118867
+    },
+    {
+      "females": 30762,
+      "country": "Albania",
+      "age": 18,
+      "males": 30186,
+      "year": 2004,
+      "total": 60949
+    },
+    {
+      "females": 382160,
+      "country": "Algeria",
+      "age": 18,
+      "males": 397475,
+      "year": 2004,
+      "total": 779634
+    },
+    {
+      "females": 176680,
+      "country": "Angola",
+      "age": 18,
+      "males": 173771,
+      "year": 2004,
+      "total": 350450
+    },
+    {
+      "females": 711,
+      "country": "Antigua and Barbuda",
+      "age": 18,
+      "males": 636,
+      "year": 2004,
+      "total": 1347
+    },
+    {
+      "females": 822953,
+      "country": "Arab Rep of Egypt",
+      "age": 18,
+      "males": 864574,
+      "year": 2004,
+      "total": 1687529
+    },
+    {
+      "females": 326686,
+      "country": "Argentina",
+      "age": 18,
+      "males": 335517,
+      "year": 2004,
+      "total": 662204
+    },
+    {
+      "females": 30250,
+      "country": "Armenia",
+      "age": 18,
+      "males": 31860,
+      "year": 2004,
+      "total": 62121
+    },
+    {
+      "females": 687,
+      "country": "Aruba",
+      "age": 18,
+      "males": 665,
+      "year": 2004,
+      "total": 1352
+    },
+    {
+      "females": 36900278,
+      "country": "ASIA",
+      "age": 18,
+      "males": 39136010,
+      "year": 2004,
+      "total": 76036100
+    },
+    {
+      "females": 134887,
+      "country": "Australia",
+      "age": 18,
+      "males": 142460,
+      "year": 2004,
+      "total": 277348
+    },
+    {
+      "females": 164249,
+      "country": "Australia/New Zealand",
+      "age": 18,
+      "males": 172643,
+      "year": 2004,
+      "total": 336895
+    },
+    {
+      "females": 48587,
+      "country": "Austria",
+      "age": 18,
+      "males": 50604,
+      "year": 2004,
+      "total": 99190
+    },
+    {
+      "females": 90789,
+      "country": "Azerbaijan",
+      "age": 18,
+      "males": 91474,
+      "year": 2004,
+      "total": 182264
+    },
+    {
+      "females": 2902,
+      "country": "The Bahamas",
+      "age": 18,
+      "males": 2904,
+      "year": 2004,
+      "total": 5806
+    },
+    {
+      "females": 5383,
+      "country": "Bahrain",
+      "age": 18,
+      "males": 7370,
+      "year": 2004,
+      "total": 12751
+    },
+    {
+      "females": 1482955,
+      "country": "Bangladesh",
+      "age": 18,
+      "males": 1544568,
+      "year": 2004,
+      "total": 3027521
+    },
+    {
+      "females": 1949,
+      "country": "Barbados",
+      "age": 18,
+      "males": 1965,
+      "year": 2004,
+      "total": 3913
+    },
+    {
+      "females": 77298,
+      "country": "Belarus",
+      "age": 18,
+      "males": 81038,
+      "year": 2004,
+      "total": 158335
+    },
+    {
+      "females": 61564,
+      "country": "Belgium",
+      "age": 18,
+      "males": 63873,
+      "year": 2004,
+      "total": 125438
+    },
+    {
+      "females": 2861,
+      "country": "Belize",
+      "age": 18,
+      "males": 2905,
+      "year": 2004,
+      "total": 5766
+    },
+    {
+      "females": 81171,
+      "country": "Benin",
+      "age": 18,
+      "males": 80652,
+      "year": 2004,
+      "total": 161823
+    },
+    {
+      "females": 7253,
+      "country": "Bhutan",
+      "age": 18,
+      "males": 7907,
+      "year": 2004,
+      "total": 15161
+    },
+    {
+      "females": 91152,
+      "country": "Bolivia",
+      "age": 18,
+      "males": 93107,
+      "year": 2004,
+      "total": 184259
+    },
+    {
+      "females": 29357,
+      "country": "Bosnia and Herzegovina",
+      "age": 18,
+      "males": 31097,
+      "year": 2004,
+      "total": 60454
+    },
+    {
+      "females": 21788,
+      "country": "Botswana",
+      "age": 18,
+      "males": 22000,
+      "year": 2004,
+      "total": 43788
+    },
+    {
+      "females": 1778543,
+      "country": "Brazil",
+      "age": 18,
+      "males": 1826967,
+      "year": 2004,
+      "total": 3605510
+    },
+    {
+      "females": 3171,
+      "country": "Brunei Darussalam",
+      "age": 18,
+      "males": 3220,
+      "year": 2004,
+      "total": 6390
+    },
+    {
+      "females": 51151,
+      "country": "Bulgaria",
+      "age": 18,
+      "males": 54066,
+      "year": 2004,
+      "total": 105218
+    },
+    {
+      "females": 136634,
+      "country": "Burkina Faso",
+      "age": 18,
+      "males": 140396,
+      "year": 2004,
+      "total": 277031
+    },
+    {
+      "females": 91338,
+      "country": "Burundi",
+      "age": 18,
+      "males": 89151,
+      "year": 2004,
+      "total": 180489
+    },
+    {
+      "females": 175993,
+      "country": "Cote-d-Ivoire",
+      "age": 18,
+      "males": 177865,
+      "year": 2004,
+      "total": 353858
+    },
+    {
+      "females": 5759,
+      "country": "Cabo Verde",
+      "age": 18,
+      "males": 5929,
+      "year": 2004,
+      "total": 11688
+    },
+    {
+      "females": 164572,
+      "country": "Cambodia",
+      "age": 18,
+      "males": 167601,
+      "year": 2004,
+      "total": 332173
+    },
+    {
+      "females": 191376,
+      "country": "Cameroon",
+      "age": 18,
+      "males": 192855,
+      "year": 2004,
+      "total": 384230
+    },
+    {
+      "females": 211786,
+      "country": "Canada",
+      "age": 18,
+      "males": 223210,
+      "year": 2004,
+      "total": 434997
+    },
+    {
+      "females": 362039,
+      "country": "Caribbean",
+      "age": 18,
+      "males": 368862,
+      "year": 2004,
+      "total": 730904
+    },
+    {
+      "females": 42850,
+      "country": "Central African Republic",
+      "age": 18,
+      "males": 42062,
+      "year": 2004,
+      "total": 84913
+    },
+    {
+      "females": 1450083,
+      "country": "Central America",
+      "age": 18,
+      "males": 1477173,
+      "year": 2004,
+      "total": 2927257
+    },
+    {
+      "females": 641029,
+      "country": "Central Asia",
+      "age": 18,
+      "males": 648804,
+      "year": 2004,
+      "total": 1289840
+    },
+    {
+      "females": 97742,
+      "country": "Chad",
+      "age": 18,
+      "males": 99062,
+      "year": 2004,
+      "total": 196805
+    },
+    {
+      "females": 867,
+      "country": "Channel Islands",
+      "age": 18,
+      "males": 894,
+      "year": 2004,
+      "total": 1761
+    },
+    {
+      "females": 134142,
+      "country": "Chile",
+      "age": 18,
+      "males": 136930,
+      "year": 2004,
+      "total": 271071
+    },
+    {
+      "females": 11832280,
+      "country": "China",
+      "age": 18,
+      "males": 12686920,
+      "year": 2004,
+      "total": 24519200
+    },
+    {
+      "females": 45267,
+      "country": "Hong Kong SAR-China",
+      "age": 18,
+      "males": 45307,
+      "year": 2004,
+      "total": 90574
+    },
+    {
+      "females": 3850,
+      "country": "Macao SAR China",
+      "age": 18,
+      "males": 3642,
+      "year": 2004,
+      "total": 7491
+    },
+    {
+      "females": 414638,
+      "country": "Colombia",
+      "age": 18,
+      "males": 426931,
+      "year": 2004,
+      "total": 841568
+    },
+    {
+      "females": 6598,
+      "country": "Comoros",
+      "age": 18,
+      "males": 6784,
+      "year": 2004,
+      "total": 13383
+    },
+    {
+      "females": 34749,
+      "country": "Congo",
+      "age": 18,
+      "males": 35084,
+      "year": 2004,
+      "total": 69832
+    },
+    {
+      "females": 39654,
+      "country": "Costa Rica",
+      "age": 18,
+      "males": 41161,
+      "year": 2004,
+      "total": 80814
+    },
+    {
+      "females": 28867,
+      "country": "Croatia",
+      "age": 18,
+      "males": 30096,
+      "year": 2004,
+      "total": 58963
+    },
+    {
+      "females": 79778,
+      "country": "Cuba",
+      "age": 18,
+      "males": 83262,
+      "year": 2004,
+      "total": 163040
+    },
+    {
+      "females": 917,
+      "country": "Curacao",
+      "age": 18,
+      "males": 950,
+      "year": 2004,
+      "total": 1867
+    },
+    {
+      "females": 7837,
+      "country": "Cyprus",
+      "age": 18,
+      "males": 8840,
+      "year": 2004,
+      "total": 16679
+    },
+    {
+      "females": 64131,
+      "country": "Czech Republic",
+      "age": 18,
+      "males": 67257,
+      "year": 2004,
+      "total": 131393
+    },
+    {
+      "females": 186504,
+      "country": "Dem Peoples Rep of Korea",
+      "age": 18,
+      "males": 193871,
+      "year": 2004,
+      "total": 380375
+    },
+    {
+      "females": 544162,
+      "country": "Dem Rep of Congo",
+      "age": 18,
+      "males": 547467,
+      "year": 2004,
+      "total": 1091629
+    },
+    {
+      "females": 28624,
+      "country": "Denmark",
+      "age": 18,
+      "males": 30018,
+      "year": 2004,
+      "total": 58642
+    },
+    {
+      "females": 8574,
+      "country": "Djibouti",
+      "age": 18,
+      "males": 8735,
+      "year": 2004,
+      "total": 17308
+    },
+    {
+      "females": 91346,
+      "country": "Dominican Republic",
+      "age": 18,
+      "males": 91762,
+      "year": 2004,
+      "total": 183108
+    },
+    {
+      "females": 3121450,
+      "country": "Eastern Africa",
+      "age": 18,
+      "males": 3109883,
+      "year": 2004,
+      "total": 6231335
+    },
+    {
+      "females": 13272140,
+      "country": "Eastern Asia",
+      "age": 18,
+      "males": 14215840,
+      "year": 2004,
+      "total": 27487980
+    },
+    {
+      "females": 2409177,
+      "country": "Eastern Europe",
+      "age": 18,
+      "males": 2512214,
+      "year": 2004,
+      "total": 4921406
+    },
+    {
+      "females": 132732,
+      "country": "Ecuador",
+      "age": 18,
+      "males": 136612,
+      "year": 2004,
+      "total": 269345
+    },
+    {
+      "females": 58882,
+      "country": "El Salvador",
+      "age": 18,
+      "males": 56847,
+      "year": 2004,
+      "total": 115729
+    },
+    {
+      "females": 5742,
+      "country": "Equatorial Guinea",
+      "age": 18,
+      "males": 5806,
+      "year": 2004,
+      "total": 11548
+    },
+    {
+      "females": 52670,
+      "country": "Eritrea",
+      "age": 18,
+      "males": 53308,
+      "year": 2004,
+      "total": 105977
+    },
+    {
+      "females": 10128,
+      "country": "Estonia",
+      "age": 18,
+      "males": 10813,
+      "year": 2004,
+      "total": 20941
+    },
+    {
+      "females": 765157,
+      "country": "Ethiopia",
+      "age": 18,
+      "males": 770939,
+      "year": 2004,
+      "total": 1536096
+    },
+    {
+      "females": 4974711,
+      "country": "EUROPE",
+      "age": 18,
+      "males": 5197204,
+      "year": 2004,
+      "total": 10171930
+    },
+    {
+      "females": 1239,
+      "country": "Federated States of Micronesia",
+      "age": 18,
+      "males": 1372,
+      "year": 2004,
+      "total": 2612
+    },
+    {
+      "females": 7768,
+      "country": "Fiji",
+      "age": 18,
+      "males": 8223,
+      "year": 2004,
+      "total": 15989
+    },
+    {
+      "females": 31545,
+      "country": "Finland",
+      "age": 18,
+      "males": 33020,
+      "year": 2004,
+      "total": 64565
+    },
+    {
+      "females": 388974,
+      "country": "France",
+      "age": 18,
+      "males": 401684,
+      "year": 2004,
+      "total": 790661
+    },
+    {
+      "females": 1651,
+      "country": "French Guiana",
+      "age": 18,
+      "males": 1663,
+      "year": 2004,
+      "total": 3314
+    },
+    {
+      "females": 2539,
+      "country": "French Polynesia",
+      "age": 18,
+      "males": 2592,
+      "year": 2004,
+      "total": 5131
+    },
+    {
+      "females": 15900,
+      "country": "FYR Macedonia",
+      "age": 18,
+      "males": 16800,
+      "year": 2004,
+      "total": 32700
+    },
+    {
+      "females": 13866,
+      "country": "Gabon",
+      "age": 18,
+      "males": 14197,
+      "year": 2004,
+      "total": 28063
+    },
+    {
+      "females": 14772,
+      "country": "The Gambia",
+      "age": 18,
+      "males": 14265,
+      "year": 2004,
+      "total": 29036
+    },
+    {
+      "females": 38321,
+      "country": "Georgia",
+      "age": 18,
+      "males": 39066,
+      "year": 2004,
+      "total": 77390
+    },
+    {
+      "females": 470791,
+      "country": "Germany",
+      "age": 18,
+      "males": 491883,
+      "year": 2004,
+      "total": 962672
+    },
+    {
+      "females": 219538,
+      "country": "Ghana",
+      "age": 18,
+      "males": 222826,
+      "year": 2004,
+      "total": 442363
+    },
+    {
+      "females": 65386,
+      "country": "Greece",
+      "age": 18,
+      "males": 70038,
+      "year": 2004,
+      "total": 135425
+    },
+    {
+      "females": 1272,
+      "country": "Grenada",
+      "age": 18,
+      "males": 1312,
+      "year": 2004,
+      "total": 2583
+    },
+    {
+      "females": 2952,
+      "country": "Guadeloupe",
+      "age": 18,
+      "males": 3144,
+      "year": 2004,
+      "total": 6096
+    },
+    {
+      "females": 1271,
+      "country": "Guam",
+      "age": 18,
+      "males": 1294,
+      "year": 2004,
+      "total": 2565
+    },
+    {
+      "females": 138300,
+      "country": "Guatemala",
+      "age": 18,
+      "males": 137285,
+      "year": 2004,
+      "total": 275588
+    },
+    {
+      "females": 95050,
+      "country": "Guinea",
+      "age": 18,
+      "males": 96363,
+      "year": 2004,
+      "total": 191413
+    },
+    {
+      "females": 15305,
+      "country": "Guinea-Bissau",
+      "age": 18,
+      "males": 15218,
+      "year": 2004,
+      "total": 30524
+    },
+    {
+      "females": 5703,
+      "country": "Guyana",
+      "age": 18,
+      "males": 5636,
+      "year": 2004,
+      "total": 11340
+    },
+    {
+      "females": 102838,
+      "country": "Haiti",
+      "age": 18,
+      "males": 103732,
+      "year": 2004,
+      "total": 206570
+    },
+    {
+      "females": 73967,
+      "country": "Honduras",
+      "age": 18,
+      "males": 74226,
+      "year": 2004,
+      "total": 148193
+    },
+    {
+      "females": 62369,
+      "country": "Hungary",
+      "age": 18,
+      "males": 64907,
+      "year": 2004,
+      "total": 127278
+    },
+    {
+      "females": 2102,
+      "country": "Iceland",
+      "age": 18,
+      "males": 2204,
+      "year": 2004,
+      "total": 4306
+    },
+    {
+      "females": 10890100,
+      "country": "India",
+      "age": 18,
+      "males": 11775510,
+      "year": 2004,
+      "total": 22665600
+    },
+    {
+      "females": 2153846,
+      "country": "Indonesia",
+      "age": 18,
+      "males": 2203963,
+      "year": 2004,
+      "total": 4357813
+    },
+    {
+      "females": 940391,
+      "country": "Islamic Republic of Iran",
+      "age": 18,
+      "males": 964755,
+      "year": 2004,
+      "total": 1905162
+    },
+    {
+      "females": 271301,
+      "country": "Iraq",
+      "age": 18,
+      "males": 287678,
+      "year": 2004,
+      "total": 558977
+    },
+    {
+      "females": 31440,
+      "country": "Ireland",
+      "age": 18,
+      "males": 32869,
+      "year": 2004,
+      "total": 64308
+    },
+    {
+      "females": 52304,
+      "country": "Israel",
+      "age": 18,
+      "males": 54410,
+      "year": 2004,
+      "total": 106715
+    },
+    {
+      "females": 287754,
+      "country": "Italy",
+      "age": 18,
+      "males": 303697,
+      "year": 2004,
+      "total": 591446
+    },
+    {
+      "females": 24733,
+      "country": "Jamaica",
+      "age": 18,
+      "males": 25574,
+      "year": 2004,
+      "total": 50308
+    },
+    {
+      "females": 675903,
+      "country": "Japan",
+      "age": 18,
+      "males": 709199,
+      "year": 2004,
+      "total": 1385108
+    },
+    {
+      "females": 54279,
+      "country": "Jordan",
+      "age": 18,
+      "males": 58023,
+      "year": 2004,
+      "total": 112303
+    },
+    {
+      "females": 155390,
+      "country": "Kazakhstan",
+      "age": 18,
+      "males": 157487,
+      "year": 2004,
+      "total": 312882
+    },
+    {
+      "females": 405575,
+      "country": "Kenya",
+      "age": 18,
+      "males": 407893,
+      "year": 2004,
+      "total": 813468
+    },
+    {
+      "females": 1001,
+      "country": "Kiribati",
+      "age": 18,
+      "males": 1022,
+      "year": 2004,
+      "total": 2023
+    },
+    {
+      "females": 15434,
+      "country": "Kuwait",
+      "age": 18,
+      "males": 17766,
+      "year": 2004,
+      "total": 33216
+    },
+    {
+      "females": 55985,
+      "country": "Kyrgyz Republic",
+      "age": 18,
+      "males": 56715,
+      "year": 2004,
+      "total": 112700
+    },
+    {
+      "females": 63115,
+      "country": "Lao PDR",
+      "age": 18,
+      "males": 63863,
+      "year": 2004,
+      "total": 126980
+    },
+    {
+      "females": 5320020,
+      "country": "LATIN AMERICA AND THE CARIBBEAN",
+      "age": 18,
+      "males": 5450755,
+      "year": 2004,
+      "total": 10770780
+    },
+    {
+      "females": 17185,
+      "country": "Latvia",
+      "age": 18,
+      "males": 17969,
+      "year": 2004,
+      "total": 35154
+    },
+    {
+      "females": 7682126,
+      "country": "Least developed countries",
+      "age": 18,
+      "males": 7750081,
+      "year": 2004,
+      "total": 15432230
+    },
+    {
+      "females": 39574,
+      "country": "Lebanon",
+      "age": 18,
+      "males": 36903,
+      "year": 2004,
+      "total": 76476
+    },
+    {
+      "females": 22168,
+      "country": "Lesotho",
+      "age": 18,
+      "males": 22957,
+      "year": 2004,
+      "total": 45127
+    },
+    {
+      "females": 51120990,
+      "country": "Less developed regions",
+      "age": 18,
+      "males": 53593630,
+      "year": 2004,
+      "total": 104714400
+    },
+    {
+      "females": 39075760,
+      "country": "Less developed regions, excluding China",
+      "age": 18,
+      "males": 40683020,
+      "year": 2004,
+      "total": 79758590
+    },
+    {
+      "females": 43438860,
+      "country": "Less developed regions, excluding least developed countries",
+      "age": 18,
+      "males": 45843550,
+      "year": 2004,
+      "total": 89282200
+    },
+    {
+      "females": 32593,
+      "country": "Liberia",
+      "age": 18,
+      "males": 33257,
+      "year": 2004,
+      "total": 65850
+    },
+    {
+      "females": 62497,
+      "country": "Libya",
+      "age": 18,
+      "males": 65226,
+      "year": 2004,
+      "total": 127724
+    },
+    {
+      "females": 25256,
+      "country": "Lithuania",
+      "age": 18,
+      "males": 26246,
+      "year": 2004,
+      "total": 51502
+    },
+    {
+      "females": 2523,
+      "country": "Luxembourg",
+      "age": 18,
+      "males": 2639,
+      "year": 2004,
+      "total": 5162
+    },
+    {
+      "females": 175447,
+      "country": "Madagascar",
+      "age": 18,
+      "males": 175725,
+      "year": 2004,
+      "total": 351172
+    },
+    {
+      "females": 135877,
+      "country": "Malawi",
+      "age": 18,
+      "males": 134229,
+      "year": 2004,
+      "total": 270105
+    },
+    {
+      "females": 243471,
+      "country": "Malaysia",
+      "age": 18,
+      "males": 260011,
+      "year": 2004,
+      "total": 503476
+    },
+    {
+      "females": 3937,
+      "country": "Maldives",
+      "age": 18,
+      "males": 3979,
+      "year": 2004,
+      "total": 7917
+    },
+    {
+      "females": 126725,
+      "country": "Mali",
+      "age": 18,
+      "males": 132782,
+      "year": 2004,
+      "total": 259508
+    },
+    {
+      "females": 2621,
+      "country": "Malta",
+      "age": 18,
+      "males": 2966,
+      "year": 2004,
+      "total": 5587
+    },
+    {
+      "females": 2854,
+      "country": "Martinique",
+      "age": 18,
+      "males": 2912,
+      "year": 2004,
+      "total": 5766
+    },
+    {
+      "females": 31083,
+      "country": "Mauritania",
+      "age": 18,
+      "males": 32136,
+      "year": 2004,
+      "total": 63218
+    },
+    {
+      "females": 9375,
+      "country": "Mauritius",
+      "age": 18,
+      "males": 9568,
+      "year": 2004,
+      "total": 18943
+    },
+    {
+      "females": 1956,
+      "country": "Mayotte",
+      "age": 18,
+      "males": 1867,
+      "year": 2004,
+      "total": 3823
+    },
+    {
+      "females": 73948,
+      "country": "Melanesia",
+      "age": 18,
+      "males": 77849,
+      "year": 2004,
+      "total": 151796
+    },
+    {
+      "females": 1046680,
+      "country": "Mexico",
+      "age": 18,
+      "males": 1071680,
+      "year": 2004,
+      "total": 2118360
+    },
+    {
+      "females": 4696,
+      "country": "Micronesia",
+      "age": 18,
+      "males": 4827,
+      "year": 2004,
+      "total": 9522
+    },
+    {
+      "females": 1108828,
+      "country": "Middle Africa",
+      "age": 18,
+      "males": 1111987,
+      "year": 2004,
+      "total": 2220814
+    },
+    {
+      "females": 41800,
+      "country": "Moldova",
+      "age": 18,
+      "males": 42800,
+      "year": 2004,
+      "total": 84600
+    },
+    {
+      "females": 30317,
+      "country": "Mongolia",
+      "age": 18,
+      "males": 30926,
+      "year": 2004,
+      "total": 61243
+    },
+    {
+      "females": 4667,
+      "country": "Montenegro",
+      "age": 18,
+      "males": 4949,
+      "year": 2004,
+      "total": 9616
+    },
+    {
+      "females": 8082019,
+      "country": "More developed regions",
+      "age": 18,
+      "males": 8493009,
+      "year": 2004,
+      "total": 16575040
+    },
+    {
+      "females": 318497,
+      "country": "Morocco",
+      "age": 18,
+      "males": 320521,
+      "year": 2004,
+      "total": 639018
+    },
+    {
+      "females": 208095,
+      "country": "Mozambique",
+      "age": 18,
+      "males": 205380,
+      "year": 2004,
+      "total": 413476
+    },
+    {
+      "females": 503309,
+      "country": "Myanmar",
+      "age": 18,
+      "males": 500197,
+      "year": 2004,
+      "total": 1003507
+    },
+    {
+      "females": 21423,
+      "country": "Namibia",
+      "age": 18,
+      "males": 21130,
+      "year": 2004,
+      "total": 42553
+    },
+    {
+      "females": 256049,
+      "country": "Nepal",
+      "age": 18,
+      "males": 235073,
+      "year": 2004,
+      "total": 491136
+    },
+    {
+      "females": 93797,
+      "country": "The Netherlands",
+      "age": 18,
+      "males": 97757,
+      "year": 2004,
+      "total": 191555
+    },
+    {
+      "females": 1867,
+      "country": "New Caledonia",
+      "age": 18,
+      "males": 1935,
+      "year": 2004,
+      "total": 3803
+    },
+    {
+      "females": 29400,
+      "country": "New Zealand",
+      "age": 18,
+      "males": 30200,
+      "year": 2004,
+      "total": 59500
+    },
+    {
+      "females": 60000,
+      "country": "Nicaragua",
+      "age": 18,
+      "males": 62100,
+      "year": 2004,
+      "total": 122000
+    },
+    {
+      "females": 122000,
+      "country": "Niger",
+      "age": 18,
+      "males": 112000,
+      "year": 2004,
+      "total": 234000
+    },
+    {
+      "females": 1377000,
+      "country": "Nigeria",
+      "age": 18,
+      "males": 1440000,
+      "year": 2004,
+      "total": 2817000
+    },
+    {
+      "females": 2010000,
+      "country": "Northern Africa",
+      "age": 18,
+      "males": 2082000,
+      "year": 2004,
+      "total": 4092000
+    },
+    {
+      "females": 2267000,
+      "country": "NORTHERN AMERICA",
+      "age": 18,
+      "males": 2414000,
+      "year": 2004,
+      "total": 4681000
+    },
+    {
+      "females": 612000,
+      "country": "Northern Europe",
+      "age": 18,
+      "males": 643000,
+      "year": 2004,
+      "total": 1255000
+    },
+    {
+      "females": 27600,
+      "country": "Norway",
+      "age": 18,
+      "males": 28900,
+      "year": 2004,
+      "total": 56400
+    },
+    {
+      "females": 249000,
+      "country": "OCEANIA",
+      "age": 18,
+      "males": 262000,
+      "year": 2004,
+      "total": 511000
+    },
+    {
+      "females": 26400,
+      "country": "Oman",
+      "age": 18,
+      "males": 26900,
+      "year": 2004,
+      "total": 53300
+    },
+    {
+      "females": 164000,
+      "country": "Other non-specified areas",
+      "age": 18,
+      "males": 175000,
+      "year": 2004,
+      "total": 339000
+    },
+    {
+      "females": 1606000,
+      "country": "Pakistan",
+      "age": 18,
+      "males": 1697000,
+      "year": 2004,
+      "total": 3302000
+    },
+    {
+      "females": 29700,
+      "country": "Panama",
+      "age": 18,
+      "males": 30900,
+      "year": 2004,
+      "total": 60600
+    },
+    {
+      "females": 57600,
+      "country": "Papua New Guinea",
+      "age": 18,
+      "males": 60600,
+      "year": 2004,
+      "total": 118000
+    },
+    {
+      "females": 60900,
+      "country": "Paraguay",
+      "age": 18,
+      "males": 62800,
+      "year": 2004,
+      "total": 124000
+    },
+    {
+      "females": 272000,
+      "country": "Peru",
+      "age": 18,
+      "males": 279000,
+      "year": 2004,
+      "total": 551000
+    },
+    {
+      "females": 857000,
+      "country": "Philippines",
+      "age": 18,
+      "males": 891000,
+      "year": 2004,
+      "total": 1748000
+    },
+    {
+      "females": 309000,
+      "country": "Poland",
+      "age": 18,
+      "males": 324000,
+      "year": 2004,
+      "total": 633000
+    },
+    {
+      "females": 6040,
+      "country": "Polynesia",
+      "age": 18,
+      "males": 6440,
+      "year": 2004,
+      "total": 12500
+    },
+    {
+      "females": 62000,
+      "country": "Portugal",
+      "age": 18,
+      "males": 64800,
+      "year": 2004,
+      "total": 127000
+    },
+    {
+      "females": 29900,
+      "country": "Puerto Rico",
+      "age": 18,
+      "males": 30600,
+      "year": 2004,
+      "total": 60500
+    },
+    {
+      "females": 3870,
+      "country": "Qatar",
+      "age": 18,
+      "males": 5220,
+      "year": 2004,
+      "total": 9040
+    },
+    {
+      "females": 6960,
+      "country": "Reunion",
+      "age": 18,
+      "males": 7170,
+      "year": 2004,
+      "total": 14100
+    },
+    {
+      "females": 261000,
+      "country": "RB-de-Venezuela",
+      "age": 18,
+      "males": 269000,
+      "year": 2004,
+      "total": 530000
+    },
+    {
+      "females": 334000,
+      "country": "Rep of Korea",
+      "age": 18,
+      "males": 371000,
+      "year": 2004,
+      "total": 705000
+    },
+    {
+      "females": 225000,
+      "country": "Rep of Yemen",
+      "age": 18,
+      "males": 232000,
+      "year": 2004,
+      "total": 457000
+    },
+    {
+      "females": 168000,
+      "country": "Romania",
+      "age": 18,
+      "males": 177000,
+      "year": 2004,
+      "total": 346000
+    },
+    {
+      "females": 1244000,
+      "country": "Russian Federation",
+      "age": 18,
+      "males": 1291000,
+      "year": 2004,
+      "total": 2536000
+    },
+    {
+      "females": 115000,
+      "country": "Rwanda",
+      "age": 18,
+      "males": 112000,
+      "year": 2004,
+      "total": 227000
+    },
+    {
+      "females": 1730,
+      "country": "St-Lucia",
+      "age": 18,
+      "males": 1680,
+      "year": 2004,
+      "total": 3410
+    },
+    {
+      "females": 1070,
+      "country": "St-Vincent and the Grenadines",
+      "age": 18,
+      "males": 1080,
+      "year": 2004,
+      "total": 2150
+    },
+    {
+      "females": 1580,
+      "country": "Samoa",
+      "age": 18,
+      "males": 1790,
+      "year": 2004,
+      "total": 3370
+    },
+    {
+      "females": 1660,
+      "country": "Sao Tome and Principe",
+      "age": 18,
+      "males": 1680,
+      "year": 2004,
+      "total": 3340
+    },
+    {
+      "females": 223000,
+      "country": "Saudi Arabia",
+      "age": 18,
+      "males": 221000,
+      "year": 2004,
+      "total": 444000
+    },
+    {
+      "females": 121000,
+      "country": "Senegal",
+      "age": 18,
+      "males": 121000,
+      "year": 2004,
+      "total": 242000
+    },
+    {
+      "females": 65300,
+      "country": "Serbia",
+      "age": 18,
+      "males": 68300,
+      "year": 2004,
+      "total": 134000
+    },
+    {
+      "females": 761,
+      "country": "Seychelles",
+      "age": 18,
+      "males": 807,
+      "year": 2004,
+      "total": 1570
+    },
+    {
+      "females": 51900,
+      "country": "Sierra Leone",
+      "age": 18,
+      "males": 51200,
+      "year": 2004,
+      "total": 103000
+    },
+    {
+      "females": 28600,
+      "country": "Singapore",
+      "age": 18,
+      "males": 29800,
+      "year": 2004,
+      "total": 58300
+    },
+    {
+      "females": 42000,
+      "country": "Slovak Republic",
+      "age": 18,
+      "males": 43700,
+      "year": 2004,
+      "total": 85700
+    },
+    {
+      "females": 12900,
+      "country": "Slovenia",
+      "age": 18,
+      "males": 13500,
+      "year": 2004,
+      "total": 26400
+    },
+    {
+      "females": 4570,
+      "country": "Solomon Islands",
+      "age": 18,
+      "males": 4820,
+      "year": 2004,
+      "total": 9380
+    },
+    {
+      "females": 79700,
+      "country": "Somalia",
+      "age": 18,
+      "males": 79800,
+      "year": 2004,
+      "total": 159000
+    },
+    {
+      "females": 506000,
+      "country": "South Africa",
+      "age": 18,
+      "males": 508000,
+      "year": 2004,
+      "total": 1014000
+    },
+    {
+      "females": 3508000,
+      "country": "South America",
+      "age": 18,
+      "males": 3605000,
+      "year": 2004,
+      "total": 7113000
+    },
+    {
+      "females": 77900,
+      "country": "South Sudan",
+      "age": 18,
+      "males": 78400,
+      "year": 2004,
+      "total": 156000
+    },
+    {
+      "females": 16235000,
+      "country": "South-Central Asia",
+      "age": 18,
+      "males": 17307000,
+      "year": 2004,
+      "total": 33542000
+    },
+    {
+      "females": 5412000,
+      "country": "South-Eastern Asia",
+      "age": 18,
+      "males": 5559000,
+      "year": 2004,
+      "total": 10971000
+    },
+    {
+      "females": 585000,
+      "country": "Southern Africa",
+      "age": 18,
+      "males": 588000,
+      "year": 2004,
+      "total": 1173000
+    },
+    {
+      "females": 15594000,
+      "country": "Southern Asia",
+      "age": 18,
+      "males": 16658000,
+      "year": 2004,
+      "total": 32252000
+    },
+    {
+      "females": 845000,
+      "country": "Southern Europe",
+      "age": 18,
+      "males": 890000,
+      "year": 2004,
+      "total": 1734000
+    },
+    {
+      "females": 238000,
+      "country": "Spain",
+      "age": 18,
+      "males": 253000,
+      "year": 2004,
+      "total": 491000
+    },
+    {
+      "females": 173000,
+      "country": "Sri Lanka",
+      "age": 18,
+      "males": 176000,
+      "year": 2004,
+      "total": 349000
+    },
+    {
+      "females": 36100,
+      "country": "West Bank and Gaza",
+      "age": 18,
+      "males": 37500,
+      "year": 2004,
+      "total": 73600
+    },
+    {
+      "females": 7481000,
+      "country": "Sub-Saharan Africa",
+      "age": 18,
+      "males": 7545000,
+      "year": 2004,
+      "total": 15027000
+    },
+    {
+      "females": 314000,
+      "country": "Sudan",
+      "age": 18,
+      "males": 321000,
+      "year": 2004,
+      "total": 635000
+    },
+    {
+      "females": 4680,
+      "country": "Suriname",
+      "age": 18,
+      "males": 4800,
+      "year": 2004,
+      "total": 9480
+    },
+    {
+      "females": 13800,
+      "country": "Swaziland",
+      "age": 18,
+      "males": 13800,
+      "year": 2004,
+      "total": 27600
+    },
+    {
+      "females": 54200,
+      "country": "Sweden",
+      "age": 18,
+      "males": 57100,
+      "year": 2004,
+      "total": 111000
+    },
+    {
+      "females": 42200,
+      "country": "Switzerland",
+      "age": 18,
+      "males": 43900,
+      "year": 2004,
+      "total": 86000
+    },
+    {
+      "females": 201000,
+      "country": "Syrian Arab Rep",
+      "age": 18,
+      "males": 212000,
+      "year": 2004,
+      "total": 412000
+    },
+    {
+      "females": 79100,
+      "country": "Tajikistan",
+      "age": 18,
+      "males": 80300,
+      "year": 2004,
+      "total": 159000
+    },
+    {
+      "females": 402000,
+      "country": "Tanzania",
+      "age": 18,
+      "males": 391000,
+      "year": 2004,
+      "total": 793000
+    },
+    {
+      "females": 523000,
+      "country": "Thailand",
+      "age": 18,
+      "males": 541000,
+      "year": 2004,
+      "total": 1064000
+    },
+    {
+      "females": 9880,
+      "country": "Timor-Leste",
+      "age": 18,
+      "males": 10100,
+      "year": 2004,
+      "total": 20000
+    },
+    {
+      "females": 59800,
+      "country": "Togo",
+      "age": 18,
+      "males": 59700,
+      "year": 2004,
+      "total": 119000
+    },
+    {
+      "females": 967,
+      "country": "Tonga",
+      "age": 18,
+      "males": 1040,
+      "year": 2004,
+      "total": 2010
+    },
+    {
+      "females": 13400,
+      "country": "Trinidad and Tobago",
+      "age": 18,
+      "males": 13700,
+      "year": 2004,
+      "total": 27100
+    },
+    {
+      "females": 106000,
+      "country": "Tunisia",
+      "age": 18,
+      "males": 109000,
+      "year": 2004,
+      "total": 215000
+    },
+    {
+      "females": 637000,
+      "country": "Turkey",
+      "age": 18,
+      "males": 648000,
+      "year": 2004,
+      "total": 1285000
+    },
+    {
+      "females": 52000,
+      "country": "Turkmenistan",
+      "age": 18,
+      "males": 52700,
+      "year": 2004,
+      "total": 105000
+    },
+    {
+      "females": 285000,
+      "country": "Uganda",
+      "age": 18,
+      "males": 286000,
+      "year": 2004,
+      "total": 571000
+    },
+    {
+      "females": 348000,
+      "country": "Ukraine",
+      "age": 18,
+      "males": 366000,
+      "year": 2004,
+      "total": 715000
+    },
+    {
+      "females": 24300,
+      "country": "United Arab Emirates",
+      "age": 18,
+      "males": 38900,
+      "year": 2004,
+      "total": 63100
+    },
+    {
+      "females": 382000,
+      "country": "United Kingdom",
+      "age": 18,
+      "males": 402000,
+      "year": 2004,
+      "total": 784000
+    },
+    {
+      "females": 2054000,
+      "country": "United States",
+      "age": 18,
+      "males": 2190000,
+      "year": 2004,
+      "total": 4244000
+    },
+    {
+      "females": 824,
+      "country": "US Virgin Islands",
+      "age": 18,
+      "males": 763,
+      "year": 2004,
+      "total": 1590
+    },
+    {
+      "females": 24600,
+      "country": "Uruguay",
+      "age": 18,
+      "males": 25500,
+      "year": 2004,
+      "total": 50100
+    },
+    {
+      "females": 299000,
+      "country": "Uzbekistan",
+      "age": 18,
+      "males": 302000,
+      "year": 2004,
+      "total": 600000
+    },
+    {
+      "females": 2100,
+      "country": "Vanuatu",
+      "age": 18,
+      "males": 2220,
+      "year": 2004,
+      "total": 4330
+    },
+    {
+      "females": 862000,
+      "country": "Vietnam",
+      "age": 18,
+      "males": 888000,
+      "year": 2004,
+      "total": 1750000
+    },
+    {
+      "females": 2666000,
+      "country": "Western Africa",
+      "age": 18,
+      "males": 2736000,
+      "year": 2004,
+      "total": 5401000
+    },
+    {
+      "females": 1981000,
+      "country": "Western Asia",
+      "age": 18,
+      "males": 2054000,
+      "year": 2004,
+      "total": 4036000
+    },
+    {
+      "females": 1109000,
+      "country": "Western Europe",
+      "age": 18,
+      "males": 1153000,
+      "year": 2004,
+      "total": 2261000
+    },
+    {
+      "females": 3910,
+      "country": "Western Sahara",
+      "age": 18,
+      "males": 4090,
+      "year": 2004,
+      "total": 8010
+    },
+    {
+      "females": 59203000,
+      "country": "World",
+      "age": 18,
+      "males": 62087000,
+      "year": 2004,
+      "total": 121289000
+    },
+    {
+      "females": 128000,
+      "country": "Zambia",
+      "age": 18,
+      "males": 129000,
+      "year": 2004,
+      "total": 257000
+    },
+    {
+      "females": 165000,
+      "country": "Zimbabwe",
+      "age": 18,
+      "males": 162000,
+      "year": 2004,
+      "total": 327000
+    }
+  ]
+}
