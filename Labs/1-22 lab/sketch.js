@@ -16,7 +16,7 @@ function setup() {
   background(5, 5, 5);
   fill(200, 30, 150);
 */ //unused setup normally reserved for visual/graphics
-  new numbarraygenerator(50)           
+  new numbarraygenerator(10)           
   new insertionsorter(numbarray)           
 }
 
@@ -29,10 +29,12 @@ function numbarraygenerator (length){ //generates random numbers for the sorting
 	for(var k = 0; k <length; k++){
 		var randonumber = random(1,10);
 		numbarray.push(randonumber);
-		console.log((randonumber) + k);
-		
+		console.log((randonumber));
+		//console.log((randonumber) + k);
+		//k = 1 + k;
 	}
 	//var a7 = performance.now();
+	//console.log(numbarray)
 }
 
 function insertionsorter (numbarray){ //sorting function
