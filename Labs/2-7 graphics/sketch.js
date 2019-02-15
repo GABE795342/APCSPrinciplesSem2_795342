@@ -3,14 +3,12 @@ var insertionsorter;
 var numbarray = [];
 var randonumber;
 var temp;
-var i;
+var a9 = performance.now(); //measures time since beginning of program for total time
+var i; //variables here might be unnecessary/redundant i,j,t,s,q
 var j;
 var t;
 var s;
 var q;
-
-
-var a9 = performance.now(); //measures time since beginning of program for total time
 function setup() {
   var cnv = createCanvas(800, 800);
   cnv.position((windowWidth-width)/2, 30);
@@ -30,27 +28,8 @@ function setup() {
 //	
 //	
 //}
-
-
-function rectangledrawing(){
-	for(var q = 0; q < 10; q++ ){
-		
-		
-		
-		
-		
-		
-	}
-	
-	
-	
-	
-}
-
-
-
 //NOTE BELOW \/\/\/\/\/\/\/\/\/\/\/\/\/
-//make text drawing functipn and put in values as array
+//make text drawing function and put in values as array
 function draw() {
 	//textAlign(center)
 	//drawWords(width*0.75);
@@ -61,33 +40,31 @@ function draw() {
 	let s = numbarray.n
 	for(n=0; n> numbarray.length; n++ ){
 		//let t = numbarray.n;
-
 		text(s, 50,  ((20 * n) + 50      )    );	
 	}
 	text(" ", 50, 600);
 	text("Sorted numbers", 400, 50);
+	function rectangledrawing(){
+	for(var q = 0; q < 10; q++ ){
+	//rect(30, 30q, )
+	//
+	//
+	//
+	}
+	}
 }
-
-
-
-
-
 //function drawWords(x){
 //	fill (255);
 //	text('test text');
-
-
 function numbarraygenerator (length){ //generates random numbers for the sorting function to sort
 	//var a5 = performance.now();
 	for(var k = 0; k <length; k++){
 		var randonumber = random(1,10);
 		numbarray.push(randonumber);
 		console.log((randonumber) + k);
-		
 	}
 	//var a7 = performance.now();
 }
-
 function insertionsorter (numbarray){ //sorting function
 	var a0 = performance.now(); //measures start of time from beginning of sorting algorithm 
 	for(var i = 1; i < numbarray.length; i++){
@@ -98,10 +75,8 @@ function insertionsorter (numbarray){ //sorting function
 				numbarray[j] = numbarray[j-1];
 				numbarray[j-1] = temp;
 			}
-			
 		}
 	}
-	
 	console.log(numbarray) //console log the sorted results
 	var a1 = performance.now(); //logs the end of the sorting routine to measure time
 	console.log("total elapsed time of whole program " + (a1 - a9) + " milliseconds");
