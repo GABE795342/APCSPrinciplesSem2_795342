@@ -7,7 +7,7 @@ var i;
 var j;
 var t;
 var s;
-
+var q;
 
 
 var a9 = performance.now(); //measures time since beginning of program for total time
@@ -31,6 +31,21 @@ function setup() {
 //	
 //}
 
+
+function rectangledrawing(){
+	for(var q = 0; q < 10; q++ ){
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+}
 
 
 
