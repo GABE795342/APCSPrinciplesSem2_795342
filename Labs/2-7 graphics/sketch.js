@@ -25,9 +25,14 @@ function setup() {
 }
 //function preload(){
 //	font = loadFont('courier.otf');
-//	
-//	
+//	      
+//	    
 //}
+
+
+
+
+
 //NOTE BELOW \/\/\/\/\/\/\/\/\/\/\/\/\/
 //make text drawing function and put in values as array
 function draw() {
@@ -36,14 +41,14 @@ function draw() {
 	fill(0);
 	textSize(40);
 	textFont("Georgia");
-	text("Original numbers", 50, 50);
+	text("Original countries", 50, 50);
 	let s = numbarray.n
 	for(n=0; n> numbarray.length; n++ ){
 		//let t = numbarray.n;
 		text(s, 50,  ((20 * n) + 50      )    );	
 	}
 	text(" ", 50, 600);
-	text("Sorted numbers", 400, 50);
+	text("Sorted countries", 400, 50);
 	function rectangledrawing(){
 	for(var q = 0; q < 10; q++ ){
 	//rect(30, 30q, )
