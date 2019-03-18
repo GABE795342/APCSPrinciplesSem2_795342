@@ -1,0 +1,1427 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "pzgr-wqm5",
+      "name" : "Energy Prices, Dollars per Million Btu: Beginning 1970",
+      "attribution" : "New York State Energy Research and Development Authority",
+      "attributionLink" : "http://www.nyserda.ny.gov/Energy-Prices-Data-and-Reports/Energy-Statistics-and-Weather-Data/Energy-Statistics.aspx",
+      "averageRating" : 0,
+      "category" : "Energy & Environment",
+      "createdAt" : 1362117880,
+      "description" : "New York Energy Prices presents retail energy price data.  Energy prices are provided by fuel type in nominal dollars per million Btu for the residential, commercial, industrial, and transportation sectors.  This section includes a column in the price table displaying gross domestic product (GDP) price deflators for converting nominal (current year) dollars to constant (real) dollars.  To convert nominal to constant dollars, divide the nominal energy price by the GDP price deflator for that particular year.  Historical petroleum, electricity, coal, and natural gas prices were compiled primarily from the Energy Information Administration.",
+      "displayType" : "table",
+      "downloadCount" : 2502,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1548371086,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 30664835,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1548371104,
+      "publicationGroup" : 706576,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1548371092,
+      "rowsUpdatedBy" : "xzik-pf59",
+      "tableId" : 15886599,
+      "totalTimesRated" : 0,
+      "viewCount" : 5996,
+      "viewLastModified" : 1548371104,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 392961199,
+        "name" : "Year",
+        "dataTypeName" : "number",
+        "description" : "Beginning 1970.",
+        "fieldName" : "year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255111,
+        "width" : 72,
+        "cachedContents" : {
+          "largest" : "2016",
+          "null" : "0",
+          "top" : [ {
+            "item" : "1999",
+            "count" : "4"
+          }, {
+            "item" : "1990",
+            "count" : "4"
+          }, {
+            "item" : "1978",
+            "count" : "4"
+          }, {
+            "item" : "2005",
+            "count" : "4"
+          }, {
+            "item" : "2002",
+            "count" : "4"
+          }, {
+            "item" : "1983",
+            "count" : "4"
+          }, {
+            "item" : "1973",
+            "count" : "4"
+          }, {
+            "item" : "1998",
+            "count" : "4"
+          }, {
+            "item" : "1992",
+            "count" : "4"
+          }, {
+            "item" : "1971",
+            "count" : "4"
+          }, {
+            "item" : "1970",
+            "count" : "4"
+          }, {
+            "item" : "1985",
+            "count" : "4"
+          }, {
+            "item" : "1972",
+            "count" : "4"
+          }, {
+            "item" : "1995",
+            "count" : "4"
+          }, {
+            "item" : "1987",
+            "count" : "4"
+          }, {
+            "item" : "1975",
+            "count" : "4"
+          }, {
+            "item" : "1980",
+            "count" : "4"
+          }, {
+            "item" : "2015",
+            "count" : "4"
+          }, {
+            "item" : "1982",
+            "count" : "4"
+          }, {
+            "item" : "2014",
+            "count" : "4"
+          } ],
+          "not_null" : "188",
+          "smallest" : "1970",
+          "cardinality" : "47"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "center"
+        }
+      }, {
+        "id" : 392961200,
+        "name" : "GDP Deflator",
+        "dataTypeName" : "number",
+        "fieldName" : "gdp_deflator",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255112,
+        "width" : 85,
+        "cachedContents" : {
+          "largest" : "1",
+          "null" : "0",
+          "top" : [ {
+            "item" : "0.84",
+            "count" : "4"
+          }, {
+            "item" : "0.8971",
+            "count" : "4"
+          }, {
+            "item" : "0.7379",
+            "count" : "4"
+          }, {
+            "item" : "0.9875",
+            "count" : "4"
+          }, {
+            "item" : "0.8939",
+            "count" : "4"
+          }, {
+            "item" : "0.5675",
+            "count" : "4"
+          }, {
+            "item" : "0.5167",
+            "count" : "4"
+          }, {
+            "item" : "0.4733",
+            "count" : "4"
+          }, {
+            "item" : "1",
+            "count" : "4"
+          }, {
+            "item" : "0.2242",
+            "count" : "4"
+          }, {
+            "item" : "0.6537",
+            "count" : "4"
+          }, {
+            "item" : "0.8137",
+            "count" : "4"
+          }, {
+            "item" : "0.4483",
+            "count" : "4"
+          }, {
+            "item" : "0.185",
+            "count" : "4"
+          }, {
+            "item" : "0.1742",
+            "count" : "4"
+          }, {
+            "item" : "0.9566",
+            "count" : "4"
+          }, {
+            "item" : "0.6687",
+            "count" : "4"
+          }, {
+            "item" : "0.9864",
+            "count" : "4"
+          }, {
+            "item" : "0.4929",
+            "count" : "4"
+          }, {
+            "item" : "0.6941",
+            "count" : "4"
+          } ],
+          "not_null" : "188",
+          "smallest" : "0.1617",
+          "cardinality" : "47"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "center"
+        }
+      }, {
+        "id" : 392961201,
+        "name" : "Sector",
+        "dataTypeName" : "text",
+        "fieldName" : "sector",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 8255113,
+        "width" : 96,
+        "cachedContents" : {
+          "largest" : "Transportation",
+          "null" : "0",
+          "top" : [ {
+            "item" : "Residential",
+            "count" : "47"
+          }, {
+            "item" : "Industrial",
+            "count" : "47"
+          }, {
+            "item" : "Transportation",
+            "count" : "47"
+          }, {
+            "item" : "Commercial",
+            "count" : "47"
+          } ],
+          "not_null" : "188",
+          "smallest" : "Commercial",
+          "cardinality" : "4"
+        },
+        "format" : { }
+      }, {
+        "id" : 392961202,
+        "name" : "Coal",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "coal",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255114,
+        "width" : 71,
+        "cachedContents" : {
+          "largest" : "5.91",
+          "null" : "61",
+          "top" : [ {
+            "item" : "1.74",
+            "count" : "4"
+          }, {
+            "item" : "1.67",
+            "count" : "4"
+          }, {
+            "item" : "1.76",
+            "count" : "3"
+          }, {
+            "item" : "1.75",
+            "count" : "3"
+          }, {
+            "item" : "1.92",
+            "count" : "3"
+          }, {
+            "item" : "1.96",
+            "count" : "2"
+          }, {
+            "item" : "1.60",
+            "count" : "2"
+          }, {
+            "item" : "1.71",
+            "count" : "2"
+          }, {
+            "item" : "4.76",
+            "count" : "2"
+          }, {
+            "item" : "0.52",
+            "count" : "2"
+          }, {
+            "item" : "3.44",
+            "count" : "2"
+          }, {
+            "item" : "3.60",
+            "count" : "2"
+          }, {
+            "item" : "3.42",
+            "count" : "2"
+          }, {
+            "item" : "1.66",
+            "count" : "2"
+          }, {
+            "item" : "3.21",
+            "count" : "2"
+          }, {
+            "item" : "1.69",
+            "count" : "2"
+          }, {
+            "item" : "3.29",
+            "count" : "2"
+          }, {
+            "item" : "1.47",
+            "count" : "2"
+          }, {
+            "item" : "2.08",
+            "count" : "2"
+          }, {
+            "item" : "3.25",
+            "count" : "2"
+          } ],
+          "not_null" : "127",
+          "smallest" : "0.48",
+          "cardinality" : "96"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961203,
+        "name" : "Distillate",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "distillate",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255115,
+        "width" : 92,
+        "cachedContents" : {
+          "largest" : "29.43",
+          "null" : "0",
+          "top" : [ {
+            "item" : "6.58",
+            "count" : "2"
+          }, {
+            "item" : "6.01",
+            "count" : "2"
+          }, {
+            "item" : "6.78",
+            "count" : "2"
+          }, {
+            "item" : "18.50",
+            "count" : "2"
+          }, {
+            "item" : "1.21",
+            "count" : "2"
+          }, {
+            "item" : "5.07",
+            "count" : "2"
+          }, {
+            "item" : "6.39",
+            "count" : "2"
+          }, {
+            "item" : "8.35",
+            "count" : "2"
+          }, {
+            "item" : "6.59",
+            "count" : "1"
+          }, {
+            "item" : "7.45",
+            "count" : "1"
+          }, {
+            "item" : "16.54",
+            "count" : "1"
+          }, {
+            "item" : "7.25",
+            "count" : "1"
+          }, {
+            "item" : "11.33",
+            "count" : "1"
+          }, {
+            "item" : "6.97",
+            "count" : "1"
+          }, {
+            "item" : "7.17",
+            "count" : "1"
+          }, {
+            "item" : "3.03",
+            "count" : "1"
+          }, {
+            "item" : "8.41",
+            "count" : "1"
+          }, {
+            "item" : "5.29",
+            "count" : "1"
+          }, {
+            "item" : "24.89",
+            "count" : "1"
+          }, {
+            "item" : "28.28",
+            "count" : "1"
+          } ],
+          "not_null" : "188",
+          "smallest" : "0.70",
+          "cardinality" : "180"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961204,
+        "name" : "Residual",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "residual",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255116,
+        "width" : 91,
+        "cachedContents" : {
+          "largest" : "18.36",
+          "null" : "47",
+          "top" : [ {
+            "item" : "2.38",
+            "count" : "3"
+          }, {
+            "item" : "4.60",
+            "count" : "3"
+          }, {
+            "item" : "3.34",
+            "count" : "2"
+          }, {
+            "item" : "5.03",
+            "count" : "2"
+          }, {
+            "item" : "8.79",
+            "count" : "2"
+          }, {
+            "item" : "1.94",
+            "count" : "2"
+          }, {
+            "item" : "2.89",
+            "count" : "2"
+          }, {
+            "item" : "5.44",
+            "count" : "2"
+          }, {
+            "item" : "4.07",
+            "count" : "2"
+          }, {
+            "item" : "4.40",
+            "count" : "2"
+          }, {
+            "item" : "12.90",
+            "count" : "2"
+          }, {
+            "item" : "16.84",
+            "count" : "2"
+          }, {
+            "item" : "3.12",
+            "count" : "2"
+          }, {
+            "item" : "3.75",
+            "count" : "2"
+          }, {
+            "item" : "13.27",
+            "count" : "2"
+          }, {
+            "item" : "2.18",
+            "count" : "2"
+          }, {
+            "item" : "2.92",
+            "count" : "2"
+          }, {
+            "item" : "14.75",
+            "count" : "2"
+          }, {
+            "item" : "7.83",
+            "count" : "2"
+          }, {
+            "item" : "4.64",
+            "count" : "2"
+          } ],
+          "not_null" : "141",
+          "smallest" : "0.37",
+          "cardinality" : "99"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961205,
+        "name" : "Kerosene",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "kerosene",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255117,
+        "width" : 91,
+        "cachedContents" : {
+          "largest" : "29.84",
+          "null" : "47",
+          "top" : [ {
+            "item" : "5.56",
+            "count" : "3"
+          }, {
+            "item" : "5.80",
+            "count" : "3"
+          }, {
+            "item" : "6.03",
+            "count" : "3"
+          }, {
+            "item" : "4.44",
+            "count" : "3"
+          }, {
+            "item" : "27.06",
+            "count" : "2"
+          }, {
+            "item" : "3.07",
+            "count" : "2"
+          }, {
+            "item" : "29.84",
+            "count" : "2"
+          }, {
+            "item" : "2.28",
+            "count" : "2"
+          }, {
+            "item" : "7.92",
+            "count" : "2"
+          }, {
+            "item" : "20.83",
+            "count" : "2"
+          }, {
+            "item" : "23.77",
+            "count" : "2"
+          }, {
+            "item" : "9.08",
+            "count" : "2"
+          }, {
+            "item" : "8.92",
+            "count" : "2"
+          }, {
+            "item" : "29.62",
+            "count" : "2"
+          }, {
+            "item" : "21.47",
+            "count" : "2"
+          }, {
+            "item" : "15.92",
+            "count" : "2"
+          }, {
+            "item" : "6.23",
+            "count" : "2"
+          }, {
+            "item" : "29.68",
+            "count" : "2"
+          }, {
+            "item" : "9.97",
+            "count" : "2"
+          }, {
+            "item" : "0.78",
+            "count" : "2"
+          } ],
+          "not_null" : "141",
+          "smallest" : "0.73",
+          "cardinality" : "89"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961206,
+        "name" : "Propane",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "propane",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255118,
+        "width" : 85,
+        "cachedContents" : {
+          "largest" : "34.53",
+          "null" : "47",
+          "top" : [ {
+            "item" : "1.43",
+            "count" : "3"
+          }, {
+            "item" : "10.03",
+            "count" : "3"
+          }, {
+            "item" : "2.66",
+            "count" : "2"
+          }, {
+            "item" : "12.67",
+            "count" : "2"
+          }, {
+            "item" : "9.70",
+            "count" : "2"
+          }, {
+            "item" : "11.73",
+            "count" : "2"
+          }, {
+            "item" : "9.12",
+            "count" : "2"
+          }, {
+            "item" : "10.15",
+            "count" : "1"
+          }, {
+            "item" : "11.54",
+            "count" : "1"
+          }, {
+            "item" : "6.86",
+            "count" : "1"
+          }, {
+            "item" : "3.69",
+            "count" : "1"
+          }, {
+            "item" : "7.12",
+            "count" : "1"
+          }, {
+            "item" : "33.82",
+            "count" : "1"
+          }, {
+            "item" : "11.47",
+            "count" : "1"
+          }, {
+            "item" : "1.36",
+            "count" : "1"
+          }, {
+            "item" : "9.33",
+            "count" : "1"
+          }, {
+            "item" : "13.48",
+            "count" : "1"
+          }, {
+            "item" : "5.33",
+            "count" : "1"
+          }, {
+            "item" : "1.41",
+            "count" : "1"
+          }, {
+            "item" : "26.93",
+            "count" : "1"
+          } ],
+          "not_null" : "141",
+          "smallest" : "1.36",
+          "cardinality" : "132"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961207,
+        "name" : "Natural Gas",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "natural_gas",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255119,
+        "width" : 107,
+        "cachedContents" : {
+          "largest" : "16.42",
+          "null" : "47",
+          "top" : [ {
+            "item" : "5.02",
+            "count" : "2"
+          }, {
+            "item" : "6.32",
+            "count" : "2"
+          }, {
+            "item" : "7.19",
+            "count" : "2"
+          }, {
+            "item" : "1.47",
+            "count" : "2"
+          }, {
+            "item" : "5.95",
+            "count" : "2"
+          }, {
+            "item" : "5.91",
+            "count" : "2"
+          }, {
+            "item" : "7.15",
+            "count" : "2"
+          }, {
+            "item" : "1.55",
+            "count" : "2"
+          }, {
+            "item" : "5.99",
+            "count" : "2"
+          }, {
+            "item" : "11.54",
+            "count" : "1"
+          }, {
+            "item" : "10.51",
+            "count" : "1"
+          }, {
+            "item" : "4.65",
+            "count" : "1"
+          }, {
+            "item" : "3.45",
+            "count" : "1"
+          }, {
+            "item" : "1.09",
+            "count" : "1"
+          }, {
+            "item" : "1.58",
+            "count" : "1"
+          }, {
+            "item" : "7.45",
+            "count" : "1"
+          }, {
+            "item" : "11.16",
+            "count" : "1"
+          }, {
+            "item" : "3.02",
+            "count" : "1"
+          }, {
+            "item" : "2.82",
+            "count" : "1"
+          }, {
+            "item" : "3.79",
+            "count" : "1"
+          } ],
+          "not_null" : "141",
+          "smallest" : "0.68",
+          "cardinality" : "132"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961208,
+        "name" : "Electricity",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "electricity",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255120,
+        "width" : 79,
+        "cachedContents" : {
+          "largest" : "58.83",
+          "null" : "0",
+          "top" : [ {
+            "item" : "16.97",
+            "count" : "2"
+          }, {
+            "item" : "30.86",
+            "count" : "2"
+          }, {
+            "item" : "27.53",
+            "count" : "2"
+          }, {
+            "item" : "23.21",
+            "count" : "2"
+          }, {
+            "item" : "41.14",
+            "count" : "2"
+          }, {
+            "item" : "22.59",
+            "count" : "2"
+          }, {
+            "item" : "14.98",
+            "count" : "1"
+          }, {
+            "item" : "45.46",
+            "count" : "1"
+          }, {
+            "item" : "28.98",
+            "count" : "1"
+          }, {
+            "item" : "3.51",
+            "count" : "1"
+          }, {
+            "item" : "23.29",
+            "count" : "1"
+          }, {
+            "item" : "11.43",
+            "count" : "1"
+          }, {
+            "item" : "4.43",
+            "count" : "1"
+          }, {
+            "item" : "15.34",
+            "count" : "1"
+          }, {
+            "item" : "8.92",
+            "count" : "1"
+          }, {
+            "item" : "20.92",
+            "count" : "1"
+          }, {
+            "item" : "30.28",
+            "count" : "1"
+          }, {
+            "item" : "12.11",
+            "count" : "1"
+          }, {
+            "item" : "20.63",
+            "count" : "1"
+          }, {
+            "item" : "18.97",
+            "count" : "1"
+          } ],
+          "not_null" : "188",
+          "smallest" : "3.51",
+          "cardinality" : "182"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961209,
+        "name" : "Wood",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "wood",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255121,
+        "width" : 76,
+        "cachedContents" : {
+          "largest" : "10.18",
+          "null" : "141",
+          "top" : [ {
+            "item" : "0.42",
+            "count" : "2"
+          }, {
+            "item" : "0.49",
+            "count" : "1"
+          }, {
+            "item" : "0.75",
+            "count" : "1"
+          }, {
+            "item" : "0.79",
+            "count" : "1"
+          }, {
+            "item" : "0.85",
+            "count" : "1"
+          }, {
+            "item" : "0.96",
+            "count" : "1"
+          }, {
+            "item" : "1.01",
+            "count" : "1"
+          }, {
+            "item" : "1.45",
+            "count" : "1"
+          }, {
+            "item" : "1.75",
+            "count" : "1"
+          }, {
+            "item" : "1.76",
+            "count" : "1"
+          }, {
+            "item" : "1.83",
+            "count" : "1"
+          }, {
+            "item" : "1.95",
+            "count" : "1"
+          }, {
+            "item" : "2.02",
+            "count" : "1"
+          }, {
+            "item" : "2.27",
+            "count" : "1"
+          }, {
+            "item" : "2.29",
+            "count" : "1"
+          }, {
+            "item" : "2.30",
+            "count" : "1"
+          }, {
+            "item" : "2.33",
+            "count" : "1"
+          }, {
+            "item" : "2.34",
+            "count" : "1"
+          }, {
+            "item" : "2.35",
+            "count" : "1"
+          }, {
+            "item" : "2.38",
+            "count" : "1"
+          } ],
+          "not_null" : "47",
+          "smallest" : "0.40",
+          "cardinality" : "46"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961210,
+        "name" : "Motor Gasoline",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "motor_gasoline",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255122,
+        "width" : 126,
+        "cachedContents" : {
+          "largest" : "30.19",
+          "null" : "141",
+          "top" : [ {
+            "item" : "9.57",
+            "count" : "2"
+          }, {
+            "item" : "5.34",
+            "count" : "1"
+          }, {
+            "item" : "8.56",
+            "count" : "1"
+          }, {
+            "item" : "9.93",
+            "count" : "1"
+          }, {
+            "item" : "26.68",
+            "count" : "1"
+          }, {
+            "item" : "6.99",
+            "count" : "1"
+          }, {
+            "item" : "4.58",
+            "count" : "1"
+          }, {
+            "item" : "4.97",
+            "count" : "1"
+          }, {
+            "item" : "11.54",
+            "count" : "1"
+          }, {
+            "item" : "9.08",
+            "count" : "1"
+          }, {
+            "item" : "9.28",
+            "count" : "1"
+          }, {
+            "item" : "4.80",
+            "count" : "1"
+          }, {
+            "item" : "8.83",
+            "count" : "1"
+          }, {
+            "item" : "6.60",
+            "count" : "1"
+          }, {
+            "item" : "18.11",
+            "count" : "1"
+          }, {
+            "item" : "20.77",
+            "count" : "1"
+          }, {
+            "item" : "10.26",
+            "count" : "1"
+          }, {
+            "item" : "10.04",
+            "count" : "1"
+          }, {
+            "item" : "18.13",
+            "count" : "1"
+          }, {
+            "item" : "9.44",
+            "count" : "1"
+          } ],
+          "not_null" : "47",
+          "smallest" : "2.92",
+          "cardinality" : "46"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      }, {
+        "id" : 392961211,
+        "name" : "Jet Fuel",
+        "dataTypeName" : "number",
+        "description" : "Dollars per million British thermal units",
+        "fieldName" : "jet_fuel",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 8255123,
+        "width" : 86,
+        "cachedContents" : {
+          "largest" : "23.16",
+          "null" : "141",
+          "top" : [ {
+            "item" : "0.75",
+            "count" : "2"
+          }, {
+            "item" : "1.54",
+            "count" : "1"
+          }, {
+            "item" : "6.27",
+            "count" : "1"
+          }, {
+            "item" : "3.40",
+            "count" : "1"
+          }, {
+            "item" : "5.79",
+            "count" : "1"
+          }, {
+            "item" : "22.15",
+            "count" : "1"
+          }, {
+            "item" : "4.04",
+            "count" : "1"
+          }, {
+            "item" : "16.46",
+            "count" : "1"
+          }, {
+            "item" : "4.42",
+            "count" : "1"
+          }, {
+            "item" : "0.72",
+            "count" : "1"
+          }, {
+            "item" : "9.06",
+            "count" : "1"
+          }, {
+            "item" : "14.89",
+            "count" : "1"
+          }, {
+            "item" : "4.88",
+            "count" : "1"
+          }, {
+            "item" : "6.90",
+            "count" : "1"
+          }, {
+            "item" : "6.87",
+            "count" : "1"
+          }, {
+            "item" : "7.02",
+            "count" : "1"
+          }, {
+            "item" : "11.99",
+            "count" : "1"
+          }, {
+            "item" : "6.51",
+            "count" : "1"
+          }, {
+            "item" : "7.49",
+            "count" : "1"
+          }, {
+            "item" : "4.23",
+            "count" : "1"
+          } ],
+          "not_null" : "47",
+          "smallest" : "0.72",
+          "cardinality" : "46"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "humane" : "false",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "rdfSubject" : "0",
+        "attachments" : [ {
+          "filename" : "NYSERDA_New_York_Energy_Prices_Data_File_Layout.pdf",
+          "assetId" : "",
+          "blobId" : "2BD92CB9-D886-405C-ACD3-0F90DD7EB4EE",
+          "name" : "NYSERDA_New_York_Energy_Prices_Data_File_Layout.pdf"
+        }, {
+          "filename" : "NYSERDA_New York Energy Prices_Overview.pdf",
+          "assetId" : "qNTFPHaxBXMPqCah5rPzzdzBsZyOQtT4yVxz9mWRrSM",
+          "blobId" : "",
+          "name" : "NYSERDA_New York Energy Prices_Overview.pdf"
+        } ],
+        "custom_fields" : {
+          "Dataset Summary" : {
+            "Posting Frequency" : "Annually",
+            "Organization" : "Energy Analysis",
+            "Contact Information" : "openny@nyserda.ny.gov",
+            "Time Period" : "1970 - present",
+            "Coverage" : "Statewide by Sector (Residential, Commercial, Industrial, Transportation)",
+            "Granularity" : "Sector (Residential, Commercial, Industrial, Transportation)",
+            "Units" : "US Dollars per million Btu",
+            "Dataset Owner" : "Energy Analysis, New York State Energy Research and Development Authority",
+            "Data Frequency" : "Annual"
+          },
+          "Common Core" : {
+            "Contact Email" : "opendata@its.ny.gov",
+            "Contact Name" : "Open Data NY",
+            "Publisher" : "State of New York"
+          },
+          "Disclaimers" : {
+            "Limitations" : "Prices provided are in nominal dollars.  To convert nominal to constant dollars, divide the nominal energy price by the GDP price deflator for that particular year. "
+          },
+          "Dataset Information" : {
+            "Agency" : "Energy Research and Development Authority"
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rowLabel" : "Row",
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "xzik-pf59",
+        "displayName" : "NY Open Data",
+        "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+        "screenName" : "NY Open Data",
+        "type" : "interactive"
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : false,
+          "expression" : {
+            "columnId" : 392961199,
+            "type" : "column"
+          }
+        }, {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 392961201,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "xzik-pf59",
+        "displayName" : "NY Open Data",
+        "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+        "screenName" : "NY Open Data",
+        "type" : "interactive"
+      },
+      "tags" : [ "energy prices", "prices by sector", "nominal prices", "real prices" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-bes4-ust2_76vk", "00000000-0000-0000-82BC-3F9C2EE19685", 0, 1548371092, null, 1548371092, null, "{ }", "2016", "1", "Commercial", null, "11.45", "6.10", "13.27", "12.61", "5.99", "42.35", null, null, null ]
+, [ "row-tpmz_gk69~xtzh", "00000000-0000-0000-2278-F85EF3DDDBB4", 0, 1548371092, null, 1548371092, null, "{ }", "2016", "1", "Industrial", "3.60", "11.26", "6.10", "11.28", "11.73", "5.74", "17.67", null, null, null ]
+, [ "row-f2pw_f4xx.9twu", "00000000-0000-0000-9E0B-FD5199506D64", 0, 1548371092, null, 1548371092, null, "{ }", "2016", "1", "Residential", null, "16.54", null, "13.27", "27.08", "10.51", "51.51", "5.72", null, null ]
+, [ "row-63yx~izdg-fq63", "00000000-0000-0000-C196-54F65D0BCD1C", 0, 1548371092, null, 1548371092, null, "{ }", "2016", "1", "Transportation", null, "17.51", "5.60", null, null, null, "35.33", null, "18.11", "9.49" ]
+, [ "row-c9w8-qzkt-49dq", "00000000-0000-0000-1A3F-789D62F641F2", 0, 1548371092, null, 1548371092, null, "{ }", "2015", "0.9875", "Commercial", null, "14.49", "7.83", "16.65", "13.41", "6.64", "44.86", null, null, null ]
+, [ "row-x6tm_zvtx~ebsx", "00000000-0000-0000-5C21-46D11D0A9AFB", 0, 1548371092, null, 1548371092, null, "{ }", "2015", "0.9875", "Industrial", "4.02", "15.04", "7.83", "14.41", "12.67", "6.41", "18.49", null, null, null ]
+, [ "row-sy45-rh5n.nef2", "00000000-0000-0000-CCA0-CA555FDBD85C", 0, 1548371092, null, 1548371092, null, "{ }", "2015", "0.9875", "Residential", null, "19.26", null, "16.65", "27.57", "10.84", "54.33", "6.70", null, null ]
+, [ "row-qnfs~2nnh-gu9m", "00000000-0000-0000-1117-8C4109B13843", 0, 1548371092, null, 1548371092, null, "{ }", "2015", "0.9875", "Transportation", null, "21.02", "7.46", null, null, null, "37.97", null, "20.46", "11.99" ]
+, [ "row-qrn3_cicr-qf7u", "00000000-0000-0000-1F4B-E6C449E7F8B0", 0, 1548371092, null, 1548371092, null, "{ }", "2014", "0.9864", "Commercial", null, "21.79", "14.75", "29.84", "22.25", "8.04", "47.25", null, null, null ]
+, [ "row-9nzr~387e_vj2e", "00000000-0000-0000-E37A-147474203B47", 0, 1548371092, null, 1548371092, null, "{ }", "2014", "0.9864", "Industrial", "4.24", "22.77", "14.75", "24.64", "23.02", "7.87", "19.28", null, null, null ]
+, [ "row-56ha~w5m7.h6pr", "00000000-0000-0000-256F-17891654DDCD", 0, 1548371092, null, 1548371092, null, "{ }", "2014", "0.9864", "Residential", null, "27.57", null, "29.84", "34.53", "12.13", "58.83", "9.72", null, null ]
+, [ "row-rcfk.ws7a_n883", "00000000-0000-0000-6E0B-F5101B00A3C6", 0, 1548371092, null, 1548371092, null, "{ }", "2014", "0.9864", "Transportation", null, "28.64", "13.19", null, null, null, "40.49", null, "28.36", "20.61" ]
+, [ "row-b9y4.7cxt_ggmv", "00000000-0000-0000-87D2-9064FB347DD7", 0, 1548371092, null, 1548371092, null, "{ }", "2013", "0.9706", "Commercial", null, "25.03", "16.84", "29.68", "21.04", "7.73", "45.00", null, null, null ]
+, [ "row-iahv_37bu~km9k", "00000000-0000-0000-FD1E-3E446F301B6C", 0, 1548371092, null, 1548371092, null, "{ }", "2013", "0.9706", "Industrial", "4.37", "24.18", "16.84", "26.03", "21.60", "7.19", "19.30", null, null, null ]
+, [ "row-femb~sbxb_2ba7", "00000000-0000-0000-D446-45AC81ABB94D", 0, 1548371092, null, 1548371092, null, "{ }", "2013", "0.9706", "Residential", null, "28.25", null, "29.68", "31.29", "12.07", "55.08", "9.97", null, null ]
+, [ "row-wqwv.fkgf~i9k4", "00000000-0000-0000-8EB7-8CCA07ABFDD6", 0, 1548371092, null, 1548371092, null, "{ }", "2013", "0.9706", "Transportation", null, "28.80", "15.52", null, null, null, "40.01", null, "29.42", "22.15" ]
+, [ "row-zccc_uphz-bir9", "00000000-0000-0000-6F81-FACC78412B98", 0, 1548371092, null, 1548371092, null, "{ }", "2012", "0.9566", "Commercial", null, "25.79", "18.36", "29.62", "21.36", "7.60", "44.13", null, null, null ]
+, [ "row-9cb5-k6dc~769x", "00000000-0000-0000-67E6-6FE9A4F301C1", 0, 1548371092, null, 1548371092, null, "{ }", "2012", "0.9566", "Industrial", "4.73", "24.88", "18.36", "25.67", "21.98", "6.70", "19.62", null, null, null ]
+, [ "row-nt4i.6sy2-cjs9", "00000000-0000-0000-556C-BD0244005729", 0, 1548371092, null, 1548371092, null, "{ }", "2012", "0.9566", "Residential", null, "28.69", null, "29.62", "31.58", "12.56", "51.63", "10.18", null, null ]
+, [ "row-a53c-zxyv-k852", "00000000-0000-0000-0F97-48366FEA02CB", 0, 1548371092, null, 1548371092, null, "{ }", "2012", "0.9566", "Transportation", null, "29.43", "15.40", null, null, null, "41.63", null, "30.19", "23.16" ]
+, [ "row-33wn-zka4_k4rz", "00000000-0000-0000-EE6E-CB5C85C1387A", 0, 1548371092, null, 1548371092, null, "{ }", "2011", "0.9372", "Commercial", "5.78", "24.73", "17.41", "28.13", "26.93", "9.08", "46.33", null, null, null ]
+, [ "row-qnea-p8tz.ip5y", "00000000-0000-0000-BBBC-03FB82C9133D", 0, 1548371092, null, 1548371092, null, "{ }", "2011", "0.9372", "Industrial", "4.74", "23.60", "17.41", "24.56", "28.51", "7.97", "22.96", null, null, null ]
+, [ "row-5382~dtfm_ejeh", "00000000-0000-0000-A886-0BD5A9E61B4E", 0, 1548371092, null, 1548371092, null, "{ }", "2011", "0.9372", "Residential", null, "25.82", null, "28.13", "33.82", "13.35", "53.52", "9.15", null, null ]
+, [ "row-x8xp~8kja-5xmc", "00000000-0000-0000-03E3-09560D2B4CE9", 0, 1548371092, null, 1548371092, null, "{ }", "2011", "0.9372", "Transportation", null, "28.50", "14.81", null, null, null, "39.41", null, "29.13", "22.77" ]
+, [ "row-3bun_9p2c~qskj", "00000000-0000-0000-31A1-8EA3AC8EE2A4", 0, 1548371092, null, 1548371092, null, "{ }", "2010", "0.9085", "Commercial", "5.91", "18.50", "12.90", "23.77", "23.62", "10.63", "47.79", null, null, null ]
+, [ "row-x63v-a664~cebq", "00000000-0000-0000-0A56-4DADF5B7B1A3", 0, 1548371092, null, 1548371092, null, "{ }", "2010", "0.9085", "Industrial", "4.44", "19.16", "12.90", "18.61", "24.69", "8.35", "25.76", null, null, null ]
+, [ "row-f6zq~ghez-9wuc", "00000000-0000-0000-8B14-5BA4CE6EE2B6", 0, 1548371092, null, 1548371092, null, "{ }", "2010", "0.9085", "Residential", null, "21.88", null, "23.77", "30.12", "13.72", "54.93", "7.61", null, null ]
+, [ "row-kfyq-gp3s~dypk", "00000000-0000-0000-4AD7-D2A5F0397837", 0, 1548371092, null, 1548371092, null, "{ }", "2010", "0.9085", "Transportation", null, "22.32", "10.86", null, null, null, "40.28", null, "22.93", "16.43" ]
+, [ "row-jfa6~qked.5zun", "00000000-0000-0000-AAD0-5C30C0EA241C", 0, 1548371092, null, 1548371092, null, "{ }", "2009", "0.8939", "Commercial", "5.80", "15.02", "9.94", "20.83", "20.62", "10.49", "45.36", null, null, null ]
+, [ "row-r74y_swja.ii63", "00000000-0000-0000-4420-585FAF905F2E", 0, 1548371092, null, 1548371092, null, "{ }", "2009", "0.8939", "Industrial", "4.01", "14.36", "9.94", "15.14", "23.81", "9.32", "24.54", null, null, null ]
+, [ "row-3xtb_bmbg.nswi", "00000000-0000-0000-5F92-BA9328E41310", 0, 1548371092, null, 1548371092, null, "{ }", "2009", "0.8939", "Residential", null, "18.92", null, "20.83", "28.40", "14.73", "51.29", "6.40", null, null ]
+, [ "row-g5c4.zv34~t48k", "00000000-0000-0000-09E6-682E07C25D20", 0, 1548371092, null, 1548371092, null, "{ }", "2009", "0.8939", "Transportation", null, "18.26", "8.24", null, null, null, "38.49", null, "19.37", "12.64" ]
+, [ "row-zs3b~wmrs_eqh6", "00000000-0000-0000-8CF9-C11CFFDFAAAB", 0, 1548371092, null, 1548371092, null, "{ }", "2008", "0.8971", "Commercial", "4.49", "23.58", "13.27", "27.06", "25.55", "12.59", "49.22", null, null, null ]
+, [ "row-55fs-qys5~9zke", "00000000-0000-0000-17E3-9F2B4AEBC06D", 0, 1548371092, null, 1548371092, null, "{ }", "2008", "0.8971", "Industrial", "3.44", "23.77", "13.27", "22.73", "28.95", "12.04", "27.53", null, null, null ]
+, [ "row-q9j9.aakq~nrft", "00000000-0000-0000-6DFC-8FE52509CF8C", 0, 1548371092, null, 1548371092, null, "{ }", "2008", "0.8971", "Residential", null, "24.89", null, "27.06", "31.33", "16.42", "53.66", "8.59", null, null ]
+, [ "row-a5yt-uaun~b4hh", "00000000-0000-0000-EF58-4E9A50716A86", 0, 1548371092, null, 1548371092, null, "{ }", "2008", "0.8971", "Transportation", null, "28.28", "12.08", null, null, null, "37.05", null, "26.68", "23.13" ]
+, [ "row-stq7_eph3.z9rb", "00000000-0000-0000-EB76-A544A3848327", 0, 1548371092, null, 1548371092, null, "{ }", "2007", "0.8639", "Commercial", "2.76", "17.16", "9.82", "21.47", "21.18", "11.54", "46.65", null, null, null ]
+, [ "row-5zt5_68q6.cs27", "00000000-0000-0000-1B47-3B931FC32E39", 0, 1548371092, null, 1548371092, null, "{ }", "2007", "0.8639", "Industrial", "2.91", "17.32", "9.82", "18.02", "24.16", "11.16", "25.53", null, null, null ]
+, [ "row-dpdf~f7tt.cy4k", "00000000-0000-0000-50E6-2666C4D0C6A3", 0, 1548371092, null, 1548371092, null, "{ }", "2007", "0.8639", "Residential", "4.76", "20.19", null, "21.47", "26.75", "15.36", "50.11", "6.97", null, null ]
+, [ "row-hxkh-3syp_vmva", "00000000-0000-0000-86B2-1C7FECF53C7A", 0, 1548371092, null, 1548371092, null, "{ }", "2007", "0.8639", "Transportation", null, "20.65", "7.85", null, null, null, "32.14", null, "22.49", "16.46" ]
+, [ "row-4ycu_tzyv.c2x5", "00000000-0000-0000-A055-CB4BDE82DD04", 0, 1548371092, null, 1548371092, null, "{ }", "2006", "0.84", "Commercial", "2.88", "15.59", "8.79", "19.27", "19.43", "11.65", "45.46", null, null, null ]
+, [ "row-65cw-6zr8~2ti4", "00000000-0000-0000-5086-D02D0FD3B034", 0, 1548371092, null, 1548371092, null, "{ }", "2006", "0.84", "Industrial", "2.97", "15.84", "8.79", "15.79", "20.71", "10.33", "27.53", null, null, null ]
+, [ "row-zpgs~83k4~5u2a", "00000000-0000-0000-91E3-4B265B91F0F7", 0, 1548371092, null, 1548371092, null, "{ }", "2006", "0.84", "Residential", "4.76", "18.50", null, "19.27", "24.64", "15.02", "49.51", "6.31", null, null ]
+, [ "row-w93i_485u.7e3q", "00000000-0000-0000-6F4F-433C20756892", 0, 1548371092, null, 1548371092, null, "{ }", "2006", "0.84", "Transportation", null, "19.78", "7.81", null, null, null, "34.98", null, "20.77", "14.89" ]
+, [ "row-tjk2.fwqw~prej", "00000000-0000-0000-2C5B-58380BC9737D", 0, 1548371092, null, 1548371092, null, "{ }", "2005", "0.8137", "Commercial", "2.08", "13.61", "7.57", "15.92", "17.53", "11.50", "42.08", null, null, null ]
+, [ "row-rers~3aze_u93i", "00000000-0000-0000-6E9B-C34E129B99D6", 0, 1548371092, null, 1548371092, null, "{ }", "2005", "0.8137", "Industrial", "2.27", "13.73", "7.57", "13.47", "18.67", "10.48", "24.11", null, null, null ]
+, [ "row-9g78-ttki.xnx5", "00000000-0000-0000-59BE-2EFA62DFDD27", 0, 1548371092, null, 1548371092, null, "{ }", "2005", "0.8137", "Residential", "5.18", "15.82", null, "15.92", "21.82", "14.51", "46.08", "5.48", null, null ]
+, [ "row-brmi_t2wd~neey", "00000000-0000-0000-DF46-680B07861370", 0, 1548371092, null, 1548371092, null, "{ }", "2005", "0.8137", "Transportation", null, "17.48", "6.78", null, null, null, "33.40", null, "18.13", "13.10" ]
+, [ "row-4mcz_ckvn_d2t4", "00000000-0000-0000-31F1-03AEF34EEF07", 0, 1548371092, null, 1548371092, null, "{ }", "2004", "0.7871", "Commercial", "1.87", "9.73", "5.36", "12.01", "15.61", "9.84", "38.04", null, null, null ]
+, [ "row-hqbd_ctw7.bg28", "00000000-0000-0000-6DBB-6B37AF837958", 0, 1548371092, null, 1548371092, null, "{ }", "2004", "0.7871", "Industrial", "1.96", "9.20", "5.36", "10.22", "17.11", "7.84", "20.63", null, null, null ]
+, [ "row-uzup~fprn.p3va", "00000000-0000-0000-10EA-6C72BA4D16BF", 0, 1548371092, null, 1548371092, null, "{ }", "2004", "0.7871", "Residential", "3.60", "12.24", null, "12.01", "19.51", "12.17", "42.62", "4.14", null, null ]
+, [ "row-ffn9~2qgr.zt3f", "00000000-0000-0000-8763-549E52F46E63", 0, 1548371092, null, 1548371092, null, "{ }", "2004", "0.7871", "Transportation", null, "13.48", "4.71", null, null, null, "23.21", null, "15.13", "9.06" ]
+, [ "row-dun3_bwft~rxmu", "00000000-0000-0000-F0F3-8099DAFD05A3", 0, 1548371092, null, 1548371092, null, "{ }", "2003", "0.7666", "Commercial", "1.76", "7.93", "5.44", "9.97", "13.95", "8.37", "37.89", null, null, null ]
+, [ "row-ua5n.6a37.9yze", "00000000-0000-0000-E97D-0246051363CD", 0, 1548371092, null, 1548371092, null, "{ }", "2003", "0.7666", "Industrial", "1.81", "7.79", "5.44", "8.13", "15.11", "7.15", "20.92", null, null, null ]
+, [ "row-z8i7.2qcz~m2mb", "00000000-0000-0000-42B4-40A255FEB0D7", 0, 1548371092, null, 1548371092, null, "{ }", "2003", "0.7666", "Residential", "3.42", "10.79", null, "9.97", "17.56", "11.28", "41.94", "3.64", null, null ]
+, [ "row-zvya_ywv6~7kj4", "00000000-0000-0000-DAC4-8A701DE4F46C", 0, 1548371092, null, 1548371092, null, "{ }", "2003", "0.7666", "Transportation", null, "11.49", "4.53", null, null, null, "27.49", null, "12.67", "6.76" ]
+, [ "row-ynrb~zkjp~h8g2", "00000000-0000-0000-5F70-504B42E48D3F", 0, 1548371092, null, 1548371092, null, "{ }", "2002", "0.7496", "Commercial", "1.92", "6.38", "4.12", "7.92", "11.82", "6.26", "34.55", null, null, null ]
+, [ "row-umna~phsq-vbzv", "00000000-0000-0000-B51A-64CB39F92F97", 0, 1548371092, null, 1548371092, null, "{ }", "2002", "0.7496", "Industrial", "1.92", "6.39", "4.12", "6.03", "12.31", "5.40", "15.17", null, null, null ]
+, [ "row-gjeq.x9rx_x8pb", "00000000-0000-0000-726E-3436C4F89EE2", 0, 1548371092, null, 1548371092, null, "{ }", "2002", "0.7496", "Residential", "3.63", "9.14", null, "7.92", "15.37", "9.61", "39.71", "3.03", null, null ]
+, [ "row-4ubf.grut_aiqr", "00000000-0000-0000-0A8F-A85972FC43C1", 0, 1548371092, null, 1548371092, null, "{ }", "2002", "0.7496", "Transportation", null, "9.81", "3.47", null, null, null, "23.29", null, "10.92", "5.54" ]
+, [ "row-6qiz~3bv5_pf62", "00000000-0000-0000-2BD3-93AB0CD7A16D", 0, 1548371092, null, 1548371092, null, "{ }", "2001", "0.7379", "Commercial", "1.62", "6.76", "4.07", "8.74", "13.16", "9.30", "35.88", null, null, null ]
+, [ "row-zy2z.4aqt-cptf", "00000000-0000-0000-2707-687D5DD9EFC0", 0, 1548371092, null, 1548371092, null, "{ }", "2001", "0.7379", "Industrial", "1.66", "6.61", "4.07", "6.73", "13.01", "7.47", "16.28", null, null, null ]
+, [ "row-nv7k.4474.qywy", "00000000-0000-0000-C156-6BDFCB1820D3", 0, 1548371092, null, 1548371092, null, "{ }", "2001", "0.7379", "Residential", "3.42", "10.23", null, "8.74", "17.50", "11.37", "41.14", "3.34", null, null ]
+, [ "row-2tx5-j3q3~rmjs", "00000000-0000-0000-FF47-579EDAC4150C", 0, 1548371092, null, 1548371092, null, "{ }", "2001", "0.7379", "Transportation", null, "10.53", "3.17", null, null, null, "24.18", null, "11.54", "5.79" ]
+, [ "row-qpwg.epsk~b49r", "00000000-0000-0000-29D5-336987821F88", 0, 1548371092, null, 1548371092, null, "{ }", "2000", "0.7175", "Commercial", "1.60", "7.96", "4.60", "9.44", "12.42", "7.53", "35.46", null, null, null ]
+, [ "row-55zw-9s2s.6z9y", "00000000-0000-0000-3B40-D32A4D4C8AC1", 0, 1548371092, null, 1548371092, null, "{ }", "2000", "0.7175", "Industrial", "1.63", "7.60", "4.60", "8.26", "12.67", "5.95", "15.75", null, null, null ]
+, [ "row-9b83_n58m~9k32", "00000000-0000-0000-996B-7B84FDAFE439", 0, 1548371092, null, 1548371092, null, "{ }", "2000", "0.7175", "Residential", "3.02", "10.82", null, "9.44", "16.68", "9.55", "40.95", "3.50", null, null ]
+, [ "row-ahqc-erdz.tw33", "00000000-0000-0000-E656-EDC6637709BD", 0, 1548371092, null, 1548371092, null, "{ }", "2000", "0.7175", "Transportation", null, "11.33", "4.10", null, null, null, "23.90", null, "12.27", "6.90" ]
+, [ "row-x85c.s8cv.vrjt", "00000000-0000-0000-8B04-2EACA27C3F6B", 0, 1548371092, null, 1548371092, null, "{ }", "1999", "0.6941", "Commercial", "1.34", "4.71", "2.78", "5.45", "9.70", "5.01", "30.28", null, null, null ]
+, [ "row-gyf3_x8j5_btkh", "00000000-0000-0000-40CD-51D63A76F8DD", 0, 1548371092, null, 1548371092, null, "{ }", "1999", "0.6941", "Industrial", "1.47", "4.68", "2.78", "4.63", "9.70", "3.79", "13.96", null, null, null ]
+, [ "row-rzrj_kpp2_3vx6", "00000000-0000-0000-5EE8-1B6D2E0775C7", 0, 1548371092, null, 1548371092, null, "{ }", "1999", "0.6941", "Residential", "3.21", "7.27", null, "5.45", "13.25", "8.87", "38.90", "2.33", null, null ]
+, [ "row-p9pj_w6x9-d8jb", "00000000-0000-0000-E9EC-939EB475AC17", 0, 1548371092, null, 1548371092, null, "{ }", "1999", "0.6941", "Transportation", null, "8.81", "2.47", null, null, null, "23.85", null, "9.57", "4.23" ]
+, [ "row-wajm_92yn~bxyq", "00000000-0000-0000-8FB1-35FDAE64D002", 0, 1548371092, null, 1548371092, null, "{ }", "1998", "0.6791", "Commercial", "1.37", "4.40", "2.38", "4.44", "9.52", "5.91", "32.36", null, null, null ]
+, [ "row-b7q6-3udh~vmwn", "00000000-0000-0000-C6A3-78E07DDFABBA", 0, 1548371092, null, 1548371092, null, "{ }", "1998", "0.6791", "Industrial", "1.45", "4.18", "2.38", "4.01", "9.49", "3.90", "14.49", null, null, null ]
+, [ "row-utdh.ek7t.8e2s", "00000000-0000-0000-130A-99C9D0E4FD4F", 0, 1548371092, null, 1548371092, null, "{ }", "1998", "0.6791", "Residential", "3.25", "7.12", null, "4.44", "13.05", "9.31", "39.91", "2.27", null, null ]
+, [ "row-v8t9~hz76.3vay", "00000000-0000-0000-7503-8FFDF98B207C", 0, 1548371092, null, 1548371092, null, "{ }", "1998", "0.6791", "Transportation", null, "8.21", "1.94", null, null, null, "24.07", null, "8.56", "3.40" ]
+, [ "row-v37z-yyfa-66a2", "00000000-0000-0000-E771-D76D019CD1C0", 0, 1548371092, null, 1548371092, null, "{ }", "1997", "0.6687", "Commercial", "1.65", "5.50", "3.44", "6.26", "10.74", "6.32", "34.22", null, null, null ]
+, [ "row-3p43-h7ju.6zux", "00000000-0000-0000-9B0E-C525C892034F", 0, 1548371092, null, 1548371092, null, "{ }", "1997", "0.6687", "Industrial", "1.69", "5.40", "3.44", "5.24", "10.20", "4.92", "15.23", null, null, null ]
+, [ "row-b6xc~ithw_63jx", "00000000-0000-0000-A718-1B4C4D78D67F", 0, 1548371092, null, 1548371092, null, "{ }", "1997", "0.6687", "Residential", "3.57", "7.99", null, "6.26", "14.15", "9.47", "41.38", "2.63", null, null ]
+, [ "row-fdtp.6m63_w7gq", "00000000-0000-0000-02B3-69E24109BD48", 0, 1548371092, null, 1548371092, null, "{ }", "1997", "0.6687", "Transportation", null, "9.29", "2.79", null, null, null, "24.98", null, "10.04", "4.53" ]
+, [ "row-73pm.qcqa~ucjt", "00000000-0000-0000-102D-FE9DE2C69078", 0, 1548371092, null, 1548371092, null, "{ }", "1996", "0.6537", "Commercial", "1.60", "6.01", "4.04", "6.03", "11.17", "6.69", "34.05", null, null, null ]
+, [ "row-c9ch-b3sj.hgvt", "00000000-0000-0000-D3B2-1CC8D8846C21", 0, 1548371092, null, 1548371092, null, "{ }", "1996", "0.6537", "Industrial", "1.64", "5.88", "4.04", "5.72", "9.24", "4.91", "16.48", null, null, null ]
+, [ "row-pg4m_hcba.ikts", "00000000-0000-0000-15AA-4FB48F0B9208", 0, 1548371092, null, 1548371092, null, "{ }", "1996", "0.6537", "Residential", "3.38", "7.98", null, "6.03", "14.06", "8.67", "41.14", "2.64", null, null ]
+, [ "row-vcf6~szjd_aq5f", "00000000-0000-0000-2FC7-1BF37AEFBABA", 0, 1548371092, null, 1548371092, null, "{ }", "1996", "0.6537", "Transportation", null, "9.68", "3.15", null, null, null, "24.90", null, "9.93", "4.88" ]
+, [ "row-m56n~ruze_8c5i", "00000000-0000-0000-575A-40214CEB42C2", 0, 1548371092, null, 1548371092, null, "{ }", "1995", "0.635", "Commercial", "1.67", "5.07", "3.34", "5.38", "10.03", "5.91", "33.64", null, null, null ]
+, [ "row-npne~3k8a.8ugy", "00000000-0000-0000-4E08-DA93411AC5BA", 0, 1548371092, null, 1548371092, null, "{ }", "1995", "0.635", "Industrial", "1.69", "4.84", "3.34", "4.46", "8.70", "4.55", "16.97", null, null, null ]
+, [ "row-c42q~2yke.ej5m", "00000000-0000-0000-F5AD-4328020E79A8", 0, 1548371092, null, 1548371092, null, "{ }", "1995", "0.635", "Residential", "3.18", "7.17", null, "5.38", "13.48", "8.17", "40.73", "2.30", null, null ]
+, [ "row-k38a-cku9~qv43", "00000000-0000-0000-2427-34C92239EF31", 0, 1548371092, null, 1548371092, null, "{ }", "1995", "0.635", "Transportation", null, "9.02", "2.66", null, null, null, "24.79", null, "9.57", "4.04" ]
+, [ "row-8nvd.6xwk.38tk", "00000000-0000-0000-EDE3-2D2A808CFA2F", 0, 1548371092, null, 1548371092, null, "{ }", "1994", "0.6175", "Commercial", "1.67", "5.16", "3.08", "5.62", "10.31", "6.33", "33.03", null, null, null ]
+, [ "row-pg5y-meaz-t2yt", "00000000-0000-0000-6CE4-0F79B6A583F9", 0, 1548371092, null, 1548371092, null, "{ }", "1994", "0.6175", "Industrial", "1.70", "5.09", "3.08", "5.15", "8.76", "5.08", "19.86", null, null, null ]
+, [ "row-uk3m_g5j6.qst6", "00000000-0000-0000-0333-9B9544DD0060", 0, 1548371092, null, 1548371092, null, "{ }", "1994", "0.6175", "Residential", "3.29", "7.25", null, "5.62", "13.80", "8.51", "39.72", "2.35", null, null ]
+, [ "row-eynx_62ja_zgpx", "00000000-0000-0000-0836-9072EFF3374C", 0, 1548371092, null, 1548371092, null, "{ }", "1994", "0.6175", "Transportation", null, "9.26", "2.40", null, null, null, "25.44", null, "9.16", "4.14" ]
+, [ "row-p9gn.8pn8-i7fa", "00000000-0000-0000-2D9D-90BA0AAD4B98", 0, 1548371092, null, 1548371092, null, "{ }", "1993", "0.6021", "Commercial", "1.67", "5.29", "2.88", "5.56", "9.12", "5.99", "32.92", null, null, null ]
+, [ "row-a54p-wr29-nhg5", "00000000-0000-0000-EF79-893738804781", 0, 1548371092, null, 1548371092, null, "{ }", "1993", "0.6021", "Industrial", "1.70", "5.07", "2.88", "4.84", "9.87", "5.02", "19.53", null, null, null ]
+, [ "row-prw4.ia89_bwfv", "00000000-0000-0000-99BB-5533154CC4EC", 0, 1548371092, null, 1548371092, null, "{ }", "1993", "0.6021", "Residential", "3.25", "7.51", null, "5.56", "13.35", "7.91", "38.61", "2.42", null, null ]
+, [ "row-2if5_k2pt_ntdi", "00000000-0000-0000-B468-857D14E62EEA", 0, 1548371092, null, 1548371092, null, "{ }", "1993", "0.6021", "Transportation", null, "9.04", "2.29", null, null, null, "25.00", null, "9.08", "4.47" ]
+, [ "row-sfxg.zbre-ezhz", "00000000-0000-0000-C001-296485331C94", 0, 1548371092, null, 1548371092, null, "{ }", "1992", "0.5846", "Commercial", "1.75", "5.47", "2.89", "5.80", "9.33", "5.59", "31.52", null, null, null ]
+, [ "row-saxu.27c9~ah9q", "00000000-0000-0000-3551-365655204023", 0, 1548371092, null, 1548371092, null, "{ }", "1992", "0.5846", "Industrial", "1.74", "5.51", "2.89", "4.88", "10.03", "4.79", "19.06", null, null, null ]
+, [ "row-exe9~4e4q.6wkx", "00000000-0000-0000-291F-0455DA32890D", 0, 1548371092, null, 1548371092, null, "{ }", "1992", "0.5846", "Residential", "3.21", "7.71", null, "5.80", "14.43", "7.37", "36.43", "2.48", null, null ]
+, [ "row-xh63.6g8f-vvwg", "00000000-0000-0000-479B-DFC4BCA976FA", 0, 1548371092, null, 1548371092, null, "{ }", "1992", "0.5846", "Transportation", null, "8.89", "2.33", null, null, null, "23.77", null, "9.28", "4.84" ]
+, [ "row-rr84_i47u.dkq4", "00000000-0000-0000-C900-6B800CFE0149", 0, 1548371092, null, 1548371092, null, "{ }", "1991", "0.5675", "Commercial", "1.74", "6.01", "2.83", "6.23", "10.86", "5.32", "30.36", null, null, null ]
+, [ "row-aptp_fx2y~2cbf", "00000000-0000-0000-213C-F80CC11327C9", 0, 1548371092, null, 1548371092, null, "{ }", "1991", "0.5675", "Industrial", "1.73", "5.60", "2.83", "5.80", "11.73", "4.60", "18.07", null, null, null ]
+, [ "row-kc5j-jn5z-fux6", "00000000-0000-0000-595E-9CFD70E41F6D", 0, 1548371092, null, 1548371092, null, "{ }", "1991", "0.5675", "Residential", "3.44", "8.35", null, "6.23", "14.59", "7.15", "35.08", "2.71", null, null ]
+, [ "row-7vca~nu77_87fe", "00000000-0000-0000-291E-C47146CB25DE", 0, 1548371092, null, 1548371092, null, "{ }", "1991", "0.5675", "Transportation", null, "9.06", "2.38", null, null, null, "21.38", null, "9.44", "5.18" ]
+, [ "row-475c~s4gc_rpqw", "00000000-0000-0000-40B8-C0CCCF231645", 0, 1548371092, null, 1548371092, null, "{ }", "1990", "0.5446", "Commercial", "1.76", "6.54", "3.75", "6.83", "10.15", "5.43", "29.48", null, null, null ]
+, [ "row-b3ua-pues-x8tg", "00000000-0000-0000-4702-C7C62D5133EA", 0, 1548371092, null, 1548371092, null, "{ }", "1990", "0.5446", "Industrial", "1.74", "6.78", "3.75", "6.46", "10.92", "4.72", "16.95", null, null, null ]
+, [ "row-qppp~z2gd.92mg", "00000000-0000-0000-52BB-C3EE7ADB0CE4", 0, 1548371092, null, 1548371092, null, "{ }", "1990", "0.5446", "Residential", "3.59", "8.44", null, "6.83", "13.64", "7.19", "33.54", "2.83", null, null ]
+, [ "row-j52s.xzkz.q6dz", "00000000-0000-0000-86B2-ADB0E93B9B5B", 0, 1548371092, null, 1548371092, null, "{ }", "1990", "0.5446", "Transportation", null, "8.99", "3.13", null, null, null, "21.66", null, "8.83", "6.03" ]
+, [ "row-tagq-xe35.xd2q", "00000000-0000-0000-6616-45278012D2F7", 0, 1548371092, null, 1548371092, null, "{ }", "1989", "0.5167", "Commercial", "1.75", "5.28", "3.12", "5.41", "9.71", "5.47", "27.99", null, null, null ]
+, [ "row-699z~heuc_kt2x", "00000000-0000-0000-9174-9B873F80FFC2", 0, 1548371092, null, 1548371092, null, "{ }", "1989", "0.5167", "Industrial", "1.71", "4.74", "3.12", "5.28", "10.24", "4.70", "15.52", null, null, null ]
+, [ "row-43yi-kqx9_j9c6", "00000000-0000-0000-E22C-348F6EBA10B3", 0, 1548371092, null, 1548371092, null, "{ }", "1989", "0.5167", "Residential", "3.36", "7.18", null, "5.41", "11.54", "7.02", "32.03", "1.95", null, null ]
+, [ "row-ywbi-vpda~7tnm", "00000000-0000-0000-3F00-DAB245C397BB", 0, 1548371092, null, 1548371092, null, "{ }", "1989", "0.5167", "Transportation", null, "7.36", "2.62", null, null, null, "22.65", null, "7.82", "4.70" ]
+, [ "row-gyij.smqt.8aqu", "00000000-0000-0000-0A14-85A772EBEDC4", 0, 1548371092, null, 1548371092, null, "{ }", "1988", "0.4929", "Commercial", "1.71", "4.75", "2.67", "6.31", "11.10", "5.24", "27.13", null, null, null ]
+, [ "row-bbvg-92ng~f2b6", "00000000-0000-0000-82F3-64D2067D6904", 0, 1548371092, null, 1548371092, null, "{ }", "1988", "0.4929", "Industrial", "1.66", "4.27", "2.67", "4.44", "11.81", "4.56", "14.47", null, null, null ]
+, [ "row-4hzx-r5id-u82r", "00000000-0000-0000-0EA0-2552E0181A0C", 0, 1548371092, null, 1548371092, null, "{ }", "1988", "0.4929", "Residential", "3.29", "6.47", null, "6.31", "9.53", "6.32", "30.67", "1.76", null, null ]
+, [ "row-zp2p~vpi2_vdfs", "00000000-0000-0000-4AB7-F2811B3E78BE", 0, 1548371092, null, 1548371092, null, "{ }", "1988", "0.4929", "Transportation", null, "6.78", "2.18", null, null, null, "21.39", null, "7.16", "4.15" ]
+, [ "row-resk~vg8n-wvy5", "00000000-0000-0000-AD8B-51D1D7EAD088", 0, 1548371092, null, 1548371092, null, "{ }", "1987", "0.4733", "Commercial", "1.76", "4.90", "3.22", "6.80", "11.20", "5.02", "27.96", null, null, null ]
+, [ "row-9m4a-zi55_9chq", "00000000-0000-0000-270D-B2CDD7508B1F", 0, 1548371092, null, 1548371092, null, "{ }", "1987", "0.4733", "Industrial", "1.68", "4.64", "3.22", "4.65", "11.90", "4.16", "14.74", null, null, null ]
+, [ "row-brj2~4su8-43in", "00000000-0000-0000-9BD6-603FB725707D", 0, 1548371092, null, 1548371092, null, "{ }", "1987", "0.4733", "Residential", "3.27", "6.39", null, "6.80", "9.64", "6.68", "30.81", "1.75", null, null ]
+, [ "row-zukv_54bf~dej8", "00000000-0000-0000-DE9E-B49C027BA5FD", 0, 1548371092, null, 1548371092, null, "{ }", "1987", "0.4733", "Transportation", null, "6.74", "2.84", null, null, null, "22.59", null, "6.99", "4.55" ]
+, [ "row-6ari-tgv9-szv6", "00000000-0000-0000-C505-0BDCA255DB9A", 0, 1548371092, null, 1548371092, null, "{ }", "1986", "0.4567", "Commercial", "1.74", "4.88", "2.92", "7.90", "11.47", "5.61", "29.62", null, null, null ]
+, [ "row-dc6n-zyrw~gkyn", "00000000-0000-0000-0378-476A15F653DA", 0, 1548371092, null, 1548371092, null, "{ }", "1986", "0.4567", "Industrial", "1.75", "4.12", "2.92", "4.88", "12.25", "4.78", "14.43", null, null, null ]
+, [ "row-59a5.xwb4~2u56", "00000000-0000-0000-115D-A21069D2B5C7", 0, 1548371092, null, 1548371092, null, "{ }", "1986", "0.4567", "Residential", "3.39", "6.83", null, "7.90", "9.96", "7.26", "30.86", "1.83", null, null ]
+, [ "row-ceyp.43tc_yn8x", "00000000-0000-0000-D77E-3661B2597C94", 0, 1548371092, null, 1548371092, null, "{ }", "1986", "0.4567", "Transportation", null, "6.59", "2.27", null, null, null, "19.51", null, "6.60", "4.42" ]
+, [ "row-vsv6.rgyc_xaee", "00000000-0000-0000-7942-20A88B7BCB71", 0, 1548371092, null, 1548371092, null, "{ }", "1985", "0.4483", "Commercial", "1.92", "6.79", "4.64", "8.92", "11.67", "5.95", "30.86", null, null, null ]
+, [ "row-gdwt~cwsg~as87", "00000000-0000-0000-AF2E-B3CC937DC835", 0, 1548371092, null, 1548371092, null, "{ }", "1985", "0.4483", "Industrial", "1.91", "6.14", "4.64", "6.91", "12.62", "5.13", "15.34", null, null, null ]
+, [ "row-uy83.cxh4.7jq5", "00000000-0000-0000-67E2-8BB4D943FE20", 0, 1548371092, null, 1548371092, null, "{ }", "1985", "0.4483", "Residential", "3.61", "8.35", null, "8.92", "11.12", "7.54", "31.84", "2.29", null, null ]
+, [ "row-z8qk.yry6.wgzq", "00000000-0000-0000-1846-FE1DA335C52C", 0, 1548371092, null, 1548371092, null, "{ }", "1985", "0.4483", "Transportation", null, "8.48", "4.08", null, null, null, "19.65", null, "8.79", "6.51" ]
+, [ "row-69e7-n8ka-38m4", "00000000-0000-0000-51F7-15B6E29E32CA", 0, 1548371092, null, 1548371092, null, "{ }", "1984", "0.4329", "Commercial", "1.94", "7.23", "5.03", "9.08", "7.60", "6.10", "31.04", null, null, null ]
+, [ "row-n6np_caug_gh88", "00000000-0000-0000-38BC-C94E774BEF98", 0, 1548371092, null, 1548371092, null, "{ }", "1984", "0.4329", "Industrial", "1.97", "6.58", "5.03", "7.18", "8.22", "5.22", "16.41", null, null, null ]
+, [ "row-2rg6~7xa6-jnhf", "00000000-0000-0000-0824-EFB155277B03", 0, 1548371092, null, 1548371092, null, "{ }", "1984", "0.4329", "Residential", "3.74", "8.66", null, "9.08", "10.03", "7.45", "31.17", "2.38", null, null ]
+, [ "row-bbnm~u869_csni", "00000000-0000-0000-3CDE-F9169A5505E0", 0, 1548371092, null, 1548371092, null, "{ }", "1984", "0.4329", "Transportation", null, "8.82", "4.55", null, null, null, "20.47", null, "8.71", "6.87" ]
+, [ "row-4tkj_8hme.v4v4", "00000000-0000-0000-6296-EF848BEC6225", 0, 1548371092, null, 1548371092, null, "{ }", "1983", "0.415", "Commercial", "1.96", "7.11", "4.49", "7.57", "7.12", "6.31", "33.00", null, null, null ]
+, [ "row-dtt9_igu3-fw73", "00000000-0000-0000-50EB-1B23F4E0B7B6", 0, 1548371092, null, 1548371092, null, "{ }", "1983", "0.415", "Industrial", "2.02", "6.97", "4.40", "7.15", "7.69", "5.54", "15.66", null, null, null ]
+, [ "row-dzfw_z2ph~aqaw", "00000000-0000-0000-F11B-D910A525AEAE", 0, 1548371092, null, 1548371092, null, "{ }", "1983", "0.415", "Residential", "3.68", "8.41", null, "7.57", "10.55", "7.67", "32.08", "2.34", null, null ]
+, [ "row-pqci~mijj-ar4b", "00000000-0000-0000-70F5-CCFCB6ECCBEC", 0, 1548371092, null, 1548371092, null, "{ }", "1983", "0.415", "Transportation", null, "8.98", "4.23", null, null, null, "22.59", null, "9.17", "6.94" ]
+, [ "row-2359_724z-43jh", "00000000-0000-0000-98FE-249238AA590B", 0, 1548371092, null, 1548371092, null, "{ }", "1982", "0.4021", "Commercial", "2.01", "7.95", "4.60", "7.50", "6.86", "5.37", "31.03", null, null, null ]
+, [ "row-qth9~tndr-c5g4", "00000000-0000-0000-B5A0-F23327E7D1AB", 0, 1548371092, null, 1548371092, null, "{ }", "1982", "0.4021", "Industrial", "2.34", "6.88", "4.65", "7.50", "7.39", "4.87", "16.43", null, null, null ]
+, [ "row-udrz~snu3-92wh", "00000000-0000-0000-5A59-E2B242D01689", 0, 1548371092, null, 1548371092, null, "{ }", "1982", "0.4021", "Residential", "3.86", "8.69", null, "10.91", "10.23", "6.38", "30.76", "2.41", null, null ]
+, [ "row-8i5e.fs6d_7p6h", "00000000-0000-0000-A498-E94EF7A4D4A5", 0, 1548371092, null, 1548371092, null, "{ }", "1982", "0.4021", "Transportation", null, "8.96", "4.18", null, null, null, "21.60", null, "10.45", "7.02" ]
+, [ "row-yjhw-hvtn.7yhe", "00000000-0000-0000-68CA-ACC51CCD3A6B", 0, 1548371092, null, 1548371092, null, "{ }", "1981", "0.3787", "Commercial", "1.89", "8.20", "5.05", "7.00", "5.75", "4.65", "29.35", null, null, null ]
+, [ "row-8xd9-keji.a9kr", "00000000-0000-0000-E5F4-40C4CD34C1B7", 0, 1548371092, null, 1548371092, null, "{ }", "1981", "0.3787", "Industrial", "2.26", "6.58", "4.83", "7.00", "6.13", "3.89", "15.55", null, null, null ]
+, [ "row-piig-tn39_wijc", "00000000-0000-0000-F0CA-A407AF904BDF", 0, 1548371092, null, 1548371092, null, "{ }", "1981", "0.3787", "Residential", "3.67", "8.88", null, "10.85", "9.85", "5.41", "28.98", "2.49", null, null ]
+, [ "row-hfb7_xu7i-cswz", "00000000-0000-0000-BE14-EEDC32D7A4C4", 0, 1548371092, null, 1548371092, null, "{ }", "1981", "0.3787", "Transportation", null, "9.45", "4.40", null, null, null, "17.29", null, "11.22", "7.49" ]
+, [ "row-9s9t~pdbv_z5kv", "00000000-0000-0000-4460-C19BD8FF22EC", 0, 1548371092, null, 1548371092, null, "{ }", "1980", "0.3433", "Commercial", "1.67", "6.48", "4.18", "5.68", "5.54", "4.17", "23.21", null, null, null ]
+, [ "row-h4wg_7zvr~46bu", "00000000-0000-0000-DD4D-31871A78F644", 0, 1548371092, null, 1548371092, null, "{ }", "1980", "0.3433", "Industrial", "2.08", "5.36", "3.78", "5.68", "5.85", "3.43", "12.11", null, null, null ]
+, [ "row-r73k-pgf6~ndza", "00000000-0000-0000-94A1-0614ECAA2E53", 0, 1548371092, null, 1548371092, null, "{ }", "1980", "0.3433", "Residential", "3.26", "7.08", null, "8.49", "9.12", "4.85", "23.08", "2.02", null, null ]
+, [ "row-u3tr.6vif~h3sc", "00000000-0000-0000-CE89-05DB75CE6297", 0, 1548371092, null, 1548371092, null, "{ }", "1980", "0.3433", "Transportation", null, "7.45", "3.53", null, null, null, "15.02", null, "10.26", "6.27" ]
+, [ "row-m8sd~qjdg_h9tb", "00000000-0000-0000-6752-099F208A0D9A", 0, 1548371092, null, 1548371092, null, "{ }", "1979", "0.3025", "Commercial", "1.56", "4.65", "3.00", "4.11", "4.14", "3.45", "19.67", null, null, null ]
+, [ "row-f2ng~3fjz.pvd8", "00000000-0000-0000-74D0-26138477A749", 0, 1548371092, null, 1548371092, null, "{ }", "1979", "0.3025", "Industrial", "1.99", "3.92", "2.81", "4.11", "4.36", "2.70", "10.42", null, null, null ]
+, [ "row-i784.d67h.xrt7", "00000000-0000-0000-A4B6-E60E2A759D0E", 0, 1548371092, null, 1548371092, null, "{ }", "1979", "0.3025", "Residential", "3.09", "5.13", null, "5.56", "7.26", "4.07", "20.93", "1.45", null, null ]
+, [ "row-xsbw~kdtc_4w7h", "00000000-0000-0000-39F6-35648CB1F120", 0, 1548371092, null, 1548371092, null, "{ }", "1979", "0.3025", "Transportation", null, "5.24", "2.66", null, null, null, "15.25", null, "7.41", "3.85" ]
+, [ "row-n5ym~4z2j-2sr2", "00000000-0000-0000-D652-F223A8FA7185", 0, 1548371092, null, 1548371092, null, "{ }", "1978", "0.2717", "Commercial", "1.46", "3.22", "1.98", "3.07", "3.76", "3.02", "18.24", null, null, null ]
+, [ "row-upb9_7tcv_3gpu", "00000000-0000-0000-82AE-14A366DC6ED3", 0, 1548371092, null, 1548371092, null, "{ }", "1978", "0.2717", "Industrial", "1.95", "2.94", "2.28", "3.07", "4.03", "2.24", "9.25", null, null, null ]
+, [ "row-nykh.dzi4_kkyj", "00000000-0000-0000-98D3-60A08CA5FE45", 0, 1548371092, null, 1548371092, null, "{ }", "1978", "0.2717", "Residential", "3.00", "3.61", null, "4.09", "5.77", "3.63", "18.97", "1.01", null, null ]
+, [ "row-f27q-xww4~v2uy", "00000000-0000-0000-D2AB-B16A43AE2336", 0, 1548371092, null, 1548371092, null, "{ }", "1978", "0.2717", "Transportation", null, "3.67", "1.74", null, null, null, "13.42", null, "5.34", "2.86" ]
+, [ "row-e92c-s7hg.zpfm", "00000000-0000-0000-6027-B489F5F99744", 0, 1548371092, null, 1548371092, null, "{ }", "1977", "0.2525", "Commercial", "1.36", "3.06", "2.18", "2.90", "3.69", "2.82", "18.68", null, null, null ]
+, [ "row-n6sk.n87u~85j9", "00000000-0000-0000-302D-BF5C80D3909A", 0, 1548371092, null, 1548371092, null, "{ }", "1977", "0.2525", "Industrial", "1.83", "2.79", "2.26", "2.90", "3.94", "1.90", "8.97", null, null, null ]
+, [ "row-gzt2~x962~aj2j", "00000000-0000-0000-E14D-A5A02AA36A8A", 0, 1548371092, null, 1548371092, null, "{ }", "1977", "0.2525", "Residential", "3.04", "3.37", null, "3.86", "5.33", "3.25", "18.40", "0.96", null, null ]
+, [ "row-k2qc.3emp-vxrs", "00000000-0000-0000-E644-300E5D7A8769", 0, 1548371092, null, 1548371092, null, "{ }", "1977", "0.2525", "Transportation", null, "3.47", "1.94", null, null, null, "11.43", null, "5.24", "2.51" ]
+, [ "row-ap6w-v28h.u3yf", "00000000-0000-0000-A88E-A02445C9F7E5", 0, 1548371092, null, 1548371092, null, "{ }", "1976", "0.2371", "Commercial", "1.35", "2.64", "1.85", "2.54", "3.06", "2.32", "17.38", null, null, null ]
+, [ "row-yswr.qptt-zfx2", "00000000-0000-0000-049F-F099E197DFE4", 0, 1548371092, null, 1548371092, null, "{ }", "1976", "0.2371", "Industrial", "1.86", "2.43", "2.00", "2.54", "3.22", "1.55", "7.99", null, null, null ]
+, [ "row-3tu4-wkbs_ek4q", "00000000-0000-0000-3FD9-3054033FA479", 0, 1548371092, null, 1548371092, null, "{ }", "1976", "0.2371", "Residential", "2.80", "2.97", null, "3.43", "4.90", "2.83", "16.97", "0.85", null, null ]
+, [ "row-w83t~tciv.72iy", "00000000-0000-0000-067B-C24ECAD12BFB", 0, 1548371092, null, 1548371092, null, "{ }", "1976", "0.2371", "Transportation", null, "3.03", "1.70", null, null, null, "13.84", null, "4.97", "2.18" ]
+, [ "row-irjc_uns6-hyqd", "00000000-0000-0000-4D48-869113D72F1B", 0, 1548371092, null, 1548371092, null, "{ }", "1975", "0.2242", "Commercial", "1.36", "2.48", "1.90", "2.51", "2.99", "1.97", "16.57", null, null, null ]
+, [ "row-ab2n-727h_h2hi", "00000000-0000-0000-0655-E3C4EBB30242", 0, 1548371092, null, 1548371092, null, "{ }", "1975", "0.2242", "Industrial", "1.82", "2.36", "2.01", "2.51", "3.15", "1.47", "7.97", null, null, null ]
+, [ "row-srm6~pu7b.qh3a", "00000000-0000-0000-B6F6-B10F93574597", 0, 1548371092, null, 1548371092, null, "{ }", "1975", "0.2242", "Residential", "2.78", "2.81", null, "3.28", "4.48", "2.50", "16.44", "0.79", null, null ]
+, [ "row-xbh5~3gyb_2qpr", "00000000-0000-0000-5950-220EE54919D3", 0, 1548371092, null, 1548371092, null, "{ }", "1975", "0.2242", "Transportation", null, "2.84", "1.67", null, null, null, "13.66", null, "4.80", "2.01" ]
+, [ "row-i5vs_8j9p~jp6y", "00000000-0000-0000-162B-C723B25E2310", 0, 1548371092, null, 1548371092, null, "{ }", "1974", "0.2054", "Commercial", "1.09", "2.34", "1.98", "2.28", "2.41", "1.55", "15.22", null, null, null ]
+, [ "row-x2h2~ryr2~dy74", "00000000-0000-0000-C090-57A9A02CA7ED", 0, 1548371092, null, 1548371092, null, "{ }", "1974", "0.2054", "Industrial", "1.47", "2.18", "1.85", "2.28", "2.52", "1.09", "6.74", null, null, null ]
+, [ "row-anty~8egf~i443", "00000000-0000-0000-90C3-F7E36C00629C", 0, 1548371092, null, 1548371092, null, "{ }", "1974", "0.2054", "Residential", "2.04", "2.66", null, "3.04", "4.34", "1.96", "14.98", "0.75", null, null ]
+, [ "row-3ha4_ciyi-n3sz", "00000000-0000-0000-4584-A00932A67E5C", 0, 1548371092, null, 1548371092, null, "{ }", "1974", "0.2054", "Transportation", null, "2.70", "1.76", null, null, null, "12.40", null, "4.58", "1.54" ]
+, [ "row-fngv~i9bu.8shg", "00000000-0000-0000-7669-FABDEAFC307B", 0, 1548371092, null, 1548371092, null, "{ }", "1973", "0.185", "Commercial", "0.52", "1.42", "0.78", "0.95", "1.43", "1.33", "10.41", null, null, null ]
+, [ "row-yudd.mwrn.pzer", "00000000-0000-0000-6AAC-AD6D9815D0C1", 0, 1548371092, null, 1548371092, null, "{ }", "1973", "0.185", "Industrial", "0.75", "0.91", "0.77", "0.95", "1.48", "0.88", "4.43", null, null, null ]
+, [ "row-jcnx_rtfa~43w6", "00000000-0000-0000-50FB-95FE82AA5994", 0, 1548371092, null, 1548371092, null, "{ }", "1973", "0.185", "Residential", "1.49", "1.73", null, "2.02", "3.73", "1.69", "10.98", "0.49", null, null ]
+, [ "row-mn8a~hyf3_qcrg", "00000000-0000-0000-0535-DD66C1B5682A", 0, 1548371092, null, 1548371092, null, "{ }", "1973", "0.185", "Transportation", null, "1.75", "0.70", null, null, null, "7.36", null, "3.35", "0.89" ]
+, [ "row-psyn.92j7.6pwq", "00000000-0000-0000-B36C-F9E5F6C5F7F7", 0, 1548371092, null, 1548371092, null, "{ }", "1972", "0.1742", "Commercial", "0.52", "1.21", "0.61", "0.78", "1.36", "1.28", "9.52", null, null, null ]
+, [ "row-uvr2_xhpp_3vhe", "00000000-0000-0000-B0C0-A08862253F95", 0, 1548371092, null, 1548371092, null, "{ }", "1972", "0.1742", "Industrial", "0.66", "0.74", "0.62", "0.78", "1.41", "0.84", "4.16", null, null, null ]
+, [ "row-bquc_zawv.it8p", "00000000-0000-0000-54CA-4B44AE43DDBA", 0, 1548371092, null, 1548371092, null, "{ }", "1972", "0.1742", "Residential", "1.43", "1.52", null, "1.65", "2.66", "1.58", "10.05", "0.42", null, null ]
+, [ "row-uk77_2qhu-77xe", "00000000-0000-0000-AD29-187F2B20F69E", 0, 1548371092, null, 1548371092, null, "{ }", "1972", "0.1742", "Transportation", null, "1.41", "0.54", null, null, null, "6.30", null, "3.15", "0.75" ]
+, [ "row-edhv_42k8-wbw3", "00000000-0000-0000-1665-82E08678C735", 0, 1548371092, null, 1548371092, null, "{ }", "1971", "0.1687", "Commercial", "0.56", "1.21", "0.53", "0.79", "1.39", "1.24", "8.92", null, null, null ]
+, [ "row-dehj.bxyb.wvif", "00000000-0000-0000-3ECB-4CEC5A172A60", 0, 1548371092, null, 1548371092, null, "{ }", "1971", "0.1687", "Industrial", "0.64", "0.75", "0.65", "0.79", "1.43", "0.76", "3.89", null, null, null ]
+, [ "row-4az3_y4ay~5usu", "00000000-0000-0000-2855-03E701D3A470", 0, 1548371092, null, 1548371092, null, "{ }", "1971", "0.1687", "Residential", "1.83", "1.51", null, "1.66", "2.65", "1.47", "9.49", "0.42", null, null ]
+, [ "row-wcej.inwh~ktcs", "00000000-0000-0000-F252-166EBBB303C3", 0, 1548371092, null, 1548371092, null, "{ }", "1971", "0.1687", "Transportation", null, "1.45", "0.47", null, null, null, "5.50", null, "3.02", "0.75" ]
+, [ "row-gb9a_38f6-7zc8", "00000000-0000-0000-35D9-369C314084F8", 0, 1548371092, null, 1548371092, null, "{ }", "1970", "0.1617", "Commercial", "0.48", "1.14", "0.42", "0.73", "1.43", "1.17", "7.80", null, null, null ]
+, [ "row-phcu_j3nh_6bpm", "00000000-0000-0000-6A9B-D61C0AF23202", 0, 1548371092, null, 1548371092, null, "{ }", "1970", "0.1617", "Industrial", "0.53", "0.70", "0.49", "0.73", "1.46", "0.68", "3.51", null, null, null ]
+, [ "row-bybi_bezz~78fs", "00000000-0000-0000-80F0-657A67B328B9", 0, 1548371092, null, 1548371092, null, "{ }", "1970", "0.1617", "Residential", "1.43", "1.43", null, "1.56", "2.66", "1.37", "8.83", "0.40", null, null ]
+, [ "row-5djs_7xa5_icym", "00000000-0000-0000-8A8B-E1E46A2B3204", 0, 1548371092, null, 1548371092, null, "{ }", "1970", "0.1617", "Transportation", null, "1.44", "0.37", null, null, null, "4.82", null, "2.92", "0.72" ]
+ ]
+}

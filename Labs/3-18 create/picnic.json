@@ -1,0 +1,1461 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "tik2-ywhq",
+      "name" : "Picnic Sites",
+      "attribution" : "Seattle Parks and Recreation",
+      "averageRating" : 0,
+      "category" : "Parks and Recreation",
+      "createdAt" : 1461109164,
+      "description" : "Seattle Parks and Recreation Reservable Picnic Sites",
+      "displayType" : "table",
+      "downloadCount" : 1055,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1552604628,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 30664934,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1548376671,
+      "publicationGroup" : 10096019,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1552604625,
+      "rowsUpdatedBy" : "px5w-37c9",
+      "tableId" : 15886637,
+      "totalTimesRated" : 0,
+      "viewCount" : 747,
+      "viewLastModified" : 1552604621,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 392963054,
+        "name" : "Shelter Name ",
+        "dataTypeName" : "text",
+        "description" : "",
+        "fieldName" : "shelter_name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 35773408,
+        "width" : 253,
+        "cachedContents" : {
+          "largest" : "Woodland Park Shelter #7",
+          "non_null" : 55,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Matthews Beach Park Picnic Area Tables Only",
+            "count" : 20
+          }, {
+            "item" : "Pratt Park Picnic Area Tables Only",
+            "count" : 19
+          }, {
+            "item" : "Jefferson Shelter #1",
+            "count" : 18
+          }, {
+            "item" : "Lincoln Park Shelter #5",
+            "count" : 17
+          }, {
+            "item" : "View Ridge Playfield Shelter #1",
+            "count" : 16
+          }, {
+            "item" : "Warren G. Magnuson Park Shelter #1",
+            "count" : 15
+          }, {
+            "item" : "Warren G. Magnuson Park Shelter #3",
+            "count" : 14
+          }, {
+            "item" : "View Ridge Playfield Picnic Area Tables Only",
+            "count" : 13
+          }, {
+            "item" : "Benefit Playground Shelter #1",
+            "count" : 12
+          }, {
+            "item" : "Jefferson Shelter #3",
+            "count" : 11
+          }, {
+            "item" : "John C. Little, Sr. Park Shelter #1",
+            "count" : 10
+          }, {
+            "item" : "Judkins Park and Playfield Shelter #1",
+            "count" : 9
+          }, {
+            "item" : "Woodland Park Shelter #3",
+            "count" : 8
+          }, {
+            "item" : "Woodland Park Shelter #4",
+            "count" : 7
+          } ],
+          "smallest" : "Alki Beach Park Shelter #1"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963055,
+        "name" : "Fee ",
+        "dataTypeName" : "number",
+        "description" : "",
+        "fieldName" : "fee",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 35773409,
+        "width" : 79,
+        "cachedContents" : {
+          "largest" : "320.00",
+          "non_null" : 55,
+          "average" : "144.2727272727273",
+          "null" : 0,
+          "top" : [ {
+            "item" : "210.00",
+            "count" : 20
+          }, {
+            "item" : "135.00",
+            "count" : 19
+          }, {
+            "item" : "185.00",
+            "count" : 18
+          }, {
+            "item" : "0.00",
+            "count" : 17
+          }, {
+            "item" : "120.00",
+            "count" : 16
+          }, {
+            "item" : "195.00",
+            "count" : 15
+          }, {
+            "item" : "160.00",
+            "count" : 14
+          }, {
+            "item" : "285.00",
+            "count" : 13
+          }, {
+            "item" : "145.00",
+            "count" : 12
+          }, {
+            "item" : "110.00",
+            "count" : 11
+          }, {
+            "item" : "170.00",
+            "count" : 10
+          }, {
+            "item" : "310.00",
+            "count" : 9
+          }, {
+            "item" : "220.00",
+            "count" : 8
+          }, {
+            "item" : "320.00",
+            "count" : 7
+          }, {
+            "item" : "235.00",
+            "count" : 6
+          } ],
+          "smallest" : "0.00",
+          "sum" : "7935.00"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "currencyStyle" : "USD",
+          "precision" : "2",
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963056,
+        "name" : "Capacity",
+        "dataTypeName" : "number",
+        "description" : "",
+        "fieldName" : "capacity",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 35773410,
+        "width" : 75,
+        "cachedContents" : {
+          "largest" : "300",
+          "non_null" : 55,
+          "average" : "97.81818181818182",
+          "null" : 0,
+          "top" : [ {
+            "item" : "50",
+            "count" : 20
+          }, {
+            "item" : "160",
+            "count" : 19
+          }, {
+            "item" : "75",
+            "count" : 18
+          }, {
+            "item" : "30",
+            "count" : 17
+          }, {
+            "item" : "100",
+            "count" : 16
+          }, {
+            "item" : "210",
+            "count" : 15
+          }, {
+            "item" : "130",
+            "count" : 14
+          }, {
+            "item" : "150",
+            "count" : 13
+          }, {
+            "item" : "250",
+            "count" : 12
+          }, {
+            "item" : "80",
+            "count" : 11
+          }, {
+            "item" : "90",
+            "count" : 10
+          }, {
+            "item" : "40",
+            "count" : 9
+          }, {
+            "item" : "200",
+            "count" : 8
+          }, {
+            "item" : "190",
+            "count" : 7
+          }, {
+            "item" : "300",
+            "count" : 6
+          }, {
+            "item" : "120",
+            "count" : 5
+          }, {
+            "item" : "60",
+            "count" : 4
+          }, {
+            "item" : "35",
+            "count" : 3
+          }, {
+            "item" : "140",
+            "count" : 2
+          } ],
+          "smallest" : "30",
+          "sum" : "5380"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963057,
+        "name" : "Unsheltered Tables",
+        "dataTypeName" : "number",
+        "description" : "",
+        "fieldName" : "unsheltered_tables",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 35773412,
+        "width" : 51,
+        "cachedContents" : {
+          "largest" : "25",
+          "non_null" : 38,
+          "average" : "9.157894736842105",
+          "null" : 17,
+          "top" : [ {
+            "item" : "14",
+            "count" : 20
+          }, {
+            "item" : "2",
+            "count" : 19
+          }, {
+            "item" : "4",
+            "count" : 18
+          }, {
+            "item" : "12",
+            "count" : 17
+          }, {
+            "item" : "19",
+            "count" : 16
+          }, {
+            "item" : "5",
+            "count" : 15
+          }, {
+            "item" : "21",
+            "count" : 14
+          }, {
+            "item" : "10",
+            "count" : 13
+          }, {
+            "item" : "7",
+            "count" : 12
+          }, {
+            "item" : "0",
+            "count" : 11
+          }, {
+            "item" : "22",
+            "count" : 10
+          }, {
+            "item" : "3",
+            "count" : 9
+          }, {
+            "item" : "9",
+            "count" : 8
+          }, {
+            "item" : "6",
+            "count" : 7
+          }, {
+            "item" : "18",
+            "count" : 6
+          }, {
+            "item" : "8",
+            "count" : 5
+          }, {
+            "item" : "25",
+            "count" : 4
+          }, {
+            "item" : "11",
+            "count" : 3
+          } ],
+          "smallest" : "0",
+          "sum" : "348"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963058,
+        "name" : "Sheltered Tables ",
+        "dataTypeName" : "number",
+        "description" : "",
+        "fieldName" : "sheltered_tables",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 35773411,
+        "width" : 83,
+        "cachedContents" : {
+          "largest" : "8",
+          "non_null" : 36,
+          "average" : "2.972222222222222",
+          "null" : 19,
+          "top" : [ {
+            "item" : "4",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          }, {
+            "item" : "2",
+            "count" : 17
+          }, {
+            "item" : "7",
+            "count" : 16
+          }, {
+            "item" : "8",
+            "count" : 15
+          }, {
+            "item" : "0",
+            "count" : 14
+          }, {
+            "item" : "5",
+            "count" : 13
+          } ],
+          "smallest" : "0",
+          "sum" : "107"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963059,
+        "name" : " ADA",
+        "dataTypeName" : "text",
+        "description" : "",
+        "fieldName" : "ada",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 35773413,
+        "width" : 76,
+        "cachedContents" : {
+          "largest" : "Partial",
+          "non_null" : 30,
+          "null" : 25,
+          "top" : [ {
+            "item" : "Partial",
+            "count" : 20
+          } ],
+          "smallest" : "Partial"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963060,
+        "name" : "Photo 1",
+        "dataTypeName" : "url",
+        "description" : "",
+        "fieldName" : "photo_1",
+        "position" : 7,
+        "renderTypeName" : "url",
+        "tableColumnId" : 35773414,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : {
+            "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/SewardShelter2Front.JPG"
+          },
+          "non_null" : 54,
+          "null" : 1,
+          "top" : [ {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/PrattParkTables1_2.JPG"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Jefferson_shelter_1.jpg"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln5-1.jpg"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/ViewRidgePlayfieldShelter.jpg"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/mag-s1.jpg"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/mag-s3.jpg"
+            },
+            "count" : 15
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/BenefitShelter.JPG"
+            },
+            "count" : 14
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JeffersonShelter3SprayPark.jpg"
+            },
+            "count" : 13
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JohnCLittleShelter1and2.JPG"
+            },
+            "count" : 12
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JudkinsShelter.jpg"
+            },
+            "count" : 11
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland3-1.jpg"
+            },
+            "count" : 10
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland4-1.jpg"
+            },
+            "count" : 9
+          } ],
+          "smallest" : {
+            "description" : "Carkeek Park Table 37, 38 with 39 in the distance",
+            "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkTable37_38_39.jpg"
+          }
+        },
+        "format" : {
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 392963061,
+        "name" : "Photo Caption 1",
+        "dataTypeName" : "text",
+        "description" : "",
+        "fieldName" : "photo_caption_1",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 36271946,
+        "width" : 100,
+        "cachedContents" : {
+          "largest" : "View Ridge Playfield Shelter",
+          "non_null" : 27,
+          "null" : 28,
+          "top" : [ {
+            "item" : "Beer Sheeva Park tables",
+            "count" : 20
+          }, {
+            "item" : "Don Armeni Picnic Tables 1 and 2",
+            "count" : 19
+          }, {
+            "item" : "Northacres Table 2",
+            "count" : 18
+          }, {
+            "item" : "Carkeek Park Table 37, 38 with 39 in the distance",
+            "count" : 17
+          }, {
+            "item" : "Picnic Shelter at Alki Beach Park With Two Serving Tables",
+            "count" : 16
+          }, {
+            "item" : "Carkeek Park Shelter 2 Picnic Area From Grassy Area",
+            "count" : 15
+          }, {
+            "item" : "Genesee Park Shelter",
+            "count" : 14
+          }, {
+            "item" : "Madrona Beach Shelter",
+            "count" : 13
+          }, {
+            "item" : "Maple Leaf Picnic Shelter",
+            "count" : 12
+          }, {
+            "item" : "Amphitheater Lawn with Picnic Area/Playground",
+            "count" : 11
+          }, {
+            "item" : "Tables 1 and 2",
+            "count" : 10
+          }, {
+            "item" : "Table 1, 2",
+            "count" : 9
+          }, {
+            "item" : "Shelter",
+            "count" : 8
+          }, {
+            "item" : "Carkeek Park Table 23",
+            "count" : 7
+          }, {
+            "item" : "John C Little Shelter 2",
+            "count" : 6
+          }, {
+            "item" : "Shelter with Gazebo in front",
+            "count" : 5
+          }, {
+            "item" : "Magnuson Park Table 3",
+            "count" : 4
+          }, {
+            "item" : "Golden Gardens Shelter 1 with Playground in Background",
+            "count" : 3
+          }, {
+            "item" : "Shelter 2 View From Inside of Shelter",
+            "count" : 2
+          }, {
+            "item" : "Table 10",
+            "count" : 1
+          } ],
+          "smallest" : "Amphitheater Lawn with Picnic Area/Playground"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963062,
+        "name" : "Photo 2",
+        "dataTypeName" : "url",
+        "description" : "",
+        "fieldName" : "photo_2",
+        "position" : 9,
+        "renderTypeName" : "url",
+        "tableColumnId" : 35773415,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : {
+            "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/SewardShelter2.JPG"
+          },
+          "non_null" : 47,
+          "null" : 8,
+          "top" : [ {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/ViewRidgePlayfieldShelter-B.jpg"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/BenefitPicnicShelter.JPG"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JeffersonShelter3Playground.jpg"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JohnCLittleShelter1withPlayground.JPG"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JudkinsTables1-7.jpg"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland3-2.jpg"
+            },
+            "count" : 15
+          } ],
+          "smallest" : {
+            "description" : "Matthews Beach Table 1 with 2 Grills",
+            "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MatthewsTables21.jpg"
+          }
+        },
+        "format" : {
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 392963063,
+        "name" : "Photo Caption 2",
+        "dataTypeName" : "text",
+        "description" : "",
+        "fieldName" : "photo_caption_2",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 36271952,
+        "width" : 100,
+        "cachedContents" : {
+          "largest" : "View Ridge Playfield Shelter",
+          "non_null" : 27,
+          "null" : 28,
+          "top" : [ {
+            "item" : "Don Armeni Picnic Tables 1 and 2",
+            "count" : 20
+          }, {
+            "item" : "Northacres Park Table 2 with Playground Behind Hill",
+            "count" : 19
+          }, {
+            "item" : "Carkeek Park Piper’s Creek Table 34 With First Come First Serve Table Behind",
+            "count" : 18
+          }, {
+            "item" : "Alki Beach Tables 1, 2",
+            "count" : 17
+          }, {
+            "item" : "Carkeek Park Shelter 2 With Large Grill",
+            "count" : 16
+          }, {
+            "item" : "View from Inside Shelter",
+            "count" : 15
+          }, {
+            "item" : "Shelter and Table 3",
+            "count" : 14
+          }, {
+            "item" : "Maple Leaf Park shelter with tower in background",
+            "count" : 13
+          }, {
+            "item" : "Tables 1, 2",
+            "count" : 12
+          }, {
+            "item" : "Table 2",
+            "count" : 11
+          }, {
+            "item" : "Tables 3, 4, 5",
+            "count" : 10
+          }, {
+            "item" : "Shelter and Tables",
+            "count" : 9
+          }, {
+            "item" : "Carkeek Park Shelter 1 View of Park From Inside of Shelter",
+            "count" : 8
+          }, {
+            "item" : "Shelter 2 on Left, Shelter 1 on right side",
+            "count" : 7
+          }, {
+            "item" : "Meridian Shelter from the side",
+            "count" : 6
+          }, {
+            "item" : "Magnuson Park Shelter #2",
+            "count" : 5
+          }, {
+            "item" : "Golden Gardens Shelter 1 with Tables 5 & 6",
+            "count" : 4
+          }, {
+            "item" : "Shelter 2 With Tables 14-17",
+            "count" : 3
+          }, {
+            "item" : "Table 6",
+            "count" : 2
+          }, {
+            "item" : "Matthews Beach Table 1 with 2 Grills",
+            "count" : 1
+          } ],
+          "smallest" : "2.\tMagnuson Shelter 3 with Tennis Center and Parking Lot in Background"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963064,
+        "name" : "Photo 3",
+        "dataTypeName" : "url",
+        "description" : "",
+        "fieldName" : "photo_3",
+        "position" : 11,
+        "renderTypeName" : "url",
+        "tableColumnId" : 35773416,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : {
+            "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/SewardParkShelter_2.JPG"
+          },
+          "non_null" : 22,
+          "null" : 33,
+          "top" : [ {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/DonArmeniTable1.jpg"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/NorthacresParkTables1and2.jpg"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkPipersCreek373839.jpg"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/AlkiTable8.jpg"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekTables810TwoFirstCome.jpg"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GeneseeParkBBQandShelter.JPG"
+            },
+            "count" : 15
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MadronaTables1_2_3.JPG"
+            },
+            "count" : 14
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MapleLeafPickleBallCourt.JPG"
+            },
+            "count" : 13
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/OthelloParkTables56.JPG"
+            },
+            "count" : 12
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/FerdinandTables.JPG"
+            },
+            "count" : 11
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/WestcrestTable6.JPG"
+            },
+            "count" : 10
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkShelter1.jpg"
+            },
+            "count" : 9
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/SewardParkShelter_2.JPG"
+            },
+            "count" : 8
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnusonParkTable2.jpg"
+            },
+            "count" : 7
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensShelter1withTables12.jpg"
+            },
+            "count" : 6
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensShelter2South.jpg"
+            },
+            "count" : 5
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/RoxhillTable7.JPG"
+            },
+            "count" : 4
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MatthewsBeachTable8.jpg"
+            },
+            "count" : 3
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/PrattTable3.JPG"
+            },
+            "count" : 2
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnusonShelter3withPlayground.jpg"
+            },
+            "count" : 1
+          } ],
+          "smallest" : {
+            "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/AlkiTable8.jpg"
+          }
+        },
+        "format" : {
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 392963065,
+        "name" : "Photo Caption 3",
+        "dataTypeName" : "text",
+        "description" : "",
+        "fieldName" : "photo_caption_3",
+        "position" : 12,
+        "renderTypeName" : "text",
+        "tableColumnId" : 36271953,
+        "width" : 100,
+        "cachedContents" : {
+          "largest" : "View of Jefferson Park Shelter 3",
+          "non_null" : 22,
+          "null" : 33,
+          "top" : [ {
+            "item" : "Don Aremni Picnic Table 1",
+            "count" : 20
+          }, {
+            "item" : "Northacres Park Table 1 & 2",
+            "count" : 19
+          }, {
+            "item" : "Carkeek Park Piper’s Creek Table 37, 38 and 39",
+            "count" : 18
+          }, {
+            "item" : "Alki Beach Table 8, 10 and Alki Shelter #1",
+            "count" : 17
+          }, {
+            "item" : "Vantage from Carkeek Park Shelter 2 Picnic Area with Views of Picnic Tables 8-10 and Two First Come First Serve Tables",
+            "count" : 16
+          }, {
+            "item" : "Shelter BBQ, Playground in distance",
+            "count" : 15
+          }, {
+            "item" : "Shelter with Table 1, 2, 3",
+            "count" : 14
+          }, {
+            "item" : "Shelter and Pickleball courts",
+            "count" : 13
+          }, {
+            "item" : "Tables 5, 6",
+            "count" : 12
+          }, {
+            "item" : "Tables 1, 2 and 3",
+            "count" : 11
+          }, {
+            "item" : "Table 6",
+            "count" : 10
+          }, {
+            "item" : "Tables 6, 7, 8",
+            "count" : 9
+          }, {
+            "item" : "Carkeek Park Shelter 1 with 2 Concrete Serving Tables and Benches",
+            "count" : 8
+          }, {
+            "item" : "Magnuson Park Table 2 with Table 1 in the Distance",
+            "count" : 7
+          }, {
+            "item" : "Golden Gardens Shelter 1 with Tables 1 & 2 in Foreground",
+            "count" : 6
+          }, {
+            "item" : "Shelter 2 Facing South",
+            "count" : 5
+          }, {
+            "item" : "Table 7",
+            "count" : 4
+          }, {
+            "item" : "Matthews Beach Table 8 with Playground Behind",
+            "count" : 3
+          }, {
+            "item" : "Table 3",
+            "count" : 2
+          }, {
+            "item" : "Magnuson Shelter 3 with Playground in Background",
+            "count" : 1
+          } ],
+          "smallest" : "Alki Beach Table 8, 10 and Alki Shelter #1"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963066,
+        "name" : "Photo 4",
+        "dataTypeName" : "url",
+        "description" : "",
+        "fieldName" : "photo_4",
+        "position" : 13,
+        "renderTypeName" : "url",
+        "tableColumnId" : 35773417,
+        "width" : 184,
+        "cachedContents" : {
+          "largest" : {
+            "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/PrattTables3_4_5.JPG"
+          },
+          "non_null" : 12,
+          "null" : 43,
+          "top" : [ {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/AlkiwithTables510.jpg"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkShelter2ViewTable11.jpg"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MadronaTables4_7.JPG"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MapleLeafPlayground.JPG"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/OthelloPlaygroundTables3,4.jpg"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnoliaTables.JPG"
+            },
+            "count" : 15
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkPicnicTablesByShelter1.jpg"
+            },
+            "count" : 14
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensBeachNorthMeadow.jpg"
+            },
+            "count" : 13
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensTable11.jpg"
+            },
+            "count" : 12
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MatthewsBeachParkTable5withFirstComeFirstServeTable.jpg"
+            },
+            "count" : 11
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/PrattTables3_4_5.JPG"
+            },
+            "count" : 10
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JeffersonParkShelterGrassyArea.jpg"
+            },
+            "count" : 9
+          } ],
+          "smallest" : {
+            "url" : "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/AlkiwithTables510.jpg"
+          }
+        },
+        "format" : {
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 392963067,
+        "name" : "Photo Caption 4",
+        "dataTypeName" : "text",
+        "description" : "",
+        "fieldName" : "photo_caption_4",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 36271954,
+        "width" : 100,
+        "cachedContents" : {
+          "largest" : "Tables 4-7",
+          "non_null" : 13,
+          "null" : 42,
+          "top" : [ {
+            "item" : "Alki Beach Tables 5-10",
+            "count" : 20
+          }, {
+            "item" : "Carkeek Park Shelter 2 Looking Up From Table 11",
+            "count" : 19
+          }, {
+            "item" : "Tables 4-7",
+            "count" : 18
+          }, {
+            "item" : "Maple Leaf Playground",
+            "count" : 17
+          }, {
+            "item" : "Tables 3, 4",
+            "count" : 16
+          }, {
+            "item" : "Magnolia Tables",
+            "count" : 15
+          }, {
+            "item" : "Carkeek Park Picnic Table Area By Shelter 1 and Fire Circle",
+            "count" : 14
+          }, {
+            "item" : "Magnuson Park Tables 6,7,8,9",
+            "count" : 13
+          }, {
+            "item" : "Golden Gardens Beach View Near First Come First Serve Fire Pits. Shelter 1 Located South of Bathhouse In the Distance",
+            "count" : 12
+          }, {
+            "item" : "Picnic Table 11 With View Of Golden Gardens Beach",
+            "count" : 11
+          }, {
+            "item" : "Matthews Beach Table 5 with First Come First Serve Table",
+            "count" : 10
+          }, {
+            "item" : "Table 3, 4, 5",
+            "count" : 9
+          }, {
+            "item" : "Jefferson Park Shelter 3 with Grassy Area",
+            "count" : 8
+          } ],
+          "smallest" : "Alki Beach Tables 5-10"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963068,
+        "name" : "Map Link",
+        "dataTypeName" : "url",
+        "description" : "",
+        "fieldName" : "map_link",
+        "position" : 15,
+        "renderTypeName" : "url",
+        "tableColumnId" : 35773418,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : {
+            "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland4-7.pdf"
+          },
+          "non_null" : 55,
+          "null" : 0,
+          "top" : [ {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Seward.pdf"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland1-3.pdf"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Rizal.pdf"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Jefferson.pdf"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/BeerSheva.pdf"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Me-Kwa-Mooks.pdf"
+            },
+            "count" : 15
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/DonArmeni.pdf"
+            },
+            "count" : 14
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Northacres.pdf"
+            },
+            "count" : 13
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Carkeek.pdf"
+            },
+            "count" : 12
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/AlkiBeach.pdf"
+            },
+            "count" : 11
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/GasWorks.pdf"
+            },
+            "count" : 10
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Genesee.pdf"
+            },
+            "count" : 9
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln1-4.pdf"
+            },
+            "count" : 8
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Ravenna.pdf"
+            },
+            "count" : 7
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Madrona.pdf"
+            },
+            "count" : 6
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Georgetown_Playfield_Map_Directions.pdf"
+            },
+            "count" : 5
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/MapleLeafResevoir.pdf"
+            },
+            "count" : 4
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland4-7.pdf"
+            },
+            "count" : 3
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Othello.pdf"
+            },
+            "count" : 2
+          }, {
+            "item" : {
+              "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Ferdinand.pdf"
+            },
+            "count" : 1
+          } ],
+          "smallest" : {
+            "url" : "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/AlkiBeach.pdf"
+          }
+        },
+        "format" : {
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 392963069,
+        "name" : "Features",
+        "dataTypeName" : "text",
+        "description" : "",
+        "fieldName" : "features",
+        "position" : 16,
+        "renderTypeName" : "text",
+        "tableColumnId" : 35773419,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "Skate Park",
+          "non_null" : 2,
+          "null" : 53,
+          "top" : [ {
+            "item" : "<ul><li><span style=\"font-size:1.0em;\">2 grills</span></li><li><span style=\"font-size:1.0em;\">2 serving tables</span></li></ul>",
+            "count" : 20
+          }, {
+            "item" : "Skate Park",
+            "count" : 19
+          } ],
+          "smallest" : "<ul><li><span style=\"font-size:1.0em;\">2 grills</span></li><li><span style=\"font-size:1.0em;\">2 serving tables</span></li></ul>"
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 392963070,
+        "name" : "Park xID",
+        "dataTypeName" : "number",
+        "description" : "",
+        "fieldName" : "park_xid",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 35773420,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "64084",
+          "non_null" : 55,
+          "average" : "63890.49090909091",
+          "null" : 0,
+          "top" : [ {
+            "item" : "64084",
+            "count" : 20
+          }, {
+            "item" : "64025",
+            "count" : 19
+          }, {
+            "item" : "63692",
+            "count" : 18
+          }, {
+            "item" : "63801",
+            "count" : 17
+          }, {
+            "item" : "63744",
+            "count" : 16
+          }, {
+            "item" : "63777",
+            "count" : 15
+          }, {
+            "item" : "63685",
+            "count" : 14
+          }, {
+            "item" : "63712",
+            "count" : 13
+          }, {
+            "item" : "63773",
+            "count" : 12
+          }, {
+            "item" : "63856",
+            "count" : 11
+          }, {
+            "item" : "63937",
+            "count" : 10
+          }, {
+            "item" : "63936",
+            "count" : 9
+          }, {
+            "item" : "63806",
+            "count" : 8
+          }, {
+            "item" : "63942",
+            "count" : 7
+          }, {
+            "item" : "63818",
+            "count" : 6
+          }, {
+            "item" : "63935",
+            "count" : 5
+          }, {
+            "item" : "63828",
+            "count" : 4
+          }, {
+            "item" : "63962",
+            "count" : 3
+          }, {
+            "item" : "63720",
+            "count" : 2
+          }, {
+            "item" : "64018",
+            "count" : 1
+          } ],
+          "smallest" : "63685",
+          "sum" : "3513977"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "rdfSubject" : "0",
+        "jsonQuery" : {
+          "order" : [ {
+            "columnFieldName" : "shelter_name",
+            "ascending" : true
+          } ]
+        },
+        "custom_fields" : {
+          "Refresh Frequency" : {
+            "Frequency" : "Annually"
+          }
+        },
+        "rowLabel" : "Row",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "px5w-37c9",
+        "displayName" : "Morrison, Kyle",
+        "screenName" : "Morrison, Kyle",
+        "type" : "interactive"
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 392963054,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "px5w-37c9",
+        "displayName" : "Morrison, Kyle",
+        "screenName" : "Morrison, Kyle",
+        "type" : "interactive"
+      },
+      "tags" : [ "picnic", "reservation", "table", "site", "reserve" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 342, "CA9E709D-DBAC-46CA-9EFA-B7972F7A9A15", 342, 1552604625, "1091930", 1552604625, "1091930", null, "Seward Park Shelter #4", "210.00", "50", null, "4", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/seward4-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/seward4-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Seward.pdf", null ], null, "64084" ]
+, [ 331, "05503799-5224-4862-95A5-DB529AEFA93F", 331, 1552604625, "1091930", 1552604625, "1091930", null, "Seward Park Shelter #1", "160.00", "40", null, "2", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/seward1-2.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/seward1-3.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Seward.pdf", null ], null, "64084" ]
+, [ 332, "506B77D2-1903-4933-82F9-A6927ABBEB0F", 332, 1552604625, "1091930", 1552604625, "1091930", null, "Woodland Park Shelter #2", "135.00", "210", "19", "1", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland2-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland2-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland1-3.pdf", null ], null, "64025" ]
+, [ 333, "E96F40AC-E543-47D1-A9D3-2594F3C9A80B", 333, 1552604625, "1091930", 1552604625, "1091930", null, "Woodland Park Shelter #5", "160.00", "75", "4", "2", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland5-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland5-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland4-7.pdf", null ], null, "64025" ]
+, [ 334, "E1D8AEC7-E58B-4F41-B76D-C80EB74C2F7C", 334, 1552604625, "1091930", 1552604625, "1091930", null, "Seward Park Shelter #5", "210.00", "50", null, "4", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/seward5-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/seward5-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Seward.pdf", null ], null, "64084" ]
+, [ 335, "31FCC5CE-F69E-4BC3-B632-06993BA9A824", 335, 1552604625, "1091930", 1552604625, "1091930", null, "Woodland Park Shelter #1", "135.00", "160", "14", "1", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland1-1.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland1-3.pdf", null ], null, "64025" ]
+, [ 336, "46DAFDD6-C4E9-4E48-BD2D-AFA3C4C17FC1", 336, 1552604625, "1091930", 1552604625, "1091930", null, "Dr. Jose Rizal Park Shelter #1", "210.00", "75", null, "4", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JoseRizalShelter.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Rizal.pdf", null ], null, "63692" ]
+, [ 337, "405E2263-56FB-4A0F-A5BA-C683C562407A", 337, 1552604625, "1091930", 1552604625, "1091930", null, "Jefferson Shelter #2", "185.00", "50", null, "3", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Jefferson_shelter_2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Jefferson.pdf", null ], null, "63801" ]
+, [ 338, "0486AAD7-32D0-43CF-8F8D-67C6D47A2692", 338, 1552604625, "1091930", 1552604625, "1091930", null, "Beer Sheva Park Picnic Area Tables Only", "0.00", "30", "2", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/BeerShevaTables1-2.jpg", null ], "Beer Sheeva Park tables", [ null, null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/BeerSheva.pdf", null ], null, "63744" ]
+, [ 339, "59A9691C-A5B4-4695-8C29-2522B9D1BA70", 339, 1552604625, "1091930", 1552604625, "1091930", null, "Me-Kwa-Mooks Park Picnic Area Tables Only", "0.00", "30", "2", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MeKwaMooksTables.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MeKwaMooksTables1-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Me-Kwa-Mooks.pdf", null ], null, "63777" ]
+, [ 340, "58BDE28C-3A52-4C7C-BE5B-B073576A0A16", 340, 1552604625, "1091930", 1552604625, "1091930", null, "Don Armeni Boat Ramp Picnic Area Tables Only", "0.00", "30", "2", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/DonArmeniPicnicArea.jpg", null ], "Don Armeni Picnic Tables 1 and 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/DonArmeniTable1and2.jpg", null ], "Don Armeni Picnic Tables 1 and 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/DonArmeniTable1.jpg", null ], "Don Aremni Picnic Table 1", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/DonArmeni.pdf", null ], null, "63685" ]
+, [ 341, "0EEF9665-180A-4D1F-BB2F-23A5D01C6630", 341, 1552604625, "1091930", 1552604625, "1091930", null, "Northacres Park Picnic Area Tables Only", "0.00", "50", "4", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/NorthacresTable2.jpg", null ], "Northacres Table 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/NorthacresParkTable2withPlayground.jpg", null ], "Northacres Park Table 2 with Playground Behind Hill", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/NorthacresParkTables1and2.jpg", null ], "Northacres Park Table 1 & 2", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Northacres.pdf", null ], null, "63712" ]
+, [ 343, "EBD322ED-A986-4D03-B9F1-B818816190FB", 343, 1552604625, "1091930", 1552604625, "1091930", null, "Carkeek Park Piper's Creek Picnic Area Tables Only", "0.00", "100", "12", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkTable37_38_39.jpg", "Carkeek Park Table 37, 38 with 39 in the distance" ], "Carkeek Park Table 37, 38 with 39 in the distance", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkPipersCreekTable34.jpg", null ], "Carkeek Park Piper’s Creek Table 34 With First Come First Serve Table Behind", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkPipersCreek373839.jpg", null ], "Carkeek Park Piper’s Creek Table 37, 38 and 39", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Carkeek.pdf", null ], null, "63773" ]
+, [ 344, "317DECB8-3EF6-4B32-9963-FEAFA025F723", 344, 1552604625, "1091930", 1552604625, "1091930", null, "Alki Beach Park Shelter #1", "120.00", "130", "14", null, "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/AlkiShelterwithgrill.jpg", null ], "Picnic Shelter at Alki Beach Park With Two Serving Tables", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/AlkiTable12.jpg", null ], "Alki Beach Tables 1, 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/AlkiTable8.jpg", null ], "Alki Beach Table 8, 10 and Alki Shelter #1", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/AlkiwithTables510.jpg", null ], "Alki Beach Tables 5-10", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/AlkiBeach.pdf", null ], "<ul><li><span style=\"font-size:1.0em;\">2 grills</span></li><li><span style=\"font-size:1.0em;\">2 serving tables</span></li></ul>", "63856" ]
+, [ 345, "A506DAC9-030D-4E91-BAB8-7A5188723E95", 345, 1552604625, "1091930", 1552604625, "1091930", null, "Carkeek Park Shelter #2", "195.00", "150", "14", "3", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkPlaygroundGrassyAreaShelter2.jpg", null ], "Carkeek Park Shelter 2 Picnic Area From Grassy Area", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkShelter2withGrill.jpg", null ], "Carkeek Park Shelter 2 With Large Grill", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekTables810TwoFirstCome.jpg", null ], "Vantage from Carkeek Park Shelter 2 Picnic Area with Views of Picnic Tables 8-10 and Two First Come First Serve Tables", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkShelter2ViewTable11.jpg", null ], "Carkeek Park Shelter 2 Looking Up From Table 11", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Carkeek.pdf", null ], null, "63773" ]
+, [ 346, "5EA89265-D2C6-43C5-8271-9292C6749974", 346, 1552604625, "1091930", 1552604625, "1091930", null, "Gas Works Park Shelter #1", "160.00", "100", "5", "2", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/gasworks1-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/gasworks1-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/GasWorks.pdf", null ], null, "63937" ]
+, [ 347, "632E26E0-3DBE-4AC0-B866-207638664EAB", 347, 1552604625, "1091930", 1552604625, "1091930", null, "Gas Works Park Shelter #2", "210.00", "100", "4", "4", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/gasworks2-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/gasworks2-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/GasWorks.pdf", null ], null, "63937" ]
+, [ 348, "12EFE1CD-F61A-4417-92FF-E44B550927E7", 348, 1552604625, "1091930", 1552604625, "1091930", null, "Genesee Park and Playfield Shelter #1", "285.00", "100", null, "7", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GeneseeParkShelter.JPG", null ], "Genesee Park Shelter", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GeneseeParkShelterInside.jpg", null ], "View from Inside Shelter", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GeneseeParkBBQandShelter.JPG", null ], "Shelter BBQ, Playground in distance", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Genesee.pdf", null ], null, "63936" ]
+, [ 349, "12B5ADF9-5DAC-441B-8647-A24454EE7D81", 349, 1552604625, "1091930", 1552604625, "1091930", null, "Lincoln Park Shelter #2", "145.00", "250", "21", "1", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln2-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln2-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln1-4.pdf", null ], null, "63806" ]
+, [ 350, "20DAC22B-32B8-4B28-88E9-5C1B9471BC8C", 350, 1552604625, "1091930", 1552604625, "1091930", null, "Ravenna Park Shelter #1", "110.00", "150", "10", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Ravenna1-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Ravenna1-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Ravenna.pdf", null ], null, "63942" ]
+, [ 351, "4BC7B270-5DA6-40AC-AB5A-5FFA35BD72A5", 351, 1552604625, "1091930", 1552604625, "1091930", null, "Madrona Park Shelter #1", "110.00", "80", "7", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MadronaBeachShelter.jpg", null ], "Madrona Beach Shelter", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MadronaBeachTable3.JPG", null ], "Shelter and Table 3", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MadronaTables1_2_3.JPG", null ], "Shelter with Table 1, 2, 3", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MadronaTables4_7.JPG", null ], "Tables 4-7", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Georgetown_Playfield_Park%20Map_Directions.pdf", null ], null, "63818" ]
+, [ 352, "0DDCBDBB-3352-453B-B26E-95012419AF70", 352, 1552604625, "1091930", 1552604625, "1091930", null, "Georgetown Playfield Shelter #1", "185.00", "50", "0", "3", "Partial", [ null, null ], null, [ null, null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Georgetown_Playfield_Park%20Map_Directions.pdf", null ], null, "63935" ]
+, [ 353, "B92EFE11-CEFC-4DF9-93F6-411B87B82EDF", 353, 1552604625, "1091930", 1552604625, "1091930", null, "Lincoln Park Shelter #1", "145.00", "250", "22", "1", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln1-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln1-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln1-4.pdf", null ], null, "63806" ]
+, [ 354, "C58E3319-D0A3-4192-B39F-AADB98898202", 354, 1552604625, "1091930", 1552604625, "1091930", null, "Lincoln Park Shelter #4", "170.00", "90", "3", "2", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln4-1.jpg", "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln4-2.jpg" ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln4-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln1-4.pdf", null ], null, "63806" ]
+, [ 355, "5E37034C-B66B-4399-8D17-3C6D0B642A58", 355, 1552604625, "1091930", 1552604625, "1091930", null, "Maple Leaf Reservoir Park Shelter #1", "210.00", "100", null, "4", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MapleLeafShelter.JPG", null ], "Maple Leaf Picnic Shelter", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MapleLeafParkShelter.JPG", null ], "Maple Leaf Park shelter with tower in background", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MapleLeafPickleBallCourt.JPG", null ], "Shelter and Pickleball courts", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MapleLeafPlayground.JPG", null ], "Maple Leaf Playground", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/MapleLeafResevoir.pdf", null ], null, "63828" ]
+, [ 356, "4418891B-2BE3-47A5-8D97-A34B3FD9F56C", 356, 1552604625, "1091930", 1552604625, "1091930", null, "Woodland Park Shelter #6", "310.00", "200", "9", "2", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland6-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland6-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland4-7.pdf", null ], null, "64025" ]
+, [ 357, "02E771D3-1F91-45F6-A730-29AC7BB92AA7", 357, 1552604625, "1091930", 1552604625, "1091930", null, "Othello Playground Picnic Area Tables Only", "0.00", "100", "6", null, "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/OthelloAmphitheaterLawnwithPlayground.JPG", null ], "Amphitheater Lawn with Picnic Area/Playground", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/OthelloParkTables12.JPG", null ], "Tables 1, 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/OthelloParkTables56.JPG", null ], "Tables 5, 6", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/OthelloPlaygroundTables3,4.jpg", null ], "Tables 3, 4", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Othello.pdf", null ], null, "63962" ]
+, [ 358, "4B850BF1-6E3D-4D0A-A906-31071D7759CE", 358, 1552604625, "1091930", 1552604625, "1091930", null, "Ferdinand Street Boat Launch Picnic Area Tables Only", "0.00", "40", "3", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/FerdinandTable1_2.JPG", null ], "Tables 1 and 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/FerdinandParkTable_2.JPG", null ], "Table 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/FerdinandTables.JPG", null ], "Tables 1, 2 and 3", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Ferdinand.pdf", null ], null, "63720" ]
+, [ 359, "1FA99EAB-86A2-4E0B-B61E-86FCF87D4E91", 359, 1552604625, "1091930", 1552604625, "1091930", null, "Westcrest Park Picnic Area Tables Only", "0.00", "50", "6", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/WestcrestTables1_2.jpg", null ], "Table 1, 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/WestcrestTable3_4_5.JPG", null ], "Tables 3, 4, 5", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/WestcrestTable6.JPG", null ], "Table 6", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Westcrest.pdf", null ], null, "64018" ]
+, [ 360, "554C13FD-7835-4AA2-B591-C8156B905BE6", 360, 1552604625, "1091930", 1552604625, "1091930", null, "Magnolia Park Shelter #1", "110.00", "100", "10", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnoliaShelter1.JPG", null ], "Shelter", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/magnolia1-2.jpg", null ], "Shelter and Tables", [ null, null ], "Tables 6, 7, 8", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnoliaTables.JPG", null ], "Magnolia Tables", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Magnolia.pdf", null ], null, "63823" ]
+, [ 361, "CDFD50DB-82DD-4799-8B28-E6C8027649E8", 361, 1552604625, "1091930", 1552604625, "1091930", null, "Carkeek Park Shelter #1", "120.00", "190", "19", null, "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkTable23.jpg", null ], "Carkeek Park Table 23", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkViewfromShelter1withSwings.jpg", null ], "Carkeek Park Shelter 1 View of Park From Inside of Shelter", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkShelter1.jpg", null ], "Carkeek Park Shelter 1 with 2 Concrete Serving Tables and Benches", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/CarkeekParkPicnicTablesByShelter1.jpg", null ], "Carkeek Park Picnic Table Area By Shelter 1 and Fire Circle", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Carkeek.pdf", null ], null, "63773" ]
+, [ 362, "CCDC1F46-C40B-46DC-848B-201B5C04D353", 362, 1552604625, "1091930", 1552604625, "1091930", null, "John C. Little, Sr. Park Shelter #2", "160.00", "40", null, "2", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JohnCLittleShelter2.JPG", null ], "John C Little Shelter 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JohnCLittleShelter12.JPG", null ], "Shelter 2 on Left, Shelter 1 on right side", [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/JohnCLittle.pdf", null ], null, "63870" ]
+, [ 363, "182DF685-4276-4F87-BB6F-89ED03CD4246", 363, 1552604625, "1091930", 1552604625, "1091930", null, "Lincoln Park Shelter #3", "195.00", "90", "6", "3", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln3-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln3-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln1-4.pdf", null ], null, "63806" ]
+, [ 364, "4F045009-9404-4240-8C3C-FD7C17559E53", 364, 1552604625, "1091930", 1552604625, "1091930", null, "Meridian Playground Shelter #1", "310.00", "100", null, "8", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MeridianShelterinWinter.JPG", null ], "Shelter with Gazebo in front", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MeridianSideView.JPG", null ], "Meridian Shelter from the side", [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Meridian.pdf", null ], null, "63778" ]
+, [ 365, "C1569BFD-B70F-46A1-80ED-0E705C59D45F", 365, 1552604625, "1091930", 1552604625, "1091930", null, "Seward Park Shelter #2", "210.00", "50", null, null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/SewardShelter2Front.JPG", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/SewardShelter2.JPG", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/picnic/SewardParkShelter_2.JPG", null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Seward.pdf", null ], null, "64084" ]
+, [ 366, "34A16B84-E0CD-46E6-8B98-1538609FE73F", 366, 1552604625, "1091930", 1552604625, "1091930", null, "Seward Park Shelter #3", "310.00", "300", "18", "2", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/seward3-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/seward3-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Seward.pdf", null ], null, "64084" ]
+, [ 367, "AEFF2AC3-8BDA-4207-95E0-D913672B486B", 367, 1552604625, "1091930", 1552604625, "1091930", null, "Warren G. Magnuson Park Shelter #2", "195.00", "50", "9", "3", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnusonBeachTable3.jpg", "Magnuson Park Table 3" ], "Magnuson Park Table 3", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnusonParkShelter2.jpg", null ], "Magnuson Park Shelter #2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnusonParkTable2.jpg", null ], "Magnuson Park Table 2 with Table 1 in the Distance", [ null, null ], "Magnuson Park Tables 6,7,8,9", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Magnuson.pdf", null ], null, "63826" ]
+, [ 368, "66DD224A-1A18-4417-BF84-2C9BABC3F571", 368, 1552604625, "1091930", 1552604625, "1091930", null, "Woodland Park Shelter #7", "185.00", "30", null, "3", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland7-1.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland4-7.pdf", null ], null, "64025" ]
+, [ 369, "7AA7F5AC-AEC8-4446-9460-72C3B356BA30", 369, 1552604625, "1091930", 1552604625, "1091930", null, "Golden Gardens Park Shelter #1", "120.00", "100", "9", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensShelter1Playground.jpg", null ], "Golden Gardens Shelter 1 with Playground in Background", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensShelter1Tables56.jpg", null ], "Golden Gardens Shelter 1 with Tables 5 & 6", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensShelter1withTables12.jpg", null ], "Golden Gardens Shelter 1 with Tables 1 & 2 in Foreground", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensBeachNorthMeadow.jpg", null ], "Golden Gardens Beach View Near First Come First Serve Fire Pits. Shelter 1 Located South of Bathhouse In the Distance", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardens.pdf", null ], null, "63903" ]
+, [ 370, "42EF30DC-894E-42C4-9BF9-9E3B3B8254A8", 370, 1552604625, "1091930", 1552604625, "1091930", null, "Golden Gardens Park Shelter #2", "120.00", "100", "8", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensShelter2View.jpg", null ], "Shelter 2 View From Inside of Shelter", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensTable14151617.jpg", null ], "Shelter 2 With Tables 14-17", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensShelter2South.jpg", null ], "Shelter 2 Facing South", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardensTable11.jpg", null ], "Picnic Table 11 With View Of Golden Gardens Beach", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/GoldenGardens.pdf", null ], null, "63903" ]
+, [ 371, "73AEF1A8-039A-4932-95C8-6399682B5EB9", 371, 1552604625, "1091930", 1552604625, "1091930", null, "Roxhill Park Picnic Area Tables Only", "0.00", "75", "10", null, "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/RoxhillParkTable10.JPG", null ], "Table 10", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/RoxhillParkTable6.JPG", null ], "Table 6", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/RoxhillTable7.JPG", null ], "Table 7", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Roxhill.pdf", null ], null, "64005" ]
+, [ 372, "8AF03806-3097-4524-89E0-51FAF97E55C5", 372, 1552604625, "1091930", 1552604625, "1091930", null, "Matthews Beach Park Picnic Area Tables Only", "0.00", "120", "12", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MatthewsBeachPicnicArea.jpg", "Matthews Beach Picnic Area" ], "Matthews Beach Tables 11 and 12 with First Come First Serve Tables", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MatthewsTables21.jpg", "Matthews Beach Table 1 with 2 Grills" ], "Matthews Beach Table 1 with 2 Grills", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MatthewsBeachTable8.jpg", null ], "Matthews Beach Table 8 with Playground Behind", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MatthewsBeachParkTable5withFirstComeFirstServeTable.jpg", null ], "Matthews Beach Table 5 with First Come First Serve Table", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/MatthewsBeach.pdf", null ], null, "63836" ]
+, [ 373, "37BA13FC-CD51-4205-8F55-9AE337A60CC4", 373, 1552604625, "1091930", 1552604625, "1091930", null, "Pratt Park Picnic Area Tables Only", "0.00", "60", "5", null, null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/PrattParkTables1_2.JPG", null ], "Tables 1, 2", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/PrattPlayAreaWaterFeature.JPG", null ], "Play area/Water Feature with Picnic Area behind", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/PrattTable3.JPG", null ], "Table 3", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/PrattTables3_4_5.JPG", null ], "Table 3, 4, 5", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/PrattMapDirections.pdf", null ], null, "63957" ]
+, [ 374, "291EA86C-7B4C-4F0A-91BF-1F5ED068967E", 374, 1552604625, "1091930", 1552604625, "1091930", null, "Jefferson Shelter #1", "185.00", "50", null, "3", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Jefferson_shelter_1.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Jefferson.pdf", null ], "Skate Park", "63801" ]
+, [ 375, "992A32DD-EE7A-4D0E-99D1-78C6306EC3FC", 375, 1552604625, "1091930", 1552604625, "1091930", null, "Lincoln Park Shelter #5", "220.00", "300", "25", "4", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln5-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/Lincoln5-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/LincolnShelter5MapDirections.pdf", null ], null, "63806" ]
+, [ 376, "541330B9-BE05-409C-A3C5-55A74170F816", 376, 1552604625, "1091930", 1552604625, "1091930", null, "View Ridge Playfield Shelter #1", "185.00", "50", "3", "3", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/ViewRidgePlayfieldShelter.jpg", null ], "View Ridge Playfield Shelter", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/ViewRidgePlayfieldShelter-B.jpg", null ], "View Ridge Playfield Shelter", [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/View_Ridge_Map_Directions_Update.pdf", null ], null, "64042" ]
+, [ 377, "FD6C0C53-49D4-4809-8987-781F739E52DB", 377, 1552604625, "1091930", 1552604625, "1091930", null, "Warren G. Magnuson Park Shelter #1", "320.00", "100", null, "8", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/mag-s1.jpg", null ], "Magnuson Park Shelter #1", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnusonShelter1withLake.jpg", null ], "Magnuson Park Shelter #1 with Lake Washington in the Background", [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Magnuson.pdf", null ], null, "63826" ]
+, [ 378, "07D049A8-CA49-4728-903E-02D0B53C4E12", 378, 1552604625, "1091930", 1552604625, "1091930", null, "Warren G. Magnuson Park Shelter #3", "220.00", "60", null, "4", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/mag-s3.jpg", null ], "Magnuson Park Shelter 3", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnusonParkShelter3.jpg", null ], "2.\tMagnuson Shelter 3 with Tennis Center and Parking Lot in Background", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/MagnusonShelter3withPlayground.jpg", null ], "Magnuson Shelter 3 with Playground in Background", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Magnuson.pdf", null ], null, "63826" ]
+, [ 379, "24DD8F34-B0CF-40F7-9D11-4EDE9D552BD0", 379, 1552604625, "1091930", 1552604625, "1091930", null, "View Ridge Playfield Picnic Area Tables Only", "0.00", "30", "3", "0", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/ViewRidgePlayfieldShelter.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/ViewRidgePlayfieldShelter-B.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/View_Ridge_%20Map_Directions.pdf", null ], null, "64042" ]
+, [ 380, "AD4540C5-96F8-460A-95A5-FEF442DE73DB", 380, 1552604625, "1091930", 1552604625, "1091930", null, "Benefit Playground Shelter #1", "160.00", "35", null, "2", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/BenefitShelter.JPG", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/BenefitPicnicShelter.JPG", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Benefit.pdf", null ], null, "63751" ]
+, [ 381, "7236CC25-870D-41A1-8CCF-9C04D1D398E6", 381, 1552604625, "1091930", 1552604625, "1091930", null, "Jefferson Shelter #3", "235.00", "80", null, "5", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JeffersonShelter3SprayPark.jpg", null ], "Jefferson Park Shelter 3 and Spray Feature", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JeffersonShelter3Playground.jpg", null ], "Jefferson Park Shelter 3 with Playground in Distance", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/ViewJeffersonShelter3.jpg", null ], "View of Jefferson Park Shelter 3", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JeffersonParkShelterGrassyArea.jpg", null ], "Jefferson Park Shelter 3 with Grassy Area", [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Jefferson.pdf", null ], null, "63801" ]
+, [ 382, "52C3B37F-5C66-4A23-9536-462AB78FBD9A", 382, 1552604625, "1091930", 1552604625, "1091930", null, "John C. Little, Sr. Park Shelter #1", "160.00", "40", null, "2", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JohnCLittleShelter1and2.JPG", null ], "Shelter 1 on right side, Shelter 2 on left", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JohnCLittleShelter1withPlayground.JPG", null ], "Shelter 1 and playground", [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/JohnCLittle.pdf", null ], null, "63870" ]
+, [ 383, "349B8913-B90D-4B27-93F6-49F4703D4EA4", 383, 1552604625, "1091930", 1552604625, "1091930", null, "Judkins Park and Playfield Shelter #1", "185.00", "150", "11", "3", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JudkinsShelter.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JudkinsTables1-7.jpg", null ], "Tables 1-7", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/JudkinsTables8-11.jpg", null ], "Tables 8-11", [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Judkins.pdf", null ], null, "63873" ]
+, [ 384, "E2987DB9-4564-4B83-8DDF-B5C4EB274345", 384, 1552604625, "1091930", 1552604625, "1091930", null, "Woodland Park Shelter #3", "135.00", "140", "12", "1", null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland3-1.jpg", null ], null, [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland3-2.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland1-3.pdf", null ], null, "64025" ]
+, [ 385, "7364C234-E032-4E0E-890B-83E4FC720A78", 385, 1552604625, "1091930", 1552604625, "1091930", null, "Woodland Park Shelter #4", "135.00", "50", "5", "1", "Partial", [ "http://www.seattle.gov/images/Departments/ParksAndRecreation/Reserve/Picnic/woodland4-1.jpg", null ], null, [ null, null ], null, [ null, null ], null, [ null, null ], null, [ "http://www.seattle.gov//Documents/Departments/ParksAndRecreation/Reserve/Picnic/Woodland4-7.pdf", null ], null, "64025" ]
+ ]
+}
