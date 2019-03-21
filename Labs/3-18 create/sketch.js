@@ -9,7 +9,7 @@ var jsondataretrive;
 
 function preload(){
 	jsonfilevar = loadJSON("usgovernors.json");
-	
+
 }
 
 
@@ -19,39 +19,31 @@ function setup() {
 
 	console.log(jsonfilevar);
 	new GeneralJSONArrayLister();
-	let jsondataretrive = ( );
+//	let jsondataretrive = ( );
 }
 
 function draw (){
-	
-	
-	
-	
-	
+
+
+
+
+
 }
 
 
 function GeneralJSONArrayLister(){
 	for(var i = 0; i < 50; i++){
-		
-		
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
+
+
 	}
-	
-	
-	
-	
+
+
+
+
 }
-
-
-
-
-
-
-
-
