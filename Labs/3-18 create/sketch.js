@@ -4,6 +4,11 @@ var jsonfilevar;
 var jsonarrayobject;
 var jsondataretrive;
 
+//mouse vars only for certain code--- remove if unused
+var mousexvalue;
+var mouseyvalue;
+
+
 
 //let preloadobject = []
 
@@ -23,12 +28,17 @@ function setup() {
 }
 
 function draw (){
-
-
-
-
+let mousexvalue = mouseX;
+let mouseyvalue =mouseY;
+console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
 
 }
+
+//implement bargraph function
+//bargraph highlight function with mouseover (within constraints)
+
+
+
 
 
 function GeneralJSONArrayLister(){
