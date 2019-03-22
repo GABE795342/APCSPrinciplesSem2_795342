@@ -38,6 +38,9 @@ console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
 //bargraph highlight function with mouseover (within constraints)
 
 
+//governor json values???
+//party, decade of birth, year sworn in, religion, 
+
 
 
 
