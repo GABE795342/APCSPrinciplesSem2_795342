@@ -63,7 +63,7 @@ console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
 
 
 function GeneralJSONArrayLister(){
-	for(var i = 0; i < 50; i++){
+	for(var i = 0; i < 50; i++){//for loop increments 50x, one for each state
 
 
 
