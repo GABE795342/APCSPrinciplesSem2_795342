@@ -44,6 +44,24 @@ console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
 
 
 
+
+/* Ancorage Dog JSON
+
+
+
+//dog name popularity function/chart
+//bar graph function
+//y axis = number of dogs
+//x axis = descending number from highest/most popular name
+
+//likely too difficult to involve 4089 different bars on graph, data will form exponential function-shaped
+//not to be done 
+*/
+
+
+
+
+
 function GeneralJSONArrayLister(){
 	for(var i = 0; i < 50; i++){
 
