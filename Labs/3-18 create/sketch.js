@@ -1,5 +1,5 @@
 // current people in space JSON http://api.open-notify.org/astros.json
-
+                                       
 var jsonfilevar;
 var jsonarrayobject;
 var jsondataretrive;
@@ -31,6 +31,7 @@ function draw (){
 let mousexvalue = mouseX;
 let mouseyvalue =mouseY;
 console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
+	//console.log(jsonfilevar);
 
 }
 
@@ -41,11 +42,10 @@ console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
 //governor json values???
 //party, decade of birth, year sworn in, religion, 
 
-
-
-
-
-/* Ancorage Dog JSON
+                        
+                     
+                                            
+/* Anchorage Alaska Dog JSON
 
 
 
