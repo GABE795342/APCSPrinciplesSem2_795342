@@ -21,6 +21,12 @@ function preload(){
 
 
 function setup() {
+    var cnv = createCanvas(800, 800);
+    cnv.position((windowWidth-width)/2, 30);
+    background(200);
+
+
+
 
 	console.log(jsonfilevar);
 	new GeneralJSONArrayLister();
@@ -32,7 +38,19 @@ let mousexvalue = mouseX;
 let mouseyvalue =mouseY;
 console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
 	//console.log(jsonfilevar);
-
+	stroke(0);
+	strokeWeight(5);
+	line(145, 50, 145, 750);
+	line(145, 750, 745, 750);
+	stroke(255);
+	strokeWeight(3);
+	line(145, 50, 145, 750);
+	line(145, 750, 750, 750);
+	rect(150,50,340,50);
+	
+	//text key for function
+	
+	
 }
 
 //implement bargraph function

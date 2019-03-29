@@ -5,3 +5,9 @@
 //count up categories 
 //(ie religion, sex, ethnicity, party)
 //
+
+
+
+
+
+//function for bar graph
