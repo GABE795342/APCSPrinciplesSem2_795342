@@ -34,9 +34,15 @@ function setup() {
 }
 
 function draw (){
-let mousexvalue = mouseX;
-let mouseyvalue =mouseY;
-console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
+	
+	
+	//mouse console log function
+//let mousexvalue = mouseX;
+//let mouseyvalue =mouseY;
+//console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
+
+
+
 	//console.log(jsonfilevar);
 	stroke(0);
 	strokeWeight(5);
@@ -48,6 +54,7 @@ console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
 	line(145, 750, 750, 750);
 	rect(150,50,340,50);
 	
+	rect(150,100,240,100);
 	//text key for function
 	
 	
