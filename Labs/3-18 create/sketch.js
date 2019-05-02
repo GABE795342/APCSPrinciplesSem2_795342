@@ -1,20 +1,19 @@
 // current people in space JSON http://api.open-notify.org/astros.json
                                        
 var jsonfilevar;
+var data;
+var StateGovernors;
 var jsonarrayobject;
 var jsondataretrive;
+var republicancount; //number of Republican governors
+var democratcount; //number of Democrat governors
+var i;
 
-//mouse vars only for certain code--- remove if unused
-var mousexvalue;
-var mouseyvalue;
 
-     
-
-//let preloadobject = []
 
 function preload(){
-	jsonfilevar = loadJSON("usgovernors.json");
-
+	data = loadJSON("usgovernors.json");
+	//StateGovernors = loadJSON("usgovernors.json");
 }
 
 
@@ -28,78 +27,35 @@ function setup() {
 
 
 
-	console.log(jsonfilevar);
+	console.log(data);
 	new GeneralJSONArrayLister();
 //	let jsondataretrive = ( );
 }
 
-function draw (){
-	
-	
-	//mouse console log function
-//let mousexvalue = mouseX;
-//let mouseyvalue =mouseY;
-//console.log("xvalue",mousexvalue,"yvalue",mouseyvalue);
-
-
-
-	//console.log(jsonfilevar);
-	stroke(0);
-	strokeWeight(5);
-	line(145, 50, 145, 750);
-	line(145, 750, 745, 750);
-	stroke(255);
-	strokeWeight(3);
-	line(145, 50, 145, 750);
-	line(145, 750, 750, 750);
-	rect(150,50,340,50);
-	
-	rect(150,100,240,100);
-	//text key for function
-	
-	
+function BarGraph(sequencenumber, valuenumber){
+	rect((150),50,xvaluenumber,50)
 }
 
-//implement bargraph function
-//bargraph highlight function with mouseover (within constraints)
-
-
-//governor json values???
-//party, decade of birth, year sworn in, religion, 
-
-                        
-                     
-                                            
-/* Anchorage Alaska Dog JSON
-
-
-
-//dog name popularity function/chart
-//bar graph function
-//y axis = number of dogs
-//x axis = descending number from highest/most popular name
-
-//likely too difficult to involve 4089 different bars on graph, data will form exponential function-shaped
-//not to be done 
-*/
-
-                  
-
-
-
 function GeneralJSONArrayLister(){
-	for(var i = 0; i < 50; i++){//for loop increments 50x, one for each state
-
-
-
-
-
-
-
+	var republicancount = 0; 
+	var democratcount = 0; 
+	
+	for(var i = 1; i < 51; i++){   //for loop increments 50x, one for each state
+		if (data.StateGovernors[i].party = "republican") {
+			republicancount++;
+			//console.log(republicancount);
+		} else {
+		
+		democratcount++;
+		//console.log(democratcount);
+		}
+		
+	
+	
 
 	}
-
-
+	console.log(republicancount)
+	console.log(democratcount);
 
 
 }

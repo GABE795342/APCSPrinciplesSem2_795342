@@ -1,4 +1,6 @@
-[
+{
+	"StateGovernors":[
+
     {
         "state_name": "Alabama",
         "state_name_slug": "alabama",
@@ -2249,4 +2251,5 @@
         "twitter_url": "https://twitter.com/mark_gordon_wy",
         "photo_url": "https://cdn.civil.services/us-governors/headshots/512x512/mark-gordon.jpg"
     }
-]
+	]
+}
