@@ -1,4 +1,4 @@
-var jsonfilevar;
+var javafilevar;
 var StateGovernors;
 //var jsondataretrive;
 var republicancount; //number of Republican governors
@@ -7,9 +7,12 @@ var i;
 
 
 
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects 
+//reference for javascript objects
+
 
 function preload(){
-	jsonfilevar = loadJSON("usgovernors.json");
+	javafilevar = loadJSON("usgovernors.js");
 	//StateGovernors = loadJSON("usgovernors.json");
 
 
@@ -20,7 +23,7 @@ function setup() {
   //  var cnv = createCanvas(800, 800);
   //  cnv.position((windowWidth-width)/2, 30);
   //  background(200);
-	console.log(jsonfilevar);
+	console.log(javafilevar);
 	new GeneralJSONArrayLister();
 //	let jsondataretrive = ( );
 }
@@ -34,7 +37,7 @@ function GeneralJSONArrayLister(){
 	var democratcount = 0;
 
 	for(var i = 0; i < 50; i++){   //for loop increments 50x, one for each state
-		if (jsonfilevar.StateGovernors[i].party = "republican") {
+		if (javafilevar.StateGovernors[i].party = "republican") {
 			republicancount++;
 			//console.log(republicancount);
 		}
