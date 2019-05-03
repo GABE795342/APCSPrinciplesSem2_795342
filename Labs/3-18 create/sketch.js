@@ -221,7 +221,6 @@ function setup() {
   //  cnv.position((windowWidth-width)/2, 30);
   //  background(200);
   console.log("State Gubernatorial Office DEMOCRAT V. REPUBLICAN Counting Program");
-  console.log("Console should display the array followed by Alaska Object");
   console.log(StateGovernors);
   console.log(StateGovernors[1]);
   new GeneralArrayLister();
