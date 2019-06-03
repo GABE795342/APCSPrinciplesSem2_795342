@@ -2,6 +2,18 @@
 <html>
 <head>
 <style>
+.button {
+  background-color: #ffff00;
+  border: none;
+  color: red;
+  padding: 25px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
 html {
 
 	background-image: url(giphy.gif);
@@ -20,10 +32,37 @@ html {
 </head>
 <body>
 
+<audio id="myAudio">
+  <source src="horn.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
 <h1><mark>ETLIN ZONE</mark></h1>
-<p><mark>welcome to the etlin zone.</mark></p>
-<p><mark>cool links!</mark></p>
+<p><mark>welcome to the comp sci Homepage.</mark></p>
+<p><mark>please choose a menu below.</mark></p>
+
+
+<mark><a href="index.html">dome home</a></mark>
+<button onclick="playAudio()" type="button">chonk</button>
+<a href="index2.html" class="button">dope zone</a>
+<a href="index3.html" class="button">Political </a>
+<a href="index4.html" class="button">cool gif </a>
+<h1><mark>cool links to other websites!</mark></h1>
 <a href="http://www.rts.rs/page/sport/ci/story/128/ostali-sportovi/3540981/srbija-je-ponovo-prvak-sveta-u-kuglanju.html"><font size="+4"><mark>Србија</mark></font></a><img src="srbija.png" alt="srbija" width="300" height="300">
+
+
+
+<a href="https://www.who.int/tobacco/en/atlas2.pdf" class="button">american history</a>
+
+
+<a href="http://www.google.com" class="button">googol</a>
+
+
+
+
+
 
 
 <p>
@@ -33,7 +72,16 @@ click on the image!
 </a>
 </p>
 
+<script>
+var x = document.getElementById("myAudio"); 
+
+function playAudio() { 
+  x.play(); 
+} 
+</script>
+
 
 
 </body>
+
 </html>
